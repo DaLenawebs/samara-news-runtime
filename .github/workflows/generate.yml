@@ -1,0 +1,132 @@
+name: Generate news queue
+
+# ПУБЛИЧНЫЙ репозиторий: только очередь и картинки. Код берётся из приватного
+# DaLenawebs/dsh-workspace по секрету CODE_TOKEN во временный news-samara/bot
+# (.gitignore). Запускается Cloudflare-воркером в 21:00 и 07:00 по Самаре.
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Дата выпуска (ГГГГ-ММ-ДД), пусто = вычислить по времени'
+        required: false
+      part:
+        description: 'Часть: evening (на завтра), morning (сегодня 14:30–23:30), full (весь день)'
+        type: choice
+        options: [evening, morning, full, auto]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-news
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install bot code (private repo)
+        uses: actions/checkout@v4
+        with:
+          repository: DaLenawebs/dsh-workspace
+          token: ${{ secrets.CODE_TOKEN }}
+          path: _code
+
+      - name: Prepare working copy
+        run: |
+          mkdir -p news-samara/bot news-samara/state
+          cp -R _code/news-samara/bot/. news-samara/bot/
+          cp -R _code/news-samara/certs news-samara/certs
+          rm -rf _code
+
+      - name: Prepare config
+        run: |
+          echo "${{ secrets.MAX_BOT_TOKEN }}" > "$RUNNER_TEMP/max-bot-token.txt"
+          node -e "const fs=require('fs');const t=process.env.RUNNER_TEMP;const w=process.env.GITHUB_WORKSPACE;fs.writeFileSync(t+'/config.json',JSON.stringify({chatId:-80128864591927,tokenFile:t+'/max-bot-token.txt',caFile:w+'/news-samara/certs/russian_trusted_root_ca.pem',queueDir:w+'/news-samara/queue',stateFile:w+'/news-samara/state/state.json',hashFile:w+'/news-samara/state/sent-hashes.json',tickSeconds:15,catchUpMinutes:240,maxAttempts:3,withImages:true,signature:'',timeZone:'Europe/Samara',imageSearchProxy:'https://samara-news-cron.soft-field-7692.workers.dev/img'}))"
+
+      - name: Decide date and part
+        id: plan
+        env:
+          IN_DATE: ${{ inputs.date }}
+          IN_PART: ${{ inputs.part }}
+        run: |
+          DATE="$IN_DATE"
+          PART="$IN_PART"
+          TODAY=$(TZ=Europe/Samara date +%F)
+          TOMORROW=$(TZ=Europe/Samara date -d '+1 day' +%F)
+          if [ -z "$PART" ] || [ "$PART" = "auto" ]; then
+            if [ "$(TZ=Europe/Samara date +%H)" -ge 15 ]; then PART=evening; else PART=morning; fi
+          fi
+          if [ -z "$DATE" ]; then
+            if [ "$PART" = "evening" ]; then DATE="$TOMORROW"; else DATE="$TODAY"; fi
+          fi
+          if [ "$PART" = "morning" ]; then
+            CNT=$(node -e "try{const q=require('./news-samara/queue/$DATE.json');console.log((q.posts||[]).length)}catch(e){console.log(0)}")
+            if [ "$CNT" -lt 10 ]; then PART=full; fi
+          fi
+          echo "date=$DATE" >> "$GITHUB_OUTPUT"
+          echo "part=$PART" >> "$GITHUB_OUTPUT"
+          echo "Сборка: $DATE / $PART"
+
+      - name: Generate queue
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          PUBLISHER_CONFIG: ${{ runner.temp }}/config.json
+          NODE_EXTRA_CA_CERTS: ${{ github.workspace }}/news-samara/certs/russian_trusted_root_ca.pem
+        run: |
+          node news-samara/bot/gen.js "${{ steps.plan.outputs.date }}" --part "${{ steps.plan.outputs.part }}" --no-images 2>&1 | tee gen.log
+
+      - name: Fill images
+        id: images
+        continue-on-error: true
+        env:
+          PUBLISHER_CONFIG: ${{ runner.temp }}/config.json
+          NODE_EXTRA_CA_CERTS: ${{ github.workspace }}/news-samara/certs/russian_trusted_root_ca.pem
+        run: |
+          node news-samara/bot/fill-images.js "${{ steps.plan.outputs.date }}" 2>&1 | tee images.log
+          OK=$(grep -c ' OK ' images.log || true)
+          NONE=$(grep -c ' NONE ' images.log || true)
+          echo "ok=$OK" >> "$GITHUB_OUTPUT"
+          echo "none=$NONE" >> "$GITHUB_OUTPUT"
+
+      - name: Notify result
+        if: always()
+        continue-on-error: true
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID }}
+        run: |
+          node news-samara/bot/tg.js send "Очередь на ${{ steps.plan.outputs.date }} (${{ steps.plan.outputs.part }}) собрана. С картинками: ${{ steps.images.outputs.ok || 0 }}, без картинки: ${{ steps.images.outputs.none || 0 }}." || true
+
+      - name: Commit and push queue
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add -A news-samara/queue news-samara/output
+          if git diff --cached --quiet; then
+            echo "нет изменений"
+            exit 0
+          fi
+          git commit -m "generate ${{ steps.plan.outputs.date }} ${{ steps.plan.outputs.part }}"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || true
+            if git push; then
+              echo "очередь отправлена"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::не удалось отправить очередь"
+          exit 1

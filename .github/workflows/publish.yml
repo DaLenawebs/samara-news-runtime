@@ -1,0 +1,85 @@
+name: Publish news to MAX
+
+# ПУБЛИЧНЫЙ репозиторий: только очередь и картинки, кода здесь нет.
+# Код бота лежит в приватном DaLenawebs/dsh-workspace и подтягивается на время
+# запуска по секрету CODE_TOKEN, во временный каталог news-samara/bot (он в .gitignore).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-news
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install bot code (private repo)
+        uses: actions/checkout@v4
+        with:
+          repository: DaLenawebs/dsh-workspace
+          token: ${{ secrets.CODE_TOKEN }}
+          path: _code
+
+      - name: Prepare working copy
+        run: |
+          mkdir -p news-samara/bot news-samara/state "$RUNNER_TEMP/max"
+          cp -R _code/news-samara/bot/. news-samara/bot/
+          cp -R _code/news-samara/certs news-samara/certs
+          rm -rf _code
+
+      - name: Prepare config
+        run: |
+          echo "${{ secrets.MAX_BOT_TOKEN }}" > "$RUNNER_TEMP/max-bot-token.txt"
+          node -e "const fs=require('fs');const t=process.env.RUNNER_TEMP;const w=process.env.GITHUB_WORKSPACE;fs.writeFileSync(t+'/config.json',JSON.stringify({chatId:-80128864591927,tokenFile:t+'/max-bot-token.txt',caFile:w+'/news-samara/certs/russian_trusted_root_ca.pem',queueDir:w+'/news-samara/queue',stateFile:w+'/news-samara/state/state.json',hashFile:w+'/news-samara/state/sent-hashes.json',tickSeconds:15,catchUpMinutes:240,maxAttempts:3,withImages:true,signature:'',timeZone:'Europe/Samara',imageSearchProxy:'https://samara-news-cron.soft-field-7692.workers.dev/img'}))"
+
+      - name: Publish due posts
+        env:
+          NODE_EXTRA_CA_CERTS: ${{ github.workspace }}/news-samara/certs/russian_trusted_root_ca.pem
+        run: |
+          PUBLISHER_CONFIG="$RUNNER_TEMP/config.json" node news-samara/bot/publisher.js --once
+
+      - name: Telegram admin poll
+        if: always()
+        continue-on-error: true
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID }}
+        run: |
+          node news-samara/bot/tg.js poll || true
+
+      - name: Save state and queue
+        if: always()
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add -A news-samara || true
+          git status --short | head -20
+          if git diff --cached --quiet; then
+            echo "no state changes"
+            exit 0
+          fi
+          git commit -m "publish state $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main || true
+            if git push; then
+              echo "state pushed"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::could not push state"
+          exit 1
