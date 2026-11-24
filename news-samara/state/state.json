@@ -13,7 +13,8 @@
     "2b723bb34848037dbda9ab318396207a": "AYCBlWa5ndxnd-fLLZ4ZhALnUclDHpneuvGG7H4KlBwbtOTu28T4m397e03aVDq1ghW8ikCA0dru9pCVaCyIM-iWfJqtsp9XGgw9Qf8V9A2kPKVFoEJEWeoODE2_uQvrib7LjRr3b3kDEa5HDUSLoqymKrMet3LOP8F8RojAkF_nzpk",
     "11e79a6b0d2fcad06f638626292bcbfc": "AYCBlWa5ndxnd-fLLZ4ZPPIiD14RykPFJRQ661b5qDXbDE3prf3Ob3y1ZS6mvumQlNUX8B1tnbK_siTVYFJrNgxFlYt6HzxczUG7fnDbHUeI5KOspP2e9yctrojUYkx-KwwbUFHaDI_QVpTWJzoBiaeX8d2yJVmgDZ-X9bmme31w0XM",
     "87c551584bcd17aa497fe0e988281b08": "AYCBlWa5ndxnd-fLLZ4Z6VjFy6AF6KjylV1ziitiUPhKsogRSL3TvPR4lXzKcCIk7t6D4A_EQMt1WhQGBamVuyMCMPKqRl_b74xXdqq4T1mgLycsadVZjCAHUU0gRjrF5Atf_1YFRN6nO3nvpmBFjpi7Vt3FamlP8FmxsXpfbTeFJHs",
-    "b709e1618016fe0e5fccfd23b8e22170": "AX-VZrmd3Gd358stnhkTNelWjxHNwdW_EC_huA-AOzbdg02EW-2eKNCCXvM8FdyXnysMiQcD8hmf-fqRhynf9HP1FBPyHvqQyXkJR-iWeWV0osl_H5WHXP_MuePj0d1BvftGEPntQz2yKeCuOdP9FW7ndc_HqeUtAVrcMhvdXg8"
+    "b709e1618016fe0e5fccfd23b8e22170": "AX-VZrmd3Gd358stnhkTNelWjxHNwdW_EC_huA-AOzbdg02EW-2eKNCCXvM8FdyXnysMiQcD8hmf-fqRhynf9HP1FBPyHvqQyXkJR-iWeWV0osl_H5WHXP_MuePj0d1BvftGEPntQz2yKeCuOdP9FW7ndc_HqeUtAVrcMhvdXg8",
+    "f9b8a21e4a2deed4b60e6ae90f082768": "AYCJlWa5ndxnd-fLLZ4Z0YQLFRXbGDDTt6ExZCWJ_VJSBmXh-P2fQaDAw6nvKMUFWxgfiAiUolSC169ZE2rErnS1LM1geQ0O64bIj2j05w9x2oecRFeCG52XCDGh1TUMGeuso5Noe-A2IPMiGXlMG6oPgKlrYVYECCjNbxjMvtfh9qWG5N9w1mCjzQ"
   },
   "noImage": {
     "5d215aa5510a4b4443277c56611d599d": true,
@@ -276,7 +277,8 @@
       "https://st.volga.news/image/w1300/h900/max/a714198c-b918-4eb5-8234-016901c912c6.jpg",
       "https://aif-s3.aif.ru/images/048/741/b9b19bcfd84519184d1c14a4cece898c.webp",
       "https://regionsamara.ru/wp-content/uploads/2026/08/002319f7f4cebea7e5d465d294691360.jpg",
-      "https://api.riamo.multiadminka.ru/get_resized/sUI9sussJFHni0WO3_UJMQuKPYo=/1920x1080/filters:rs(fill-down):format(webp)/YXJ0aWNsZXMvaW1hZ2UvMjAxOS8xL2QyL2JjL3Rvcy5qcGc.webp"
+      "https://api.riamo.multiadminka.ru/get_resized/sUI9sussJFHni0WO3_UJMQuKPYo=/1920x1080/filters:rs(fill-down):format(webp)/YXJ0aWNsZXMvaW1hZ2UvMjAxOS8xL2QyL2JjL3Rvcy5qcGc.webp",
+      "https://investinsamara.ru/upload/iblock/83b/ajmpnzc40wycauzcnw0gq6g103h7h8bg.JPG"
     ],
     "hashes": [
       "b15a575fed285a6532b5ec871534cd13115aaf1f",
@@ -529,7 +531,8 @@
       "669a51df14ade6878272ae5f9b349fb51c01863f",
       "f53eaefd2c12d511ccfb44c5a36bbd354f488447",
       "11b80b82436f0eff3afcea49cbd14b48287c23b2",
-      "0f42fb50efa7acd274b54a9f43e32ceb67765124"
+      "0f42fb50efa7acd274b54a9f43e32ceb67765124",
+      "31b1cc80906d34e54cf7e026937948502278c235"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
