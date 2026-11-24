@@ -101,6 +101,15 @@ jobs:
           echo "ok=$OK" >> "$GITHUB_OUTPUT"
           echo "none=$NONE" >> "$GITHUB_OUTPUT"
 
+      - name: Send image review to Telegram
+        if: always()
+        continue-on-error: true
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_ADMIN_ID: ${{ secrets.TG_ADMIN_ID }}
+        run: |
+          node news-samara/bot/review-to-tg.js "${{ steps.plan.outputs.date }}" --part "${{ steps.plan.outputs.part }}" || true
+
       - name: Notify result
         if: always()
         continue-on-error: true
