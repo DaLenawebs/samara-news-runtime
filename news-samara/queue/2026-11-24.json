@@ -79,7 +79,8 @@
       "imageType": "illustration",
       "imageQuery": "иллюстрация ДТП автобус грузовик",
       "imageSite": "",
-      "skipImage": true
+      "imageUrl": "https://aif-s3.aif.ru/images/048/748/ea770c14c69c186daa916a270405bea0.webp",
+      "imageFile": "news-samara/output/2026-11-24/img/2026-11-24-0930.jpg"
     },
     {
       "time": "10:30",
@@ -105,7 +106,8 @@
       "imageType": "illustration",
       "imageQuery": "иллюстрация адвокат деньги задержание",
       "imageSite": "",
-      "skipImage": true
+      "imageUrl": "https://ramkizakona.ru/wp-content/uploads/2025/08/portrait-woman-judge-international-day-women-judges-scaled.jpg",
+      "imageFile": "news-samara/output/2026-11-24/img/2026-11-24-1100.jpg"
     },
     {
       "time": "11:30",
@@ -169,7 +171,8 @@
       "imageType": "organization",
       "imageQuery": "УФНС Самарской области здание",
       "imageSite": "nalog.gov.ru",
-      "skipImage": true
+      "imageUrl": "https://a1.drive-data.ru/V4AAAgPdnuA-1920.jpg",
+      "imageFile": "news-samara/output/2026-11-24/img/2026-11-24-1330.jpg"
     },
     {
       "time": "14:00",
