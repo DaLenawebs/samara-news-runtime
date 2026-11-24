@@ -12,7 +12,8 @@
     "49db2f7f9dbfa73a4680ec91c1a7e22e": "AYCBlWa5ndxnd-fLLZ4ZOtm_KGPG8CKr_-7l2OHzU6-61rA1y5h5nGPQun4aCe-1vVgJAof-A6CobJvCXhB8PzIxPQelqUrpNsh_yq3il4OLpsdiWrmE7vnSd2f2Ub21Zh3eFDy7T6rOngyDpbSKr5y1lT6pTwqgvlo4b6dIO6i5rL8",
     "2b723bb34848037dbda9ab318396207a": "AYCBlWa5ndxnd-fLLZ4ZhALnUclDHpneuvGG7H4KlBwbtOTu28T4m397e03aVDq1ghW8ikCA0dru9pCVaCyIM-iWfJqtsp9XGgw9Qf8V9A2kPKVFoEJEWeoODE2_uQvrib7LjRr3b3kDEa5HDUSLoqymKrMet3LOP8F8RojAkF_nzpk",
     "11e79a6b0d2fcad06f638626292bcbfc": "AYCBlWa5ndxnd-fLLZ4ZPPIiD14RykPFJRQ661b5qDXbDE3prf3Ob3y1ZS6mvumQlNUX8B1tnbK_siTVYFJrNgxFlYt6HzxczUG7fnDbHUeI5KOspP2e9yctrojUYkx-KwwbUFHaDI_QVpTWJzoBiaeX8d2yJVmgDZ-X9bmme31w0XM",
-    "87c551584bcd17aa497fe0e988281b08": "AYCBlWa5ndxnd-fLLZ4Z6VjFy6AF6KjylV1ziitiUPhKsogRSL3TvPR4lXzKcCIk7t6D4A_EQMt1WhQGBamVuyMCMPKqRl_b74xXdqq4T1mgLycsadVZjCAHUU0gRjrF5Atf_1YFRN6nO3nvpmBFjpi7Vt3FamlP8FmxsXpfbTeFJHs"
+    "87c551584bcd17aa497fe0e988281b08": "AYCBlWa5ndxnd-fLLZ4Z6VjFy6AF6KjylV1ziitiUPhKsogRSL3TvPR4lXzKcCIk7t6D4A_EQMt1WhQGBamVuyMCMPKqRl_b74xXdqq4T1mgLycsadVZjCAHUU0gRjrF5Atf_1YFRN6nO3nvpmBFjpi7Vt3FamlP8FmxsXpfbTeFJHs",
+    "b709e1618016fe0e5fccfd23b8e22170": "AX-VZrmd3Gd358stnhkTNelWjxHNwdW_EC_huA-AOzbdg02EW-2eKNCCXvM8FdyXnysMiQcD8hmf-fqRhynf9HP1FBPyHvqQyXkJR-iWeWV0osl_H5WHXP_MuePj0d1BvftGEPntQz2yKeCuOdP9FW7ndc_HqeUtAVrcMhvdXg8"
   },
   "noImage": {
     "5d215aa5510a4b4443277c56611d599d": true,
@@ -274,7 +275,8 @@
       "https://aif-s3.aif.ru/images/046/043/27d78259d7432eb0c202d9dd73b3f966.webp",
       "https://st.volga.news/image/w1300/h900/max/a714198c-b918-4eb5-8234-016901c912c6.jpg",
       "https://aif-s3.aif.ru/images/048/741/b9b19bcfd84519184d1c14a4cece898c.webp",
-      "https://regionsamara.ru/wp-content/uploads/2026/08/002319f7f4cebea7e5d465d294691360.jpg"
+      "https://regionsamara.ru/wp-content/uploads/2026/08/002319f7f4cebea7e5d465d294691360.jpg",
+      "https://api.riamo.multiadminka.ru/get_resized/sUI9sussJFHni0WO3_UJMQuKPYo=/1920x1080/filters:rs(fill-down):format(webp)/YXJ0aWNsZXMvaW1hZ2UvMjAxOS8xL2QyL2JjL3Rvcy5qcGc.webp"
     ],
     "hashes": [
       "b15a575fed285a6532b5ec871534cd13115aaf1f",
@@ -526,7 +528,8 @@
       "de97366e4ea4085dea136055a8d751aebad3d065",
       "669a51df14ade6878272ae5f9b349fb51c01863f",
       "f53eaefd2c12d511ccfb44c5a36bbd354f488447",
-      "11b80b82436f0eff3afcea49cbd14b48287c23b2"
+      "11b80b82436f0eff3afcea49cbd14b48287c23b2",
+      "0f42fb50efa7acd274b54a9f43e32ceb67765124"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
