@@ -3,7 +3,8 @@
   "images": {
     "967fa96f83c2154d241a68791550d3b3": "AYCBlWa5ndxnd-fLLZ4Z64_e3vmb-wgJrHJn-zp5X2Ly1ckmwxjs0MUbOrfOVcgApVqITFRTsjLQqt0nqeJ0AH44BM5mM_h94aTpFEeo_vfYJialaYA6Y2zMQnxOaM9rlrylxjYnmoMb_jPgdLATovlyitnSD27S3CfePezV8pY6X7c",
     "bf0d4bb5201a59412c7ad292add5f55b": "AX-VZrmd3Gd358stnhl3qWgBsCmQEuFbL2PbP9U4VMQlxP1tROOF032P_3qxt_qHqYxPqSjJArZx-m8s9ngdOXP7VwOCxwYG53StCxApagMG6OLaLtkBoL6gjAIS7OxRkd4ICid1RjOT2xPaSzwA2KiOEgDxbhUv7Eld01MemWk",
-    "458d4d43364ba6b3b662e9d07487643e": "AYCMlWa5ndxnd-fLLZ4ZFuP71HOFTVeLA73NSviBmFbOw-YVJKk-tg4LVBgR0pU3pob4WKRYXObHA4dj3P8wd7qoBExLGQdue3mvtflcVv99YpxJ7vFFrUwW3wJKObc7qatsiee9Um05y1gJhPaw_GFKJYK3chJCczevaWYV1tHqhS9rAGQoZTEhFkxfUg"
+    "458d4d43364ba6b3b662e9d07487643e": "AYCMlWa5ndxnd-fLLZ4ZFuP71HOFTVeLA73NSviBmFbOw-YVJKk-tg4LVBgR0pU3pob4WKRYXObHA4dj3P8wd7qoBExLGQdue3mvtflcVv99YpxJ7vFFrUwW3wJKObc7qatsiee9Um05y1gJhPaw_GFKJYK3chJCczevaWYV1tHqhS9rAGQoZTEhFkxfUg",
+    "fbeb8f3ba42347078c6990fb63eac767": "AYCBlWa5ndxnd-fLLZ4ZkcBXrFPs53MTnt2zkioyV8nKFveODrvadeOmo8TXTKXCI2xQa1p1IkDyBQrS5DezPtr8njX52oW47fsQ-aScCUR7Dfbdwp9zOGoEDq9imTtiSivV5V2NgjT7zJi0Ufk3LmceposXXt8zxe2wWuZne2VqXJM"
   },
   "noImage": {
     "5d215aa5510a4b4443277c56611d599d": true
@@ -252,7 +253,8 @@
       "https://aif-s3.aif.ru/images/036/456/05afe36b6de1f6a3ad9d906630c4aea6.jpg",
       "https://aif-s3.aif.ru/images/048/744/225e9ac7f9689bd0f0812c4c14242936.webp",
       "https://rop63.ru/wp-content/uploads/2023/06/145e6203-7cd0-4350-961a-015eca5a64a3-2048x1152.jpg",
-      "https://i4.imageban.ru/out/2022/09/03/85d23896d6d0ff4548e72275243cb2a9.jpg"
+      "https://i4.imageban.ru/out/2022/09/03/85d23896d6d0ff4548e72275243cb2a9.jpg",
+      "https://aif-s3.aif.ru/images/024/035/deeeef029d31627779529088b671e4f9.jpg"
     ],
     "hashes": [
       "b15a575fed285a6532b5ec871534cd13115aaf1f",
@@ -495,7 +497,8 @@
       "272f6c65432947a102eaea844fa89c0c4c0dc8d9",
       "3b9a55fa0fe6fb17c92e8eab001974be7bb89a34",
       "e101acde15f525762d7a00eaab52ba70dc2e70e3",
-      "5cb5e47026e95bd0bfdc35e0343f6879a01cb417"
+      "5cb5e47026e95bd0bfdc35e0343f6879a01cb417",
+      "72ce9eab7e217bf7dab4f88cd8312a4c9d8b053e"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
