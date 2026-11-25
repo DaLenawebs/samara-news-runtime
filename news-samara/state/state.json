@@ -37,14 +37,14 @@
     "6b974c9ad1b517827a6988544390229c": "AYCBlWa5ndxnd-fLLZ4ZX6bWYmImXIug46Fjpiscg32u-_XmMpL58AH96x1DuBGanISG0NR2Ocv-m9QPA2mws0wrTPlMS_on7JBGrYWkch-gI7RiA-GnO6j4-lnj6N1ACDxZp_lTqs7mPmjKMLKrglzkGJ1dR-XjulhgtPxUs81EvOU",
     "7de664f5fe8975b89bcd489e95c45980": "AYCBlWa5ndxnd-fLLZ4Z5mMV1LKsnCleA--BLhvvRgM-CzBidY2KB5oZzRtiMlVGGQNk6TTYgkHVtPdzTSAfb0aQFwJgWxh7m_J4nuvk5vPVofkOyYCAxly-Xky7yMkDGXr40qOp9tIc3pZTyBVmODh197kBf5gTlOZBDQ-TIG_bnII",
     "aa59df9bc0b7891643794eec4af24036": "AXSVZrmd3Gd358stnhmJ0h6VLRBay4bAI5GQ6FcV7HzQqtRB1PUM1Y7vhicDCLfFlNeblHe9M-GtECYwTRfSP9NUHkbJT-VIkJ7Wj_HEILR3kmDH1AJ8e2AQzvIk-XqCIa2G7_VFlWFtlLVXkZn6Qe17NbUO",
-    "43d37d3eb426061b57d52a1795b561c5": "AYCHlWa5ndxnd-fLLZ4ZWAFZA-k86CTgNGCNaj6HmRJcWmISDRVZ1IAonn2aisnCrBYyF7IjWDPzfKCXLUmGAzqQbkFspiUusr-Yq59VvMHSL1TjhrPs9tsH2kU_DvJmuWvuA9TUgdPQE7Gw_9SAfa8G9F9xJII79JOzhmbaJbfhadaArejI7UY"
+    "43d37d3eb426061b57d52a1795b561c5": "AYCHlWa5ndxnd-fLLZ4ZWAFZA-k86CTgNGCNaj6HmRJcWmISDRVZ1IAonn2aisnCrBYyF7IjWDPzfKCXLUmGAzqQbkFspiUusr-Yq59VvMHSL1TjhrPs9tsH2kU_DvJmuWvuA9TUgdPQE7Gw_9SAfa8G9F9xJII79JOzhmbaJbfhadaArejI7UY",
+    "82b5c98f0c0e8a00df47cfceca1aa03c": "AYCBlWa5ndxnd-fLLZ4ZKyfYQKJ2aA1N0ND69192bATTX3eeGiZ6sW7xXyG1fZdVoUPjtq3wTeTzG_AAMcBpC1PIv6JmwblAnbG_vqfvWtaptk8NVj6cZlvhraYj35HjbIUqAogHgjZ8uDukluVpCe6nqpgVteyRwZtfQCuEA6Jez3Y"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://images.wallpaperscraft.ru/image/single/doroga_razmetka_svetofory_167544_1990x2004.jpg",
       "https://centersoveta.ru/wp-content/uploads/2019/01/vzyskat-ushherb-s-vinovnika-dtp-2019.jpeg",
       "https://schukino.mos.ru/image-12-12-23-10-55.jpeg",
       "https://chusokrug.ru/upload/iblock/1bd/nfy8sm2eihwsiel2i5lix907vdl8b62b.jpg",
@@ -343,10 +343,10 @@
       "https://aif-s3.aif.ru/images/047/485/b97fadc93993f398376bace4cf814d26.webp",
       "https://www.uvildy.ru/upload/iblock/9d4/9d4af8fb37be605e761d4648d1bd6cae.jpg",
       "https://cbr.ru/common/images/share-1.jpg",
-      "https://cdn.radiosputnik.ru/images/07e8/05/07/1944364569_0:152:3194:1948_1920x1080_80_0_0_c9f08b7de4ce8c7a6d77889f89fa50e0.jpg"
+      "https://cdn.radiosputnik.ru/images/07e8/05/07/1944364569_0:152:3194:1948_1920x1080_80_0_0_c9f08b7de4ce8c7a6d77889f89fa50e0.jpg",
+      "https://vts-samara.ru/assets/gallery/90/932.jpg"
     ],
     "hashes": [
-      "7d0831ce5c7534e72ac957e96b9ab42eba143172",
       "e45bddee334ff2a656c258c3c84c1b9acfce634e",
       "7e210616724ce36ab05833624f21717d6ec0c052",
       "5f879c309074eb6868c626124a51070bdd985e11",
@@ -645,7 +645,8 @@
       "7a47fcf1ccb025396ae6adfb4267e30e2caf0d42",
       "ab116dc9326920ded813f5c01122a36bdd7dd584",
       "87fb2b40e36e3eab56d1d4682321d2b62bfa7643",
-      "f5a013675d6eb3e8de80de9c27e8996631e603f6"
+      "f5a013675d6eb3e8de80de9c27e8996631e603f6",
+      "ad67f0f9ec8d38f0c9ffa2e73ad51321012782e3"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
