@@ -41,14 +41,14 @@
     "82b5c98f0c0e8a00df47cfceca1aa03c": "AYCBlWa5ndxnd-fLLZ4ZKyfYQKJ2aA1N0ND69192bATTX3eeGiZ6sW7xXyG1fZdVoUPjtq3wTeTzG_AAMcBpC1PIv6JmwblAnbG_vqfvWtaptk8NVj6cZlvhraYj35HjbIUqAogHgjZ8uDukluVpCe6nqpgVteyRwZtfQCuEA6Jez3Y",
     "09ce5cf79fdc068842f6b1cdfb22ccc2": "AXSVZrmd3Gd358stnhkARlE_MVTD6eJ8TsfdV7PI5Hy-CjLbeazmtLU0xomH0j8hjQH0-poQyUJBkFm6eqx_1Ur8cwruvnDH6Ou-jBoP5yyav8frDo7PGWEtBcm8jh-Q_Zk-8eiA0JbmScUl2AAq9u4qgta-",
     "83d4944b0f8b747f19b32fa8fce0755d": "AYCBlWa5ndxnd-fLLZ4Z5BnOjHnYbjSZqvMiT_zrZaGBre8X97rsxwJQGxKyo-uGFF0RhQ2cINW7lAiHAAPmEvMohbwxibJYEcy7QC5zDJpbUFn_Q_APQ7ZX6zd1UrK2payUIGuEdBnNCZO0Js5kbvxnN-c6dtC0kgfMrPEsLmJthqA",
-    "e795e5e3e7a710b34b35239c17951e8e": "AYCBlWa5ndxnd-fLLZ4Zswfj_ZXjpVIXXJ5WA3efuE8HTDGIpgtYJMVmHFwS_YifwZAO2g839YbLXMBxfm4v7iJwCWZ7l1HyJXDXgyyHgb8KOsWIXRbyzV8wkVWdgOWwF9ZkNGY9eejeYh9MpmnhDaVgKkx7n_GrZHCkUgJ9HdmwV2M"
+    "e795e5e3e7a710b34b35239c17951e8e": "AYCBlWa5ndxnd-fLLZ4Zswfj_ZXjpVIXXJ5WA3efuE8HTDGIpgtYJMVmHFwS_YifwZAO2g839YbLXMBxfm4v7iJwCWZ7l1HyJXDXgyyHgb8KOsWIXRbyzV8wkVWdgOWwF9ZkNGY9eejeYh9MpmnhDaVgKkx7n_GrZHCkUgJ9HdmwV2M",
+    "df3f4285c3d12e67eb4622ab74adf59d": "AYCBlWa5ndxnd-fLLZ4Zqrr_rmcsaR5quZQaFFITi0VnmhZdDgfr11UxRaId4Pu-ut9ljw4wOtyVFzKVxrit6eiXl_bkGrWIxCNPcgr8UwzTnQjenn_KErbDhcHtdmvBGzTqTtj7AeMA88SI6vhTxSC9H4GzEJXfd-BX9Fy7Iu4mh1Y"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aif-s3.aif.ru/images/027/926/0f0aa95d8e9456452989c1f4630f7647.jpg",
       "https://grata34.ru/wp-content/uploads/2022/01/operational-funding-scaled.jpg",
       "https://oboz.info/wp-content/uploads/2026/11/Trifonov-Andrej1-vk.com-trifonovlife-350x250.jpg",
       "https://static.life.ru/ip/unsafe/rs:fit:1200:/q:98/sh:0.5/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNi84LzEwLzUxNjM0NTk5ODA3MC45MTQ4LmpwZw==.webp",
@@ -347,10 +347,10 @@
       "https://vts-samara.ru/assets/gallery/90/932.jpg",
       "https://vrachnadomu.ru/upload/iblock/8e2/sdtpx01591rv7xaxc6psn3p0p0mai4mq.jpeg",
       "https://news-samara.ru/img/20261124/16268a17f756f8e2be57aece50162750_o.jpg",
-      "https://samarasuper.ru/wp-content/uploads/2017/05/18-Dom-spetsialistov-skver.jpg"
+      "https://samarasuper.ru/wp-content/uploads/2017/05/18-Dom-spetsialistov-skver.jpg",
+      "https://komunavolge.ru/assets/uploads/gide/2022/april/nochsamaraunaberezhnoy/SVA03203.jpg"
     ],
     "hashes": [
-      "1e885bda043461abe474d3c8486f94fb099ba672",
       "098b45d37841784fdb749ffded952d4151075f86",
       "378ac024a8b92562bef741857dadadd959ee7947",
       "34d91809b7dc4f685232ca1c7e3ce6c2ad77d8b7",
@@ -649,7 +649,8 @@
       "ad67f0f9ec8d38f0c9ffa2e73ad51321012782e3",
       "e8a452a1229fb90bc419bb6deafcf0133f84bf60",
       "192be1125d9a74d0f59d087b3f8bd5a4db09b948",
-      "c8982cec1517d6195cf28e34b8cc0b78d75e90e3"
+      "c8982cec1517d6195cf28e34b8cc0b78d75e90e3",
+      "5b9c66d6e3eb7eb09f09cb957dd6f3ca262fe0f5"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
