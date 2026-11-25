@@ -1,42 +1,9 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "images": {
-    "967fa96f83c2154d241a68791550d3b3": "AYCBlWa5ndxnd-fLLZ4Z64_e3vmb-wgJrHJn-zp5X2Ly1ckmwxjs0MUbOrfOVcgApVqITFRTsjLQqt0nqeJ0AH44BM5mM_h94aTpFEeo_vfYJialaYA6Y2zMQnxOaM9rlrylxjYnmoMb_jPgdLATovlyitnSD27S3CfePezV8pY6X7c",
-    "bf0d4bb5201a59412c7ad292add5f55b": "AX-VZrmd3Gd358stnhl3qWgBsCmQEuFbL2PbP9U4VMQlxP1tROOF032P_3qxt_qHqYxPqSjJArZx-m8s9ngdOXP7VwOCxwYG53StCxApagMG6OLaLtkBoL6gjAIS7OxRkd4ICid1RjOT2xPaSzwA2KiOEgDxbhUv7Eld01MemWk",
-    "458d4d43364ba6b3b662e9d07487643e": "AYCMlWa5ndxnd-fLLZ4ZFuP71HOFTVeLA73NSviBmFbOw-YVJKk-tg4LVBgR0pU3pob4WKRYXObHA4dj3P8wd7qoBExLGQdue3mvtflcVv99YpxJ7vFFrUwW3wJKObc7qatsiee9Um05y1gJhPaw_GFKJYK3chJCczevaWYV1tHqhS9rAGQoZTEhFkxfUg",
-    "fbeb8f3ba42347078c6990fb63eac767": "AYCBlWa5ndxnd-fLLZ4ZkcBXrFPs53MTnt2zkioyV8nKFveODrvadeOmo8TXTKXCI2xQa1p1IkDyBQrS5DezPtr8njX52oW47fsQ-aScCUR7Dfbdwp9zOGoEDq9imTtiSivV5V2NgjT7zJi0Ufk3LmceposXXt8zxe2wWuZne2VqXJM",
-    "9440bd552b4e985a1cec884950429721": "AX-VZrmd3Gd358stnhlPkfVPg5dezof12oU0ZvrAjSL-C08pOMkBlYASNRPh6m-uWn-qhFZOLX8Kt0ghdA_1Id3XRASE4hr-En8PM5g8QJ_2oa5X5sO-SFTtry24QIzy7IFMyf1_noKtk3V4vWmoRAUhafcEauZKKJwBEtMhp8s",
-    "93ba749f79f21f6b2527b59a30b11ab7": "AYCBlWa5ndxnd-fLLZ4Zy4SVGqzFKLr_0FzXxyhq5GfHYyZUCGkQEqjjX4K1MrmskJJn0tDCFzuaNNVdPwVi4m6tRMM-nDL7r7YzNPu5g83K8fASJtunA3Hy-fF4wOrMFdRGtRbYIAwxFD7TYoGemAivUK47KteRUUCDt6irwoaR-_A",
-    "7702578da4d13f1cc124556907301ca0": "AXSVZrmd3Gd358stnhkNMFrP4DX2I9fKynWaH3HzfxypnEw--tTQtC-AwOmLAVmPOHS6UPF3KPJzfL85zwo0fBxg0XTZj77H7JTepzXzUygubC2oApR_j34GysCyVzhHUdvLGYChokD6VgMabnjn4QGlxMRI",
-    "97a5da6951ea978c774999891cc6b6a4": "AYCDlWa5ndxnd-fLLZ4ZPFZtMLWVm-rGWrUiFaJSoTy61mPuxBCJSoArC_fPlBmoBHPHPlTdmme2djF3OskLJF7SmGm5iY2DqUfEztGqad9QRURYjX6o6Sp_TL5-xCdCWfMET-d7MKhIuujBrFmZI3CIAfdg_z_obHDWxvSP5eCeFqFK_g",
-    "49db2f7f9dbfa73a4680ec91c1a7e22e": "AYCBlWa5ndxnd-fLLZ4ZOtm_KGPG8CKr_-7l2OHzU6-61rA1y5h5nGPQun4aCe-1vVgJAof-A6CobJvCXhB8PzIxPQelqUrpNsh_yq3il4OLpsdiWrmE7vnSd2f2Ub21Zh3eFDy7T6rOngyDpbSKr5y1lT6pTwqgvlo4b6dIO6i5rL8",
-    "2b723bb34848037dbda9ab318396207a": "AYCBlWa5ndxnd-fLLZ4ZhALnUclDHpneuvGG7H4KlBwbtOTu28T4m397e03aVDq1ghW8ikCA0dru9pCVaCyIM-iWfJqtsp9XGgw9Qf8V9A2kPKVFoEJEWeoODE2_uQvrib7LjRr3b3kDEa5HDUSLoqymKrMet3LOP8F8RojAkF_nzpk",
-    "11e79a6b0d2fcad06f638626292bcbfc": "AYCBlWa5ndxnd-fLLZ4ZPPIiD14RykPFJRQ661b5qDXbDE3prf3Ob3y1ZS6mvumQlNUX8B1tnbK_siTVYFJrNgxFlYt6HzxczUG7fnDbHUeI5KOspP2e9yctrojUYkx-KwwbUFHaDI_QVpTWJzoBiaeX8d2yJVmgDZ-X9bmme31w0XM",
-    "87c551584bcd17aa497fe0e988281b08": "AYCBlWa5ndxnd-fLLZ4Z6VjFy6AF6KjylV1ziitiUPhKsogRSL3TvPR4lXzKcCIk7t6D4A_EQMt1WhQGBamVuyMCMPKqRl_b74xXdqq4T1mgLycsadVZjCAHUU0gRjrF5Atf_1YFRN6nO3nvpmBFjpi7Vt3FamlP8FmxsXpfbTeFJHs",
-    "b709e1618016fe0e5fccfd23b8e22170": "AX-VZrmd3Gd358stnhkTNelWjxHNwdW_EC_huA-AOzbdg02EW-2eKNCCXvM8FdyXnysMiQcD8hmf-fqRhynf9HP1FBPyHvqQyXkJR-iWeWV0osl_H5WHXP_MuePj0d1BvftGEPntQz2yKeCuOdP9FW7ndc_HqeUtAVrcMhvdXg8",
-    "f9b8a21e4a2deed4b60e6ae90f082768": "AYCJlWa5ndxnd-fLLZ4Z0YQLFRXbGDDTt6ExZCWJ_VJSBmXh-P2fQaDAw6nvKMUFWxgfiAiUolSC169ZE2rErnS1LM1geQ0O64bIj2j05w9x2oecRFeCG52XCDGh1TUMGeuso5Noe-A2IPMiGXlMG6oPgKlrYVYECCjNbxjMvtfh9qWG5N9w1mCjzQ",
-    "dad94311b4434d82405c0f5f20269d87": "AYCBlWa5ndxnd-fLLZ4Z6tLQkD2pSbG5cV6vXeG9GZHN_xfPZojEMWojkDMtz-uY8Y79vGhw0w5vqTSiMk95plO4QxPUSce7lXrRaGi5lcgHrDO5NOv7YLGlHMIH8wy50ixdrMeIQcGr3iIu2jJmKTFVXApRdtf5YxR_r5YzSX-ph5A",
-    "45ef0b304a42a51d96d270b950ef3157": "AX-VZrmd3Gd358stnhmyV-wEUZwEw4YSVXHnCR8ACzeinH534zK-g4-xsYywG-5jmyzcX_zJJH_-AqaYlo2SE5-DSF6Cn6FRPJb382lNH3mGgj-lKX2aJTlhDf0BxS6rRSQPrJOp7UtLSbw-GLzrWPCqVoblWL0jo9ntC_UtTms",
-    "53b438daeed5a732f8d55aadb5f4e2cd": "AX-VZrmd3Gd358stnhm-JxfeyMa66dAbaKK2PMEa-GTnQa5gMBT72eDP3PTamKCoGfASwL087K52pfTCW0ef355GQqvus9dd7fKlkSKlzbBzzLSn74T8vrd4yyIAe1jGpfxp9y_Q6r6MlPu5WwwsZr4l6qetQa0oR4q63p9khOM",
-    "ba92398608a1fc969297ecedaa567c1a": "AYCBlWa5ndxnd-fLLZ4Z69OI_R4Koz6EeWMNDkiWg67riPvKJzwQhSuSRPnVfdi1Y9y-zM8y5JQzv6yS_4365DwFVnHcR5aPe36Pg-HwzeqPHGycYKYzA9Ud6BNLDgoV6NqXur04m_Hzk76IbCpi6GWGd5zWsbnsFviePXksl3JDBqE",
-    "d874a608d5e92ee6c533df2e2ad7f74c": "AYCJlWa5ndxnd-fLLZ4ZktGxPsysAc7FtmOYaTgpCpBsiwQ4eAUS1SQd4sfjrLf4gcyVJT-nEaMFQudxH2wrNYv8GXvjPG6k57N5MAVLGjheB-yWAlSd77kMOmvsOAyylOyWWp4q7cw-ebM04zZCwDZi7n7OCWxak80GLoCGDlOHq8D3Iqt5y_8qQA",
-    "fa721f7e484285179d69bc5a39ba08fe": "AX2VZrmd3Gd358stnhl5r_zl_e_L86e6ZXFB0IgNwQSEnfsKpdstJArTQQR7oCEytMKzwZmXvto4f-jTi53cKrT8-OItw93OvuXDaodPbeT_Lbi8Bc7fZK0Vr3mpm8C7SAMM9RRJ7PjvG1xCFlR-CDvvXJMv-4_OqKbenJDM",
-    "880fbecfc31c88df578c9792567546a3": "AYCBlWa5ndxnd-fLLZ4Z_a2WrMtrPXCJfLu-a9c-2jlmKFOEfN-A_jOWZa3NTO_LLFkmpeNr2zobjDFMbrVoENVd1HQqvertDmfXHQTGqPqRhNeEbWgcO0vcshtSPJ86TQtXIfXObwdbpkKsxXKYV-qn1L1LXllPv5LNYMVELXgMTjk",
-    "485d806d23aaf632b80a4539df02f2a4": "AYCBlWa5ndxnd-fLLZ4ZvvCTPk9Hds_DtOE7FHUMZdTamOY60U2uXGqvwdsnPncgrk-5H7GJhNoL3iLxwxXS6vIHXfba8IxgtU5YC9DqNCSe0jPHSPvpVS7zZQcxqL8nUYgn7JtgpLkSUmnWznNQjgddy25pY9grCSQFiwI-vmb8Axo",
-    "3947d898ed5ec77c821a06c315a5cacc": "AX-VZrmd3Gd358stnhmL_QEisQ-WbuBgxdr_25Jnfg5YCzV4ixC2ae8BLdhLsMBF5rIanwoNwui-J5UwJLHov4lTzIINxUTcuIEzTxJx5dx2plJBwfsbX7_lgWQ2J44bM4fBg-tR7nFag3ChpJ0_anj7hWF_mLjiaiIlmGjdRfI",
-    "3ac9a1c44deea6c60726de1e964f88b2": "AYCBlWa5ndxnd-fLLZ4ZFFtN2XFT3ooa8g18rnZYkLsLFUg_JMDvaEOXNZiRNZNZJvtqMmqcIGCNrKeIpdO6T_BnIeAjD_tgL58eR35DmNshCCON61umR8xH5w0QvA6KrpRPkBmzjGBjkiZ-qzn2pVCpamGkVkGaL8Cfby008HDUwRM",
-    "e94c912fac35f927955cac13bc858fb8": "AYCBlWa5ndxnd-fLLZ4ZPh7jUScJPSWshK9iZse5r7DRPA79FmG7SZdThpQLOVyPXXnCH9-UYrNiAlG5pwCG1i6OPa8jIXa4AP2AvsVhzxMbbYN8JaI0bE9A03vSrxCyMGixdY3FCOwR7ZdDFrUoAanSFchsqSk4px5di6j82ip9F3U",
-    "be7a28a2c118cd0a7ccd742b31be3ce4": "AYCElWa5ndxnd-fLLZ4ZLeKNRGS5T0-I2kxftIe-MWBiexgFmMqpDK_g0QzKNI7Wk-qfdzCexeJDdFKrQd0i_mxvKDqAiJ5Kc-GX3LeANZMr2f0wtLq_JxQIV_mpZE9RY1TeuLH7vKptQRkSfVTj6p9OwhjVgoWzhm2-nShg--woeHL4aoc",
-    "14756df6c85e71df85881e3ad2f76791": "AYCBlWa5ndxnd-fLLZ4ZeOO4oaZwb4Cc94sjqZmjxMP3F9nlhN_aglfO1xtrRNpvT45w9qIzBpT9zwQsPbhdc8jKfDRe2mdUzqqO4JahTSBF5jau2wM8k1gJENkJTY3JVsaKhLyd8tMXfEjjov9XR4HgaBaQHDcL3pUFXR7LUsneziM"
+    "13f4f588d47a8a7c5fd88cd70510f9e0": "AYCDlWa5ndxnd-fLLZ4ZtIPGp_DYVF0Ji8vFaNkeEntfbgu11Cuj6Si3VgCXYe5gnpBwj-qC_94LlSG_Y0sDBBVvzWXgiglaGwX_SUxWbCE3DXtCMoT-FLoJaRHbeawB_19IZ8VUhkChiMK36Lduzgk4PmbgyzZYgb042-woaaqRCdy8oQ"
   },
-  "noImage": {
-    "5d215aa5510a4b4443277c56611d599d": true,
-    "fffa65a459763403e74ca276cfe95430": true,
-    "779ff72f7bc29c9cdd0e40a2b1e4fa48": true,
-    "3ae1df1260330795dc766cef29c4ef5d": true,
-    "7529936c0f872351f51b1f3cb929159e": true,
-    "4f7c2bd07de53d469774da6807d7a289": true
-  },
+  "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
@@ -305,7 +272,8 @@
       "https://aif-s3.aif.ru/images/048/748/32bce60783a0e740e775b8b56224be19.webp",
       "https://southklad.ru/wp-content/gallery/vidy-samary/1_samara.-sobornaja-ulica.jpg",
       "https://cdn.am.imgsputniknews.ru/img/07ea/0b/17/109682870_538:0:2586:2048_1920x0_80_0_0_b49446e17068e5c52903cb76efdc4a2c.jpg",
-      "https://fototerra.ru/photo/Russia/Samara/large-113256.jpg"
+      "https://fototerra.ru/photo/Russia/Samara/large-113256.jpg",
+      "https://img2.fedpress.ru/thumbs/800/2020/10/2354/4a2933fc5a37b1353724d2851cefd730.jpg"
     ],
     "hashes": [
       "b15a575fed285a6532b5ec871534cd13115aaf1f",
@@ -572,7 +540,8 @@
       "9199f85b92ad170d311375ad647485368e070150",
       "bb33671213c14770c64024cc3b8ebb01ca5591bd",
       "defa9c2ce796aa80725c8d227e9b66a707263835",
-      "098cf8aed2ab532f0277053cf51eecd9c2e9f320"
+      "098cf8aed2ab532f0277053cf51eecd9c2e9f320",
+      "dd037bf14e72d3311455d664502cc2cb779b9876"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
