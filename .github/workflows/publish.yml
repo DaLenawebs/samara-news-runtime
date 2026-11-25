@@ -46,6 +46,14 @@ jobs:
           echo "${{ secrets.MAX_BOT_TOKEN }}" > "$RUNNER_TEMP/max-bot-token.txt"
           node -e "const fs=require('fs');const t=process.env.RUNNER_TEMP;const w=process.env.GITHUB_WORKSPACE;fs.writeFileSync(t+'/config.json',JSON.stringify({chatId:-80128864591927,tokenFile:t+'/max-bot-token.txt',caFile:w+'/news-samara/certs/russian_trusted_root_ca.pem',queueDir:w+'/news-samara/queue',stateFile:w+'/news-samara/state/state.json',hashFile:w+'/news-samara/state/sent-hashes.json',tickSeconds:15,catchUpMinutes:240,maxAttempts:3,withImages:true,signature:'',timeZone:'Europe/Samara',imageSearchProxy:'https://samara-news-cron.soft-field-7692.workers.dev/img'}))"
 
+      - name: Check emergency alerts (БПЛА/ракетная опасность)
+        continue-on-error: true
+        env:
+          PUBLISHER_CONFIG: ${{ runner.temp }}/config.json
+          NODE_EXTRA_CA_CERTS: ${{ github.workspace }}/news-samara/certs/russian_trusted_root_ca.pem
+        run: |
+          node news-samara/bot/alerts.js --once 2>&1 | tail -20
+
       - name: Publish due posts
         env:
           NODE_EXTRA_CA_CERTS: ${{ github.workspace }}/news-samara/certs/russian_trusted_root_ca.pem
