@@ -38,14 +38,14 @@
     "7de664f5fe8975b89bcd489e95c45980": "AYCBlWa5ndxnd-fLLZ4Z5mMV1LKsnCleA--BLhvvRgM-CzBidY2KB5oZzRtiMlVGGQNk6TTYgkHVtPdzTSAfb0aQFwJgWxh7m_J4nuvk5vPVofkOyYCAxly-Xky7yMkDGXr40qOp9tIc3pZTyBVmODh197kBf5gTlOZBDQ-TIG_bnII",
     "aa59df9bc0b7891643794eec4af24036": "AXSVZrmd3Gd358stnhmJ0h6VLRBay4bAI5GQ6FcV7HzQqtRB1PUM1Y7vhicDCLfFlNeblHe9M-GtECYwTRfSP9NUHkbJT-VIkJ7Wj_HEILR3kmDH1AJ8e2AQzvIk-XqCIa2G7_VFlWFtlLVXkZn6Qe17NbUO",
     "43d37d3eb426061b57d52a1795b561c5": "AYCHlWa5ndxnd-fLLZ4ZWAFZA-k86CTgNGCNaj6HmRJcWmISDRVZ1IAonn2aisnCrBYyF7IjWDPzfKCXLUmGAzqQbkFspiUusr-Yq59VvMHSL1TjhrPs9tsH2kU_DvJmuWvuA9TUgdPQE7Gw_9SAfa8G9F9xJII79JOzhmbaJbfhadaArejI7UY",
-    "82b5c98f0c0e8a00df47cfceca1aa03c": "AYCBlWa5ndxnd-fLLZ4ZKyfYQKJ2aA1N0ND69192bATTX3eeGiZ6sW7xXyG1fZdVoUPjtq3wTeTzG_AAMcBpC1PIv6JmwblAnbG_vqfvWtaptk8NVj6cZlvhraYj35HjbIUqAogHgjZ8uDukluVpCe6nqpgVteyRwZtfQCuEA6Jez3Y"
+    "82b5c98f0c0e8a00df47cfceca1aa03c": "AYCBlWa5ndxnd-fLLZ4ZKyfYQKJ2aA1N0ND69192bATTX3eeGiZ6sW7xXyG1fZdVoUPjtq3wTeTzG_AAMcBpC1PIv6JmwblAnbG_vqfvWtaptk8NVj6cZlvhraYj35HjbIUqAogHgjZ8uDukluVpCe6nqpgVteyRwZtfQCuEA6Jez3Y",
+    "09ce5cf79fdc068842f6b1cdfb22ccc2": "AXSVZrmd3Gd358stnhkARlE_MVTD6eJ8TsfdV7PI5Hy-CjLbeazmtLU0xomH0j8hjQH0-poQyUJBkFm6eqx_1Ur8cwruvnDH6Ou-jBoP5yyav8frDo7PGWEtBcm8jh-Q_Zk-8eiA0JbmScUl2AAq9u4qgta-"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://centersoveta.ru/wp-content/uploads/2019/01/vzyskat-ushherb-s-vinovnika-dtp-2019.jpeg",
       "https://schukino.mos.ru/image-12-12-23-10-55.jpeg",
       "https://chusokrug.ru/upload/iblock/1bd/nfy8sm2eihwsiel2i5lix907vdl8b62b.jpg",
       "https://aif-s3.aif.ru/images/027/926/0f0aa95d8e9456452989c1f4630f7647.jpg",
@@ -344,10 +344,10 @@
       "https://www.uvildy.ru/upload/iblock/9d4/9d4af8fb37be605e761d4648d1bd6cae.jpg",
       "https://cbr.ru/common/images/share-1.jpg",
       "https://cdn.radiosputnik.ru/images/07e8/05/07/1944364569_0:152:3194:1948_1920x1080_80_0_0_c9f08b7de4ce8c7a6d77889f89fa50e0.jpg",
-      "https://vts-samara.ru/assets/gallery/90/932.jpg"
+      "https://vts-samara.ru/assets/gallery/90/932.jpg",
+      "https://vrachnadomu.ru/upload/iblock/8e2/sdtpx01591rv7xaxc6psn3p0p0mai4mq.jpeg"
     ],
     "hashes": [
-      "e45bddee334ff2a656c258c3c84c1b9acfce634e",
       "7e210616724ce36ab05833624f21717d6ec0c052",
       "5f879c309074eb6868c626124a51070bdd985e11",
       "1e885bda043461abe474d3c8486f94fb099ba672",
@@ -646,7 +646,8 @@
       "ab116dc9326920ded813f5c01122a36bdd7dd584",
       "87fb2b40e36e3eab56d1d4682321d2b62bfa7643",
       "f5a013675d6eb3e8de80de9c27e8996631e603f6",
-      "ad67f0f9ec8d38f0c9ffa2e73ad51321012782e3"
+      "ad67f0f9ec8d38f0c9ffa2e73ad51321012782e3",
+      "e8a452a1229fb90bc419bb6deafcf0133f84bf60"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
