@@ -28,14 +28,14 @@
     "98384b339f78cd02b426233e74b52c0b": "AXSVZrmd3Gd358stnhkUVr7sV5lwZxe4bKZLAu8mTmndVqygLav5bsYiosgVHaMPj01Oaox2bdKGnkJ96rgUVOkjMMRLDPANdwenI2etUxNa_BqGsWvEUBtY0TgptopWiw1Ll2uwXxKEEDmrWA_9Hc11jZ5U",
     "f4170208d55a3cc5c43c77c157c50419": "AYCBlWa5ndxnd-fLLZ4ZNn62t7BUky-So9yywZ_ZU6RF1b42xD5n46CK4icKl2JKqXlwDKfXSAvvHnwlTA1FF5Lpfi2q0-1jNJoUhicQh6H2oWl5xCJptP4qN8Jcud4jmKBEeoeOHwJYKYlUrwbRqixh5a4LKZYkzm4rqCcCfmRJzdw",
     "9e479a8e6f22cd71ab24224a9bfbdc4a": "AYCBlWa5ndxnd-fLLZ4ZA-LCY4d8vagNq-tgt-wHLBDc-SUkr5dTp0iZjFdqPUeSbrKey65SG6c86J7wjBgX4fKC8MHrctskIejv1HzPZt0dBPo0vvjH9nJTZxysRC3j1NHijoWIJVXW7rBZamv6yRC3aoTEk5sm0_fJZLRxgUJH28w",
-    "34ecb2c9de74524df655c93a0138dc1f": "AYCBlWa5ndxnd-fLLZ4ZxdJfBFKEBtLAqNNSyQfF7tVvrpKZEVW2uAeCSY2HHJJZSrtDp7tBqO6fJEKxn9Ed1yi6nUA9mxbNM1kVh7Qn0oojYK38aijhJctY907S3-EItxpLclUFcfHr_OKH5FUAa5WEaG-V5njC7eHROQcLuDsvFHU"
+    "34ecb2c9de74524df655c93a0138dc1f": "AYCBlWa5ndxnd-fLLZ4ZxdJfBFKEBtLAqNNSyQfF7tVvrpKZEVW2uAeCSY2HHJJZSrtDp7tBqO6fJEKxn9Ed1yi6nUA9mxbNM1kVh7Qn0oojYK38aijhJctY907S3-EItxpLclUFcfHr_OKH5FUAa5WEaG-V5njC7eHROQcLuDsvFHU",
+    "bc150438b073b93ca5eb9453e4e88ce5": "AYCBlWa5ndxnd-fLLZ4ZCXxDVdmmAazrpoR3lJ3ZJ2Ij7Yta6I75CUkEe27Eq87VwOv2yyzXnLRNMOIdCQQMestcINnEsz70q3nQZggbfA5dI-kuISBXa-_GlhqpxHdLQeIaOdDWiGxQWm1op4WPLLV9qgGyRSOlM24IUQl5G9YOq-A"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://domsovet.su/upload/432.jpg",
       "https://grozny-inform.ru/LoadedImages/2025/11/12/i-_2__1.jpeg",
       "https://regionsamara.ru/wp-content/uploads/2024/05/collage-5-16.jpg",
       "https://aif-s3.aif.ru/images/031/406/7f7f00fbabfcac4e8ac9af20491a5680.jpg",
@@ -334,10 +334,10 @@
       "https://sun9-69.vkuserphoto.ru/s/v1/ig2/8jV5unGCqNK9IcuqmLYl-W7J1xdC3mxXC5KZERLdLrOqi_dBSfOeJYBZ6bvbm4Ce2HvlodhQIsYNHE9P6APPTeeq.jpg?quality=95&crop=0,102,736,1104&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,736x1104&from=bu&u=Or_54bTDkaq0aFZ9v2Xn1FPVDH5_daLfN5VJywHdE5c&cs=736x0",
       "https://surdocenter63.ru/%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B2%D0%B0.JPG",
       "https://news-samara.ru/img/20261125/98c1552ce7e66efd87dfb48e79f16a28_o.jpg",
-      "https://fototruck.ru/photo/04/59/75/459757.jpg"
+      "https://fototruck.ru/photo/04/59/75/459757.jpg",
+      "https://cdn.7days.ru/pic/ed6/953721/1277145/86.jpg"
     ],
     "hashes": [
-      "d1b4c79a6df8a42ec76137fe35796997bb0fbcb2",
       "2312b6aac00fd233a71b828cf113f0bc257ddf78",
       "3868be294a497d2d8293f86d99eb33f669ac4f7a",
       "ab796830e53f13c6a03607b9b371b65fbefd0c6a",
@@ -636,7 +636,8 @@
       "a067acae6b2708587e95ce535b9190270f1bdd3d",
       "1098d92445da6b8dad17f23d3131ceec8c635f16",
       "8b83286feca08cfdfda6ff0308af3e036aed7cb0",
-      "f597cd52d4933d5576f9585dea7eb0e2023e165d"
+      "f597cd52d4933d5576f9585dea7eb0e2023e165d",
+      "e9aa95e5befbda9e00680169058f0aabec911299"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
