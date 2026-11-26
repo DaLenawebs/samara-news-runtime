@@ -19,14 +19,14 @@
     "a2c3f81a7054e69104c6a5c3cbc3a68e": "AX-VZrmd3Gd358stnhkQOxQOcrAIlYJDMJCgBgUud5z9TzszyJa7rbu6ywdbmOk7YV7oO21YxXMuO2zG333--w2SHlMdWgKR_se-xbWJ7UMSBsR3E2eiU_u5GwBjaBOyIJ2042zFiMBfxS0ZpZr9QgUwKekDpIirEUYRpdbJBSw",
     "b0aa4d0db3c01531e8bfd209a491a413": "AX-VZrmd3Gd358stnhkUbyzumPbJt4TQEFgHQ5LRzN-_789iTP5n1RYv5MOsTLmWsojHmVUVx148Fr_eo15uRXeDvOc25os1RMZfsW8vxcn2wrgo_C3gm07Y27BBBy7Z-zHYljC9JA3CvxoinIdFQKzL3ExQAICgEECkb05G5qM",
     "5bb55e2c0bd1afcb5c79acf7294c006c": "AXSVZrmd3Gd358stnhnmjEx0FJht4YsAgOfwf19pfOkob2RwIpcoT_nUhs4guMBUuFCHmA87nHaO71flWsvmJLGex7g8R0yPpH4q2uXszoablyVdTi39gnj3DCFZh6ljiPI3dHrJIIWCayl5ok4ct4Jfxel8",
-    "37a6898bc31d7c0e572edae5186764b5": "AYCElWa5ndxnd-fLLZ4Z_wCdZMDzwdo6LvK6YympdXuNK4eHS0YIsLEyS2lU8EFSOy_9y1miuhixvt13ZI4upNRPW79MvvDJx7gpNNPz_bHG7ph14Q29CT_8dTEAMide6jl1h83pJTBq7onysyO1t4SOu6gorJLhMWi_vsDa6k5QlVzULSw"
+    "37a6898bc31d7c0e572edae5186764b5": "AYCElWa5ndxnd-fLLZ4Z_wCdZMDzwdo6LvK6YympdXuNK4eHS0YIsLEyS2lU8EFSOy_9y1miuhixvt13ZI4upNRPW79MvvDJx7gpNNPz_bHG7ph14Q29CT_8dTEAMide6jl1h83pJTBq7onysyO1t4SOu6gorJLhMWi_vsDa6k5QlVzULSw",
+    "cee261b424eb05eb1f6ade4081d60336": "AYCBlWa5ndxnd-fLLZ4Znvq6jPrbr39ev_BaTarX-e8BgXuA2dhKRIRpLHgvPAqJ85AYBmfueRGbII0QN5xl1HzPwovdOxxN2uzNXUzqDVWxRDDXvzVCjWYaTIU7gREwEJhj43X9RVm1vLeKH9VfUUv6JPWzEpFwRCwubqOUIQdlPIE"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aif-s3.aif.ru/images/044/754/84c5245a4b94a0d47d1dd48dc9820098.webp",
       "https://274418.selcdn.ru/cv08300-33250f0d-0664-43fc-9dbf-9d89738d114e/uploads/360231/4c732529-f35d-45ad-a0a5-2fe23b576e92.jpg",
       "https://aif-s3.aif.ru/images/036/373/08939b6ef2e5b3132f6323b5ddd31b17.jpg",
       "https://zpravodajstvi24.cz/wp-content/uploads/2021/07/shutterstock_1898750647.jpg",
@@ -325,10 +325,10 @@
       "https://sun9-59.vkuserphoto.ru/wyMyUi0GuCr9cLV2x8cDWPKxY2VZarAMMPisCA/EdDlg11PHrY.jpg",
       "https://s2.stc.all.kpcdn.net/best/samara/test-reaviz-o-medicine/images/tild6636-6132-4362-b566-653766316431__5665.jpg",
       "https://s.101hotelscdn.ru/uploads/image/hotel_image/651236/1300058.jpg",
-      "https://st16.stpulscen.ru/images/product/443/169/243_original.jpg"
+      "https://st16.stpulscen.ru/images/product/443/169/243_original.jpg",
+      "https://kizelovskij-r57.gosweb.gosuslugi.ru/netcat_files/37/45/Pozhar_1__28.jpg"
     ],
     "hashes": [
-      "27c8e818179651ac1f7a5cd7c5100c42e98a6d42",
       "dfc67442d2490d942456cafcc1e412f24b88790e",
       "8c892eb57fcb4529a42b24e4e480cd78bd262beb",
       "ec5d12e54d242afa85f50186209df10ebb066e29",
@@ -627,7 +627,8 @@
       "497148d8302866017a1b2376020333138491a0ef",
       "4faf5591078e6f41014fc720ba2f5006f6943fcb",
       "608031f4a5c7279163cbff0bac40d78ed57e97fc",
-      "378bf6b2329494296f01e8e0e8aba3391298e13d"
+      "378bf6b2329494296f01e8e0e8aba3391298e13d",
+      "ba8ffa0cc19ff86ccedd9260937b8906eb231243"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
