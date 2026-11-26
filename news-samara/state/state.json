@@ -7,14 +7,14 @@
     "384a25b324a91b687878fb6288f65f63": "AYCHlWa5ndxnd-fLLZ4Z8xFN9bmDM_pk05LbvCTnZWl1kJGZDoaaBsUS-dln2pqVXALXNh4uFK1eadF0RvLhQafU7hoyiOQH6ADDH1_noBnNvbO9-I2EcMq6fTFLRYUq95_-1Lq4d5CW6AdPhr2NLW75TK2IcbVVCPuvXYApf4xHRT3aJvbL3H0",
     "4db6da30e1a8dfecbf876437c64eacd1": "AX-VZrmd3Gd358stnhnhN2Od9PffUjjrNsvYp5QMtSehRuu1CkCNVUBqthFOxR7TTyIokA9Azxn8etYr1AU7QoyPBTNWlemdja99-EZaGdAiesEbxJTDQJVoqgIenKtN2oijUlsNL1C4cVXLytpog2kDf8e9OY-wMRFnfAc-QZ0",
     "ddb83dac6f9baad4f9c680c229ebb1e4": "AX-VZrmd3Gd358stnhmLkKMB3-zazMQiBTNATHwPtUUijvqlFKueLTtwsaZhZ1pLDqGtzzj1ijXXnCQRZgEXKcERKjN8rsQKz-8lQLP0pXVBHcKLUbr_fnzfNlO16ipXyntYO78AQGdST5R2gIigOz0StfVKwl-D_xT0qsJL3S4",
-    "5abc69d3b741b659efdcbfd8e427a369": "AYCBlWa5ndxnd-fLLZ4Z0_s3pcv-dwKGvupFeqjLi6CUTGxEC-bs-m-JgEFydYYDPnSTtfiUCM1Q3pN70RETSzdyGZLSv1tHKu3SSUCQhdz3puAuJYYDta6aHoOJhjvOHdLB0h2R24tWRhGk4FuENqjD9prm3TnB8oeqYQJq3F32_i0"
+    "5abc69d3b741b659efdcbfd8e427a369": "AYCBlWa5ndxnd-fLLZ4Z0_s3pcv-dwKGvupFeqjLi6CUTGxEC-bs-m-JgEFydYYDPnSTtfiUCM1Q3pN70RETSzdyGZLSv1tHKu3SSUCQhdz3puAuJYYDta6aHoOJhjvOHdLB0h2R24tWRhGk4FuENqjD9prm3TnB8oeqYQJq3F32_i0",
+    "7482c60d16f42aecb144d376a5eee719": "AYCBlWa5ndxnd-fLLZ4Zt4abRvpN1GXFj7TEoGnUNHp6ugE66an0qi_Rr4r1GRuqnppSoTXExWGo4xdy2zBRa38nz7ntFEOvBZCU0SMfp3kZZP8c5tVx8IC0VYTbWhstyzDU-lxSe4oxfYOKnhSOW3etXf55qjDy6oa9Y1i3MSk7tC4"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://rb.ru/media/upload_tmp/20161105-dsc_8006.jpg",
       "https://samara-news.ru/img/20261116/dad54f544825116911fd461974bfbb26.jpg",
       "https://duskrider.ru/wp-content/uploads/2024/09/samara029.jpg",
       "https://oboz.info/wp-content/uploads/2021/10/photo_2021-10-05_16-00-58.jpg",
@@ -313,10 +313,10 @@
       "https://gazetazaria.ru/media/cache/2024/03/21/c90423976b70c5f483d9e6dfd2ad6ab0-2ae5ce5b66.jpg",
       "https://belgorodskij-r31.gosuslugi.ru/netcat_files/32/115/015.jpg",
       "https://yamal-media.ru/images/insecure/rs:fill-down:1920:1080/aHR0cHM6Ly9zdG9yYWdlLnlhbmRleGNsb3VkLm5ldC95bS1zaXRlcy1zdGF0aWMvNjg2NTFmYjktOTZmLndlYnA.webp",
-      "https://signalmedia.ru/b/c/9420.jpg"
+      "https://signalmedia.ru/b/c/9420.jpg",
+      "https://sportkp.ru/sites/default/files/text-images/2023-09/20230811_gaf_rs74_041_1694526797_1694527009.jpg"
     ],
     "hashes": [
-      "99f603ce56ec1f9caf1331e1f3470900bd232e5f",
       "45d9d3d02ab3f0c2b09f5efa1a0489474c4f7ecf",
       "3b9752846add54f5123d5ab4deace66547e9d1af",
       "c2f0366aa8b340be03142f315cc6faa35c7a94dc",
@@ -615,7 +615,8 @@
       "3bf2591b3945d72cdfa16f9c3a4e3a83179173f1",
       "4705c495cdb651808db849876e48437e31dc9832",
       "87b2321d7e17102f6fd981d678b3e0a35f5df658",
-      "98a8b5e73b3a542842a54edd7a1dbcdd4a91ac51"
+      "98a8b5e73b3a542842a54edd7a1dbcdd4a91ac51",
+      "2a9e91144a5bd08b598d237f1926ce30a6a38544"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
