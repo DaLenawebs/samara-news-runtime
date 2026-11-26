@@ -32,14 +32,14 @@
     "bc150438b073b93ca5eb9453e4e88ce5": "AYCBlWa5ndxnd-fLLZ4ZCXxDVdmmAazrpoR3lJ3ZJ2Ij7Yta6I75CUkEe27Eq87VwOv2yyzXnLRNMOIdCQQMestcINnEsz70q3nQZggbfA5dI-kuISBXa-_GlhqpxHdLQeIaOdDWiGxQWm1op4WPLLV9qgGyRSOlM24IUQl5G9YOq-A",
     "73e40a178c8ac83177ec54c1bc50dde4": "AYCElWa5ndxnd-fLLZ4Z-J7yqQFptss-3650cb9I8KFFuwsE0XZ_iljbeXNa5WZSZlbRMN0mm3qmoqL-J9AJQv32x5uLW1Tb1CjhrTLZCWWlw0N-No8tQ_Qr5HO2OYQf8WzljvS6hzlNEWjvgjwe7T8LZHSua5HpLLTKlT3cmp31UB-BUfI",
     "62d2f184f0572a9ba5b653696a4fb87d": "AXSVZrmd3Gd358stnhlRVEZ_j8CPiE7k0nHQ7soFmcI5Y7dEIjWtEtOux5JOceMNWTJQo44OqtGD8Goq_ieHfEeDyaxwHrtJknT6G4NJ5We7IgNyCVk8orY9YNc8pq3okpHowXsoV59bG57x_u7jyRKoMWNI",
-    "ad3187ca028761893b29625060a455a2": "AXSVZrmd3Gd358stnhmuwh_XVkJhWZuPV5ddRO_AKqw-YV3ip7PRn8o88i1Z1yABsqTHURXJJFzPTwompEdLD6ETI4pKsbbgYL7oESk7SdouaPt7b2xbzLPo22nAc8eQkxDp92FPh1O7t5xLOFLsk4RQ7-L6"
+    "ad3187ca028761893b29625060a455a2": "AXSVZrmd3Gd358stnhmuwh_XVkJhWZuPV5ddRO_AKqw-YV3ip7PRn8o88i1Z1yABsqTHURXJJFzPTwompEdLD6ETI4pKsbbgYL7oESk7SdouaPt7b2xbzLPo22nAc8eQkxDp92FPh1O7t5xLOFLsk4RQ7-L6",
+    "e62ffc89ce8b01b9d4b2b6dfc29aa3bc": "AYCBlWa5ndxnd-fLLZ4ZDMz5WoI1is5gyxYgy43UynC5b7-zeCXnml1obiO6Z2w6W8auw-h-A2h2JHI2Dc3kCo0Rpx_7DcEpGasLCmGhC3kzUi29hKOE5UYVtMCYQw7ubhzPqBssOQjNZ1KGuWpofR4MDEM43R5PQn3Ngtf24E_LdiQ"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://sh7-kaliningrad-r27.gosweb.gosuslugi.ru/netcat_files/156/2613/IMG_0372.JPG",
       "https://cdn5.vedomosti.ru/image/2019/78/17r28z/original-1kpa.jpg",
       "https://aif-s3.aif.ru/images/034/266/e3c6b3740b34d22f6c706eb01d70b20c.jpeg",
       "https://regionsamara.ru/wp-content/uploads/2026/05/e41b33fb601afc3c7d412eb08af7cd0c.webp",
@@ -338,10 +338,10 @@
       "https://cdn.7days.ru/pic/ed6/953721/1277145/86.jpg",
       "https://www.scat-tv.ru/wp-content/uploads/2025/04/IMG_20250418_151748_851.jpg",
       "https://lgz.ru/upload/articles/133/qdy9qmfqb5cncxtqdn6wbcryzu5v1iol.jpg",
-      "https://www.netall.ru/upload/iblock/e9f/e9fa22b70a05ef5f7c0f2a0ab53a3f95.jpg"
+      "https://www.netall.ru/upload/iblock/e9f/e9fa22b70a05ef5f7c0f2a0ab53a3f95.jpg",
+      "https://vesti095.ru/wp-content/uploads/2017/07/IMG-20170704-WA0007.jpg"
     ],
     "hashes": [
-      "9fdba74a294d7f20aff09238faf4d174fc36cf7b",
       "9e6438a47d6b8d3a27dc0ffb07697b97a701f0bb",
       "4f1e78dc9afcd834b52294d595856b65b6710f1d",
       "c1b4f6b1993dc24c8529415dcc61e12ccfcbd043",
@@ -640,7 +640,8 @@
       "e9aa95e5befbda9e00680169058f0aabec911299",
       "d4c886dbc888494806a2f566f1ce86bdb0ccb671",
       "fcc1af631d4803a982f60b7a81a97299a0be9456",
-      "44911a31ae151dd0346bf7df7deb45cac13d89e4"
+      "44911a31ae151dd0346bf7df7deb45cac13d89e4",
+      "393b5b93cbe5b5b29e3d8b779afb8f7bd822964d"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
