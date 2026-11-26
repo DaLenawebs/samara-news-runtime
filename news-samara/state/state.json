@@ -11,14 +11,14 @@
     "7482c60d16f42aecb144d376a5eee719": "AYCBlWa5ndxnd-fLLZ4Zt4abRvpN1GXFj7TEoGnUNHp6ugE66an0qi_Rr4r1GRuqnppSoTXExWGo4xdy2zBRa38nz7ntFEOvBZCU0SMfp3kZZP8c5tVx8IC0VYTbWhstyzDU-lxSe4oxfYOKnhSOW3etXf55qjDy6oa9Y1i3MSk7tC4",
     "639ecbfdc98a1045fc94ef895a56e481": "AYCBlWa5ndxnd-fLLZ4ZBzisrCvMibtbdnovDpnPy6d9ImXq45bZOPormOc1DTeWq6gCObX1VMk3j_Y3peGufCJY9b0FQRiKCXDpcJq5vo3qoZ2_S_Gi6eyuOfdUnv01g-C_VKb8Cb0UR-QOUnv9xZei2-6RJkoXOl7ycItK7iOMeSw",
     "979b0f1e8b2112118058abbb66de0d46": "AYCBlWa5ndxnd-fLLZ4Z78RDuOLSPvgtcE3fDh9Yy0dkk1ymiKpSpIQPzlBVXD8YSayixYyz8fC4vFrQpARNFu3TUOJX20g8gRmd5d6pwSV7-ixrcZ0cGtTchiwlwEpudjaHXei4fRFTXturUMsgxPLkZcT8BYt4XWu3Ijz16tFPDVA",
-    "7e32ecc4b287302137228f27f6e53aa2": "AXSVZrmd3Gd358stnhlwnyAwGOQ5xNzBVRO6UpCrIkUV2zcVxQMICyKMPfsOLnM_0DVkT45mbspjak4_Dh6M3qRWyXCxNnuNyIUv0tR8CLlqEMw7IJar8sd1zcsA1g4r8CXF4S1zDjTKGiH09Y6jO7rOoIb4"
+    "7e32ecc4b287302137228f27f6e53aa2": "AXSVZrmd3Gd358stnhlwnyAwGOQ5xNzBVRO6UpCrIkUV2zcVxQMICyKMPfsOLnM_0DVkT45mbspjak4_Dh6M3qRWyXCxNnuNyIUv0tR8CLlqEMw7IJar8sd1zcsA1g4r8CXF4S1zDjTKGiH09Y6jO7rOoIb4",
+    "0629487978e384379427726d25d85dd3": "AX-VZrmd3Gd358stnhkBnmq735916pWX7G68Qkp9W51Vfc66oVRrEc5HL0VU3bbO_UgHYmc87JabyZBgxM7uBbPsYnywMgyIpDqBmGv1IC_Ln-KqnAWR-e3IGV_F21nOpkLdVrz3aW-Fm7kwKvqNFeNgWLS4KCoM9ikTk2RHKZA"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://www.tourister.ru/images/sp/samara/content/gastronomy/view_rest-6@2x.jpg",
       "https://teatrlegenda.ru/wp-content/uploads/2026/01/empty-theater-stage-scaled.jpg",
       "https://s0.rbk.ru/v6_top_pics/media/img/6/91/755929894040916.jpg",
       "https://cdn.vseinstrumenti.ru/images/goods/spetsodezhda-i-siz/sredstva-individualnoj-zaschity/20717744/2400x1600/216658427.jpg",
@@ -317,10 +317,10 @@
       "https://sportkp.ru/sites/default/files/text-images/2023-09/20230811_gaf_rs74_041_1694526797_1694527009.jpg",
       "https://f78e1a6a-ca4c-458a-b3f0-9f53a2bad2a5.selstorage.ru/2026-06-07/QKARjbajgUpEo3o7.jpeg",
       "https://regionsamara.ru/wp-content/uploads/2026/06/7627194a466c9ecde8420cb1a7712e7e.webp",
-      "https://hozotdel.ru/wa-data/public/photos/18/03/318/318.970.jpg"
+      "https://hozotdel.ru/wa-data/public/photos/18/03/318/318.970.jpg",
+      "https://pic.rtbcdn.ru/video/2025-09-14/54/69/546952154bd94da06702f36f2e813e56.jpg"
     ],
     "hashes": [
-      "9a5f722f436d593913853f7ed740cf6a532c4249",
       "8f659c65f68607aa686461cb229f86d1119a411e",
       "c4bc9fdf24f7559f461473c189272de5843256f3",
       "95af8ec30204a5e075198085aee7d6d01800c0d7",
@@ -619,7 +619,8 @@
       "2a9e91144a5bd08b598d237f1926ce30a6a38544",
       "4db0e625e753eed80e6670e2654131c8a5692500",
       "fa16900841ca0b43130b8db867d08e3eb6510771",
-      "63a0bebb90738e71dfdfa6f8767988bb2ad510ae"
+      "63a0bebb90738e71dfdfa6f8767988bb2ad510ae",
+      "9da310d1767e4dc34eff67dc968b5b11797a08ce"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
