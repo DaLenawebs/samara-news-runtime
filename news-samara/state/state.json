@@ -2,14 +2,14 @@
   "date": "2026-11-26",
   "images": {
     "16ef1007a824555b245ef55ce66099ef": "AYCHlWa5ndxnd-fLLZ4ZrA1Eik-Dk2ul3Ki6aXC9D_m4XEV-PlKDQuc1gFy_2L-jec9gyyPMOo0ny3DWvF1ZRS7gf-Ag3uEbwCC7ZhagyFBWAG83MNJ6ofSKqC5okq3C5qG0nqrZqjc5deF9EEMk5SiAS06ZTMhme-TwTajtuUcA6p1unSr-FKU",
-    "9063bc761b876122a1d6d10dac0bb115": "AYCBlWa5ndxnd-fLLZ4ZGrzIRNy7CAnmczuia5Mjom7qFk46hvKE8ju1kxM0NESj64etbqRUwC2LBo5Gh3M1FI-M--OxKeebH8MU9JsIw28KIgmyFDn0WBO36YZuyQGXCTSvBA6fsLstRokvpqqTcCgpEVO696VFsn9ODNdw93OzECs"
+    "9063bc761b876122a1d6d10dac0bb115": "AYCBlWa5ndxnd-fLLZ4ZGrzIRNy7CAnmczuia5Mjom7qFk46hvKE8ju1kxM0NESj64etbqRUwC2LBo5Gh3M1FI-M--OxKeebH8MU9JsIw28KIgmyFDn0WBO36YZuyQGXCTSvBA6fsLstRokvpqqTcCgpEVO696VFsn9ODNdw93OzECs",
+    "0154dfb6aebd1d145ffc175d63e49bd7": "AYCBlWa5ndxnd-fLLZ4ZclmuKLKXKdiX7GwneTtsokkHMcB_w5z_6fFN7EEgRE560o3JnjcHW-g6azyn2h-HuO3dUcT6m6nuklbsbSAGFjDRz0wGVqvJ8wiD_Tuh1JXmLzVCsL1rGgISjIYGyCF_dDg9Lm86RtshPyLaUcxGRNZ8vP4"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://static.life.ru/ip/unsafe/rs:fit:1200:/q:98/sh:0.5/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNi84LzEwLzUxNjM0NTk5ODA3MC45MTQ4LmpwZw==.webp",
       "https://oboz.info/wp-content/uploads/2026/11/Kazantsev-v-sude-Foto-obedinennaya-press-sluzhba-sudov-Samarskoj-oblasti-350x250.jpg",
       "https://oboz.info/wp-content/uploads/2026/11/krytyj-manezh-minstroy.samregion.ru-350x250.jpg",
       "https://oboz.info/wp-content/uploads/2026/11/Dmitriev-Evgenij-Aleksandrovich_0006-Gorshkov-350x250.jpg",
@@ -308,10 +308,10 @@
       "https://samarasuper.ru/wp-content/uploads/2017/05/18-Dom-spetsialistov-skver.jpg",
       "https://komunavolge.ru/assets/uploads/gide/2022/april/nochsamaraunaberezhnoy/SVA03203.jpg",
       "https://tvsamara.ru/i/00/0022c8e01c4de92000834d22ec6ce640.jpg",
-      "https://aif-s3.aif.ru/images/033/563/610e24cf2e38864146a46eba200bc86a.jpg"
+      "https://aif-s3.aif.ru/images/033/563/610e24cf2e38864146a46eba200bc86a.jpg",
+      "https://static.life.ru/publications/2025/5/4/161676630443.83084.webp"
     ],
     "hashes": [
-      "34d91809b7dc4f685232ca1c7e3ce6c2ad77d8b7",
       "3be68a59608ab34f53728bfdf67b5fd94f5339aa",
       "d50b40cc8c2986d1513b763a3978195cf60509d2",
       "d80b98673676d6424b62e3e2342401bf8743aaca",
@@ -610,7 +610,8 @@
       "c8982cec1517d6195cf28e34b8cc0b78d75e90e3",
       "5b9c66d6e3eb7eb09f09cb957dd6f3ca262fe0f5",
       "195ac596a7d38955f70d5072eee4257230de453a",
-      "c936f07b914685d561432fd5449bbc9ffc32ad83"
+      "c936f07b914685d561432fd5449bbc9ffc32ad83",
+      "5961652f43d7ab339957d2e173a900474c0bff02"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
