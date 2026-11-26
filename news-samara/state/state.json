@@ -29,14 +29,14 @@
     "f4170208d55a3cc5c43c77c157c50419": "AYCBlWa5ndxnd-fLLZ4ZNn62t7BUky-So9yywZ_ZU6RF1b42xD5n46CK4icKl2JKqXlwDKfXSAvvHnwlTA1FF5Lpfi2q0-1jNJoUhicQh6H2oWl5xCJptP4qN8Jcud4jmKBEeoeOHwJYKYlUrwbRqixh5a4LKZYkzm4rqCcCfmRJzdw",
     "9e479a8e6f22cd71ab24224a9bfbdc4a": "AYCBlWa5ndxnd-fLLZ4ZA-LCY4d8vagNq-tgt-wHLBDc-SUkr5dTp0iZjFdqPUeSbrKey65SG6c86J7wjBgX4fKC8MHrctskIejv1HzPZt0dBPo0vvjH9nJTZxysRC3j1NHijoWIJVXW7rBZamv6yRC3aoTEk5sm0_fJZLRxgUJH28w",
     "34ecb2c9de74524df655c93a0138dc1f": "AYCBlWa5ndxnd-fLLZ4ZxdJfBFKEBtLAqNNSyQfF7tVvrpKZEVW2uAeCSY2HHJJZSrtDp7tBqO6fJEKxn9Ed1yi6nUA9mxbNM1kVh7Qn0oojYK38aijhJctY907S3-EItxpLclUFcfHr_OKH5FUAa5WEaG-V5njC7eHROQcLuDsvFHU",
-    "bc150438b073b93ca5eb9453e4e88ce5": "AYCBlWa5ndxnd-fLLZ4ZCXxDVdmmAazrpoR3lJ3ZJ2Ij7Yta6I75CUkEe27Eq87VwOv2yyzXnLRNMOIdCQQMestcINnEsz70q3nQZggbfA5dI-kuISBXa-_GlhqpxHdLQeIaOdDWiGxQWm1op4WPLLV9qgGyRSOlM24IUQl5G9YOq-A"
+    "bc150438b073b93ca5eb9453e4e88ce5": "AYCBlWa5ndxnd-fLLZ4ZCXxDVdmmAazrpoR3lJ3ZJ2Ij7Yta6I75CUkEe27Eq87VwOv2yyzXnLRNMOIdCQQMestcINnEsz70q3nQZggbfA5dI-kuISBXa-_GlhqpxHdLQeIaOdDWiGxQWm1op4WPLLV9qgGyRSOlM24IUQl5G9YOq-A",
+    "73e40a178c8ac83177ec54c1bc50dde4": "AYCElWa5ndxnd-fLLZ4Z-J7yqQFptss-3650cb9I8KFFuwsE0XZ_iljbeXNa5WZSZlbRMN0mm3qmoqL-J9AJQv32x5uLW1Tb1CjhrTLZCWWlw0N-No8tQ_Qr5HO2OYQf8WzljvS6hzlNEWjvgjwe7T8LZHSua5HpLLTKlT3cmp31UB-BUfI"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://grozny-inform.ru/LoadedImages/2025/11/12/i-_2__1.jpeg",
       "https://regionsamara.ru/wp-content/uploads/2024/05/collage-5-16.jpg",
       "https://aif-s3.aif.ru/images/031/406/7f7f00fbabfcac4e8ac9af20491a5680.jpg",
       "https://sh7-kaliningrad-r27.gosweb.gosuslugi.ru/netcat_files/156/2613/IMG_0372.JPG",
@@ -335,10 +335,10 @@
       "https://surdocenter63.ru/%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%BE%D0%B2%D0%B0.JPG",
       "https://news-samara.ru/img/20261125/98c1552ce7e66efd87dfb48e79f16a28_o.jpg",
       "https://fototruck.ru/photo/04/59/75/459757.jpg",
-      "https://cdn.7days.ru/pic/ed6/953721/1277145/86.jpg"
+      "https://cdn.7days.ru/pic/ed6/953721/1277145/86.jpg",
+      "https://www.scat-tv.ru/wp-content/uploads/2025/04/IMG_20250418_151748_851.jpg"
     ],
     "hashes": [
-      "2312b6aac00fd233a71b828cf113f0bc257ddf78",
       "3868be294a497d2d8293f86d99eb33f669ac4f7a",
       "ab796830e53f13c6a03607b9b371b65fbefd0c6a",
       "9fdba74a294d7f20aff09238faf4d174fc36cf7b",
@@ -637,7 +637,8 @@
       "1098d92445da6b8dad17f23d3131ceec8c635f16",
       "8b83286feca08cfdfda6ff0308af3e036aed7cb0",
       "f597cd52d4933d5576f9585dea7eb0e2023e165d",
-      "e9aa95e5befbda9e00680169058f0aabec911299"
+      "e9aa95e5befbda9e00680169058f0aabec911299",
+      "d4c886dbc888494806a2f566f1ce86bdb0ccb671"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
