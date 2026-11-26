@@ -5,14 +5,14 @@
     "9063bc761b876122a1d6d10dac0bb115": "AYCBlWa5ndxnd-fLLZ4ZGrzIRNy7CAnmczuia5Mjom7qFk46hvKE8ju1kxM0NESj64etbqRUwC2LBo5Gh3M1FI-M--OxKeebH8MU9JsIw28KIgmyFDn0WBO36YZuyQGXCTSvBA6fsLstRokvpqqTcCgpEVO696VFsn9ODNdw93OzECs",
     "0154dfb6aebd1d145ffc175d63e49bd7": "AYCBlWa5ndxnd-fLLZ4ZclmuKLKXKdiX7GwneTtsokkHMcB_w5z_6fFN7EEgRE560o3JnjcHW-g6azyn2h-HuO3dUcT6m6nuklbsbSAGFjDRz0wGVqvJ8wiD_Tuh1JXmLzVCsL1rGgISjIYGyCF_dDg9Lm86RtshPyLaUcxGRNZ8vP4",
     "384a25b324a91b687878fb6288f65f63": "AYCHlWa5ndxnd-fLLZ4Z8xFN9bmDM_pk05LbvCTnZWl1kJGZDoaaBsUS-dln2pqVXALXNh4uFK1eadF0RvLhQafU7hoyiOQH6ADDH1_noBnNvbO9-I2EcMq6fTFLRYUq95_-1Lq4d5CW6AdPhr2NLW75TK2IcbVVCPuvXYApf4xHRT3aJvbL3H0",
-    "4db6da30e1a8dfecbf876437c64eacd1": "AX-VZrmd3Gd358stnhnhN2Od9PffUjjrNsvYp5QMtSehRuu1CkCNVUBqthFOxR7TTyIokA9Azxn8etYr1AU7QoyPBTNWlemdja99-EZaGdAiesEbxJTDQJVoqgIenKtN2oijUlsNL1C4cVXLytpog2kDf8e9OY-wMRFnfAc-QZ0"
+    "4db6da30e1a8dfecbf876437c64eacd1": "AX-VZrmd3Gd358stnhnhN2Od9PffUjjrNsvYp5QMtSehRuu1CkCNVUBqthFOxR7TTyIokA9Azxn8etYr1AU7QoyPBTNWlemdja99-EZaGdAiesEbxJTDQJVoqgIenKtN2oijUlsNL1C4cVXLytpog2kDf8e9OY-wMRFnfAc-QZ0",
+    "ddb83dac6f9baad4f9c680c229ebb1e4": "AX-VZrmd3Gd358stnhmLkKMB3-zazMQiBTNATHwPtUUijvqlFKueLTtwsaZhZ1pLDqGtzzj1ijXXnCQRZgEXKcERKjN8rsQKz-8lQLP0pXVBHcKLUbr_fnzfNlO16ipXyntYO78AQGdST5R2gIigOz0StfVKwl-D_xT0qsJL3S4"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://oboz.info/wp-content/uploads/2026/11/Dmitriev-Evgenij-Aleksandrovich_0006-Gorshkov-350x250.jpg",
       "https://oboz.info/wp-content/uploads/2026/11/Zelentsov_KrajKaravaj_IMG_8189-Gorshkov-350x250.jpg",
       "https://rb.ru/media/upload_tmp/20161105-dsc_8006.jpg",
       "https://samara-news.ru/img/20261116/dad54f544825116911fd461974bfbb26.jpg",
@@ -311,10 +311,10 @@
       "https://aif-s3.aif.ru/images/033/563/610e24cf2e38864146a46eba200bc86a.jpg",
       "https://static.life.ru/publications/2025/5/4/161676630443.83084.webp",
       "https://gazetazaria.ru/media/cache/2024/03/21/c90423976b70c5f483d9e6dfd2ad6ab0-2ae5ce5b66.jpg",
-      "https://belgorodskij-r31.gosuslugi.ru/netcat_files/32/115/015.jpg"
+      "https://belgorodskij-r31.gosuslugi.ru/netcat_files/32/115/015.jpg",
+      "https://yamal-media.ru/images/insecure/rs:fill-down:1920:1080/aHR0cHM6Ly9zdG9yYWdlLnlhbmRleGNsb3VkLm5ldC95bS1zaXRlcy1zdGF0aWMvNjg2NTFmYjktOTZmLndlYnA.webp"
     ],
     "hashes": [
-      "d80b98673676d6424b62e3e2342401bf8743aaca",
       "a5c1926a4db85cfdbfe6134531dd1bac9b1eebe6",
       "99f603ce56ec1f9caf1331e1f3470900bd232e5f",
       "45d9d3d02ab3f0c2b09f5efa1a0489474c4f7ecf",
@@ -613,7 +613,8 @@
       "c936f07b914685d561432fd5449bbc9ffc32ad83",
       "5961652f43d7ab339957d2e173a900474c0bff02",
       "3bf2591b3945d72cdfa16f9c3a4e3a83179173f1",
-      "4705c495cdb651808db849876e48437e31dc9832"
+      "4705c495cdb651808db849876e48437e31dc9832",
+      "87b2321d7e17102f6fd981d678b3e0a35f5df658"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
