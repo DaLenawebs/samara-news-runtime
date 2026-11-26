@@ -35,14 +35,14 @@
     "ad3187ca028761893b29625060a455a2": "AXSVZrmd3Gd358stnhmuwh_XVkJhWZuPV5ddRO_AKqw-YV3ip7PRn8o88i1Z1yABsqTHURXJJFzPTwompEdLD6ETI4pKsbbgYL7oESk7SdouaPt7b2xbzLPo22nAc8eQkxDp92FPh1O7t5xLOFLsk4RQ7-L6",
     "e62ffc89ce8b01b9d4b2b6dfc29aa3bc": "AYCBlWa5ndxnd-fLLZ4ZDMz5WoI1is5gyxYgy43UynC5b7-zeCXnml1obiO6Z2w6W8auw-h-A2h2JHI2Dc3kCo0Rpx_7DcEpGasLCmGhC3kzUi29hKOE5UYVtMCYQw7ubhzPqBssOQjNZ1KGuWpofR4MDEM43R5PQn3Ngtf24E_LdiQ",
     "b3c0bfc379d2d3028cb526134b077fec": "AYCBlWa5ndxnd-fLLZ4ZPHuH3ILiibxnw1jqFvqDaB41GMF1uGVj3FsPV28WrD4RiHFKJMLsQsbueBt9Di9QQFp8Jb8gw6DCwf9pQuzKfz6kdu3VkNbEmuGMlO8sI7G46Z2xXN1zG2a_Zic8GTONrhdjS3fvM71EjjuuTxkVK2hJK_E",
-    "ca2117baff5a2e2667fc5bdb85755b01": "AX-VZrmd3Gd358stnhm-hknSipmq50YzJwBoZNmXL6BUAcZs9UfKy7eChQTNmN-HnpUjdECSoTGRfzEmFUtW0fTJQABM8fXUmxKjZ8q8DKyepzBamX27uRtZR5sxxgk9dIOVlEiJ42OQ437F2g5lQ4S5NMHjkWtzupr5WWTGtdI"
+    "ca2117baff5a2e2667fc5bdb85755b01": "AX-VZrmd3Gd358stnhm-hknSipmq50YzJwBoZNmXL6BUAcZs9UfKy7eChQTNmN-HnpUjdECSoTGRfzEmFUtW0fTJQABM8fXUmxKjZ8q8DKyepzBamX27uRtZR5sxxgk9dIOVlEiJ42OQ437F2g5lQ4S5NMHjkWtzupr5WWTGtdI",
+    "15540be7a6600e6cbfcc6b57843bddc0": "AX-VZrmd3Gd358stnhlzPnW9hiJS4Uz5GEk1-ItYPYsL-VM_NPlP2ZaR7Dz_wHSGJ8CfK3Ubd1qYV7_J6560Tnfk5y0Z1V_yIe8UQudA5ydmrNB6KGRNh6CdNnuEnoArX793c8A3GNCmK7ioBbMda31pdaKEDmA9QkHMbJmZB9M"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://regionsamara.ru/wp-content/uploads/2026/05/e41b33fb601afc3c7d412eb08af7cd0c.webp",
       "https://samara-news.ru/img/20261116/ef18fdad6f8d5fe1af1369fc2c66d880_o.jpg",
       "https://regionsamara.ru/wp-content/uploads/2026/06/07c5bad85a746dad3a7191f44356fdff.webp",
       "https://quicktickets.ru/files/o/samara-filarmoniya/info/photo.jpg?1669803721",
@@ -341,10 +341,10 @@
       "https://www.netall.ru/upload/iblock/e9f/e9fa22b70a05ef5f7c0f2a0ab53a3f95.jpg",
       "https://vesti095.ru/wp-content/uploads/2017/07/IMG-20170704-WA0007.jpg",
       "https://www.sportsamara.ru/assets/images/companies/5132/3862.jpg",
-      "https://imagecdn.ru/width?width=1200&tryconverttowebp=true&alias=i3vestno.ru/images/2023/11/29/100b1725e62049f5920326b3b77933f2.jpg"
+      "https://imagecdn.ru/width?width=1200&tryconverttowebp=true&alias=i3vestno.ru/images/2023/11/29/100b1725e62049f5920326b3b77933f2.jpg",
+      "https://aviation21.ru/wp-content/uploads/2021/10/kurumoch-samara-nordwind-a330-airport.jpg"
     ],
     "hashes": [
-      "c1b4f6b1993dc24c8529415dcc61e12ccfcbd043",
       "f521dfdafcc9e9aab496fab4b121f69761d90077",
       "4db08fc02ef8220ca868407dd1b8ad06d9580f96",
       "0225cf46c79363f9f42bb5c2bb4ac4e573939ea2",
@@ -643,7 +643,8 @@
       "44911a31ae151dd0346bf7df7deb45cac13d89e4",
       "393b5b93cbe5b5b29e3d8b779afb8f7bd822964d",
       "95f60ec4c953fabdf78943b81ee965cb6f7368cb",
-      "9b4464ba221893592d65e0b48d1beeb445f99f02"
+      "9b4464ba221893592d65e0b48d1beeb445f99f02",
+      "6b6f5d7aa3262f6eb66ee239ed6ab5af85f5ee8c"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
