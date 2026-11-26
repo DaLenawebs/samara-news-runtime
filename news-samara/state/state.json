@@ -13,14 +13,14 @@
     "979b0f1e8b2112118058abbb66de0d46": "AYCBlWa5ndxnd-fLLZ4Z78RDuOLSPvgtcE3fDh9Yy0dkk1ymiKpSpIQPzlBVXD8YSayixYyz8fC4vFrQpARNFu3TUOJX20g8gRmd5d6pwSV7-ixrcZ0cGtTchiwlwEpudjaHXei4fRFTXturUMsgxPLkZcT8BYt4XWu3Ijz16tFPDVA",
     "7e32ecc4b287302137228f27f6e53aa2": "AXSVZrmd3Gd358stnhlwnyAwGOQ5xNzBVRO6UpCrIkUV2zcVxQMICyKMPfsOLnM_0DVkT45mbspjak4_Dh6M3qRWyXCxNnuNyIUv0tR8CLlqEMw7IJar8sd1zcsA1g4r8CXF4S1zDjTKGiH09Y6jO7rOoIb4",
     "0629487978e384379427726d25d85dd3": "AX-VZrmd3Gd358stnhkBnmq735916pWX7G68Qkp9W51Vfc66oVRrEc5HL0VU3bbO_UgHYmc87JabyZBgxM7uBbPsYnywMgyIpDqBmGv1IC_Ln-KqnAWR-e3IGV_F21nOpkLdVrz3aW-Fm7kwKvqNFeNgWLS4KCoM9ikTk2RHKZA",
-    "b035d7291b099692a349d930e50ae0f5": "AX-VZrmd3Gd358stnhkX9t2jIVE9JP6wWtX907nFYspkYmjCPxkT_cHtNDxQTHq43Fng2iREChuUwvJHMZYNclA8dMv8NZ7nzW_oXmPQp2E0p-l1eQiOjakr-xil1LbRZsu9Vb-L6ZCYZHsTF09PIZqZAIVlR8tFSv6kHMVAgrE"
+    "b035d7291b099692a349d930e50ae0f5": "AX-VZrmd3Gd358stnhkX9t2jIVE9JP6wWtX907nFYspkYmjCPxkT_cHtNDxQTHq43Fng2iREChuUwvJHMZYNclA8dMv8NZ7nzW_oXmPQp2E0p-l1eQiOjakr-xil1LbRZsu9Vb-L6ZCYZHsTF09PIZqZAIVlR8tFSv6kHMVAgrE",
+    "c850ac96c11afb43be79f2bbeca9223a": "AYCBlWa5ndxnd-fLLZ4Z06YguiK27tXzLRwDvm25mLDt3Ri0rq8v5NmycU8FaQ_okQpWA2yep4ATGjeCsOEs95fP4sjaUebuHMBFCuDfPazx_CyBku4vOaWq4FFkENcqUn_MUV6TdQ3uTqT2TzEctdPJulyGuOuJEmZ9kBWlICAjRxE"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://s0.rbk.ru/v6_top_pics/media/img/6/91/755929894040916.jpg",
       "https://cdn.vseinstrumenti.ru/images/goods/spetsodezhda-i-siz/sredstva-individualnoj-zaschity/20717744/2400x1600/216658427.jpg",
       "https://blog.ostrovok.ru/wp-content/uploads/2020/10/samara_3.jpg",
       "https://tvsamara.ru/i/3c/3c94cf31096568e869e394f0885fe0f3.jpg",
@@ -319,10 +319,10 @@
       "https://regionsamara.ru/wp-content/uploads/2026/06/7627194a466c9ecde8420cb1a7712e7e.webp",
       "https://hozotdel.ru/wa-data/public/photos/18/03/318/318.970.jpg",
       "https://pic.rtbcdn.ru/video/2025-09-14/54/69/546952154bd94da06702f36f2e813e56.jpg",
-      "https://moodle.su/wp-content/uploads/2023/10/samara_state_university_of_social_sciences_and_education.jpg"
+      "https://moodle.su/wp-content/uploads/2023/10/samara_state_university_of_social_sciences_and_education.jpg",
+      "https://sun9-46.vkuserphoto.ru/NJO5az9RrLFsWPLhGN3v7fEIdf20S59wj-YYkA/q4MX9bVdMB8.jpg"
     ],
     "hashes": [
-      "c4bc9fdf24f7559f461473c189272de5843256f3",
       "95af8ec30204a5e075198085aee7d6d01800c0d7",
       "c2d075fa3739cafbef2cb85f59a7dbd694afa90c",
       "c6e63eefa9797c63a8a072be92a6b4866bb21d3f",
@@ -621,7 +621,8 @@
       "fa16900841ca0b43130b8db867d08e3eb6510771",
       "63a0bebb90738e71dfdfa6f8767988bb2ad510ae",
       "9da310d1767e4dc34eff67dc968b5b11797a08ce",
-      "939643f7f5b5335791ac8a9df49e07888b1e7b4b"
+      "939643f7f5b5335791ac8a9df49e07888b1e7b4b",
+      "6a2bfabb72de880d664f5632176a860571bccc6f"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
