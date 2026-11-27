@@ -36,14 +36,14 @@
     "6384a53e5f44117b263381cf80f6d96c": "AX-VZrmd3Gd358stnhlBsfG8w61eIbN7e9k3T1RNYbe4ghjfAYk49vvOB07Daxy6MEjQcCle06fFD2YImCKd5M9XWBmKUh13wnFj1FHyWZH_IBX-0uaJlqeEKlo6gq0m4QPXI3xTfP_JzG6TML9otDrsu_lLGBdidPse51FGzOU",
     "9033ed004bd6cf8db287e87427e34f31": "AXSVZrmd3Gd358stnhkZwy630oEOsKIyi2nmGZk1rXvkGBHuq-eZ6r-B3yqtraZ5VZMnHO13HQlhgbxPjgQ3E_8ilbfKKbe_JrXa-0LstzdrsEsUJxtI2Y0q055jlO8iwI39B6JcatIBLrL0IC-JODGRrboU",
     "0bae1bb261e6fa7c4a962487480886b2": "AYCBlWa5ndxnd-fLLZ4Z9wDPOW7u2dbVuunsp-aaz5gVkL8M_0_58qvW7TF0Mm-B0yyOAcOhoSR6_BWJZ2USoLz4ri_YtLc-LLegwAxQfC7BnXZmb1jo9ORab9Akk3A5Ucr9ijnyfd0m0dGKPxy_Mg9ljL4YdMrs5k-Gj6NTgKXFnSY",
-    "0056d450fd612921fba6eb90fd2639a5": "AYCBlWa5ndxnd-fLLZ4ZUYafL3VyGTn4R4FTTyY3_7kWKT0VWZCaI6ij92CiJmgbgldd6do2YIidLk3dfWu9DSizHRVEctOT0KP06LPzio_RrKcEV2XZhGeWo2afW4MrfAbzkmRZcr0qSn7OYT9vwx5l-BeIRNZGDD9Uad4g48FgsVQ"
+    "0056d450fd612921fba6eb90fd2639a5": "AYCBlWa5ndxnd-fLLZ4ZUYafL3VyGTn4R4FTTyY3_7kWKT0VWZCaI6ij92CiJmgbgldd6do2YIidLk3dfWu9DSizHRVEctOT0KP06LPzio_RrKcEV2XZhGeWo2afW4MrfAbzkmRZcr0qSn7OYT9vwx5l-BeIRNZGDD9Uad4g48FgsVQ",
+    "29751658b26749c03d98210e7a90875a": "AYCDlWa5ndxnd-fLLZ4Zal_bnyx_eSGHUPcBPJuyeQ_z2Nmg81gUjXP6ivtIqhjGisF0P8kkZratU2xd4q6u_7zrQz8FrVO_maQ1x5FkONOfsvmwGYxpwHulIIkvP2HiiT_-zXgfK8wiSZMg-6X_3Qj_EZvwoEuWP73jv3VbTAQmKFCJjw"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://rk.karelia.ru/wp-content/uploads/2022/01/remauqgog000ssg4sko.jpg",
       "https://augustnews.ru/wp-content/uploads/2025/04/naberezhnaya-avtozavodskiy-rayon-vtoraya-ochered-volga.webp",
       "https://samaragovorit.ru/upload/u1/004/bigjpg71033.jpg",
       "https://cdnstatic.rg.ru/uploads/photogallery/2023/07/14/samara-teatr-dramy_72c.jpg",
@@ -342,10 +342,10 @@
       "https://cdnn21.imgria.ru/images/07ea/0b/1b/2134295359_0:227:1662:1162_1920x0_80_0_0_a6b3f94f308f8032172a294f8ce9fcf0.jpg",
       "https://putevodzvezda.ru/wp-content/uploads/2023/05/p300423-1.jpg",
       "https://drugros.ru/uploads/page/facf2648-e64e-11ea-aaf5-0242ac1a0007/main.jpg",
-      "https://rb.ru/media/upload_tmp/20161105-dsc_8037.jpg"
+      "https://rb.ru/media/upload_tmp/20161105-dsc_8037.jpg",
+      "https://st.volga.news/image/w1300/h900/max/b392b7d4-f80a-4aa8-b964-0160a952d75e.jpg"
     ],
     "hashes": [
-      "0c1ad65995d38d13d0995dc0d7d5ad65ff7f99dc",
       "4387add720d330dd518571da061196875c983c50",
       "48259973ea64d5069aee718302c35e002084e565",
       "be5dd420d50aa331e5fbc9b1cb86065d37f9a8cd",
@@ -644,7 +644,8 @@
       "0241c05b0d0516967648508bcaf65b50b407a48d",
       "389b6eb75430dde002d158ada82d7b6b78d32e9e",
       "23f241b4cfbd7645f29d98069fd3819e50737ee4",
-      "92e6e90cdcd52e80d9f95ee1065f16a3d3ada50e"
+      "92e6e90cdcd52e80d9f95ee1065f16a3d3ada50e",
+      "f281aea96aaf58a107b7c9c7c3e9d832052a2281"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
