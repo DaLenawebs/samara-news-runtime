@@ -1,12 +1,13 @@
 {
   "date": "2026-11-27",
-  "images": {},
+  "images": {
+    "75a0d7f77929c9a76fe7c8a49f824910": "AYCBlWa5ndxnd-fLLZ4Z_nVDnv6UGtmzVYY2_hFYFJiopcyD01pMbM_RoyJPZJgWRqfB5_pWiEZr7O4nq8zlLxPR1f4NGczvtbxwK8SJ7Y6lQvYsHHqFES0G7SshA4vTySHJwty77iIgsP4snKnrSqirKft675SFiM7eBxZZk_JSB1E"
+  },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://regionsamara.ru/wp-content/uploads/2026/06/07c5bad85a746dad3a7191f44356fdff.webp",
       "https://quicktickets.ru/files/o/samara-filarmoniya/info/photo.jpg?1669803721",
       "https://oboz.info/wp-content/uploads/2025/12/005-Foto-Minzdrav-Samarskoj-oblasti-1-1140x760.jpg",
       "https://www.avtofurgon.ru/upload/iblock/947/0aeer8076gz8eiene0g3ks1a0hgn9bz4.jpg",
@@ -305,10 +306,10 @@
       "https://www.sportsamara.ru/assets/images/companies/5132/3862.jpg",
       "https://imagecdn.ru/width?width=1200&tryconverttowebp=true&alias=i3vestno.ru/images/2023/11/29/100b1725e62049f5920326b3b77933f2.jpg",
       "https://aviation21.ru/wp-content/uploads/2021/10/kurumoch-samara-nordwind-a330-airport.jpg",
-      "https://rusdozor.ru/wp-content/uploads/2026/04/photo_2026-04-13_01-20-17-768x432.jpg"
+      "https://rusdozor.ru/wp-content/uploads/2026/04/photo_2026-04-13_01-20-17-768x432.jpg",
+      "https://n1s1.hsmedia.ru/89/3e/ca/893ecadf40c119e953b4b524147f3fd6/1280x854_0xsDHemZET_9584242876780607524.jpg"
     ],
     "hashes": [
-      "4db08fc02ef8220ca868407dd1b8ad06d9580f96",
       "0225cf46c79363f9f42bb5c2bb4ac4e573939ea2",
       "902b4812dba30079d294efddeb31b84addb46972",
       "87e470c47d2c7908c85b775eaa247d9ff75972eb",
@@ -607,7 +608,8 @@
       "95f60ec4c953fabdf78943b81ee965cb6f7368cb",
       "9b4464ba221893592d65e0b48d1beeb445f99f02",
       "6b6f5d7aa3262f6eb66ee239ed6ab5af85f5ee8c",
-      "6ae0286dad5c340827c6ccde4137b210f3642fd3"
+      "6ae0286dad5c340827c6ccde4137b210f3642fd3",
+      "26df207f61cbc22696b4ab192edb3d339ab04673"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
