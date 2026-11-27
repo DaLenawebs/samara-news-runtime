@@ -5,14 +5,14 @@
     "4a7ce7d053d5e7406c2e50613586bc29": "AYCBlWa5ndxnd-fLLZ4Z0dxLwdVKbJ_DzPceA61Rp9Pa4Nbpovrh_rFfpe0vj3LXR0LNcbSYHrEa8s_X5w6eeGO-0CtmZzHT2zzxxflaFA7GODx6muHGM_C7UmYOGQXM6WIlxpFYzjIynewfRhVMbcVVtMS7WhPia7kl-pTWqvAEj4M",
     "c36819616f16307d63e7b31d4e135074": "AXSVZrmd3Gd358stnhn4EJPBBIUUYmtlDrXJ_zk9FQBWd_XYl94CBEbVxtAhX0DjtsH7iBwnVeMvu0W0G-i00jjtt46rD-ux0plw2gW4zokNVgRohM33krQnDXcbr-iaA18xgolDWrvf0iJfwFwB-SB91-Ia",
     "4b5b41bf6f862bbdb34c10f057c2adbb": "AX-VZrmd3Gd358stnhmQk9xhXRy1mpnIVyhLCgFV34QIXyJ69D9rFQIYBaINcwe3UvXjdVtP8Aa8skfTE5cHTQVNpAfG_RSQxrefbbcZPSVvCwX6BcC0w4POA3EctPvych2okhlwjTjTGuJnNPKJudNs_5UgqvdhoIl7vt0TlJo",
-    "4f6b32932e33a5c125c086f6c63a4d9f": "AX-VZrmd3Gd358stnhl8A2xdPBMZ0u8nr-ibLLzNnYh39MNEXMS0DLA4PIcsPr4LVQZo93wBzlHqKV387BSA8nT6thhdzr8BW_gph8g6aN7xU5YWk7Z3bdPJeBd0Tb3iOjy0b2bUKqCrvxSuc4Y2Sas3h0wYkrtNl9_amRpWpGE"
+    "4f6b32932e33a5c125c086f6c63a4d9f": "AX-VZrmd3Gd358stnhl8A2xdPBMZ0u8nr-ibLLzNnYh39MNEXMS0DLA4PIcsPr4LVQZo93wBzlHqKV387BSA8nT6thhdzr8BW_gph8g6aN7xU5YWk7Z3bdPJeBd0Tb3iOjy0b2bUKqCrvxSuc4Y2Sas3h0wYkrtNl9_amRpWpGE",
+    "e254f87657e1f968546c5138972c1230": "AYCBlWa5ndxnd-fLLZ4Z4vxwGP31ua2xkjoRXBzXbU9hw_DXKmQ3lxJdAqqVsDWZc3XJE2A5EHsSE7BR-CJbNWMo6YSIpWo9ppUBAhJm32i4_vPJLSFk_O0GpDZs8Kw5z8zG19SD1QpimPvuAUea2Pez4yC0xcRupHzCpqfSpQh0DAw"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://st.volga.news/image/w1300/h900/max/926cd81d-7d87-4f8d-9552-019a65973bed.jpg",
       "https://vibirai.ru/image/1006974.jpg",
       "https://s0.rbk.ru/rbcplus_pics/media/img/3/06/805592868094063.jpg",
       "https://tvsamara.ru/media/news/6616868-154026062025.jpg",
@@ -311,10 +311,10 @@
       "https://sun9-5.vkuserphoto.ru/s/v1/ig2/a-OoDhNrmKSETsd34emqQY0HOkcNNwk95Yh5leQb0cUTU8lZDAZpThxhXw2em2xhWEqow8qkuxKa0Km3jtDFHn1W.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x721,1280x854&from=bu&u=_d4UCBGu-Ws6ggj4acaCGcQrIo0vefmjOlhYRW_rdV4",
       "http://rc.tsj-inform.ru/assets/images/grafic/k52_p354mp.jpg",
       "https://www.samru.ru/content/Image/News/samara_news/news2022/perekladka_teplotrassy.jpg",
-      "https://tvsamara.ru/i/c1/c18012d3d71a6887a41e8a42b38512b3.jpg"
+      "https://tvsamara.ru/i/c1/c18012d3d71a6887a41e8a42b38512b3.jpg",
+      "https://media.foma.ru/2018/07/30-copy-700x1019.jpg"
     ],
     "hashes": [
-      "cdf30e85643c108749158203c2262edcd3177eb3",
       "33bac772f0df492cc0d09ef0e2113e740668ba2e",
       "e8279d1ec947c1c0c05904de8583787407324583",
       "497bc7188b5a4d334be7553827bc177a2c1e9eae",
@@ -613,7 +613,8 @@
       "d03db98bed6986cf350323c46ad683cff16f68c9",
       "1ba96ab6c3869aa183c2eb46dc7d22418af4e6a6",
       "e95ee6ef838cdd495e45a05cf82a9f1ac26e12a0",
-      "a2247a27ffbe1154c8408f8b97831a8debff45d3"
+      "a2247a27ffbe1154c8408f8b97831a8debff45d3",
+      "347bf51b8ced5b5db9f2a2c0910bd69ed355a07d"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
