@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
   "images": {
-    "75a0d7f77929c9a76fe7c8a49f824910": "AYCBlWa5ndxnd-fLLZ4Z_nVDnv6UGtmzVYY2_hFYFJiopcyD01pMbM_RoyJPZJgWRqfB5_pWiEZr7O4nq8zlLxPR1f4NGczvtbxwK8SJ7Y6lQvYsHHqFES0G7SshA4vTySHJwty77iIgsP4snKnrSqirKft675SFiM7eBxZZk_JSB1E"
+    "75a0d7f77929c9a76fe7c8a49f824910": "AYCBlWa5ndxnd-fLLZ4Z_nVDnv6UGtmzVYY2_hFYFJiopcyD01pMbM_RoyJPZJgWRqfB5_pWiEZr7O4nq8zlLxPR1f4NGczvtbxwK8SJ7Y6lQvYsHHqFES0G7SshA4vTySHJwty77iIgsP4snKnrSqirKft675SFiM7eBxZZk_JSB1E",
+    "4a7ce7d053d5e7406c2e50613586bc29": "AYCBlWa5ndxnd-fLLZ4Z0dxLwdVKbJ_DzPceA61Rp9Pa4Nbpovrh_rFfpe0vj3LXR0LNcbSYHrEa8s_X5w6eeGO-0CtmZzHT2zzxxflaFA7GODx6muHGM_C7UmYOGQXM6WIlxpFYzjIynewfRhVMbcVVtMS7WhPia7kl-pTWqvAEj4M"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://quicktickets.ru/files/o/samara-filarmoniya/info/photo.jpg?1669803721",
       "https://oboz.info/wp-content/uploads/2025/12/005-Foto-Minzdrav-Samarskoj-oblasti-1-1140x760.jpg",
       "https://www.avtofurgon.ru/upload/iblock/947/0aeer8076gz8eiene0g3ks1a0hgn9bz4.jpg",
       "https://www.gtrk-vyatka.ru/uploads/posts/2021-05/1620909747_4466.jpg",
@@ -307,10 +307,10 @@
       "https://imagecdn.ru/width?width=1200&tryconverttowebp=true&alias=i3vestno.ru/images/2023/11/29/100b1725e62049f5920326b3b77933f2.jpg",
       "https://aviation21.ru/wp-content/uploads/2021/10/kurumoch-samara-nordwind-a330-airport.jpg",
       "https://rusdozor.ru/wp-content/uploads/2026/04/photo_2026-04-13_01-20-17-768x432.jpg",
-      "https://n1s1.hsmedia.ru/89/3e/ca/893ecadf40c119e953b4b524147f3fd6/1280x854_0xsDHemZET_9584242876780607524.jpg"
+      "https://n1s1.hsmedia.ru/89/3e/ca/893ecadf40c119e953b4b524147f3fd6/1280x854_0xsDHemZET_9584242876780607524.jpg",
+      "https://sun9-5.vkuserphoto.ru/s/v1/ig2/a-OoDhNrmKSETsd34emqQY0HOkcNNwk95Yh5leQb0cUTU8lZDAZpThxhXw2em2xhWEqow8qkuxKa0Km3jtDFHn1W.jpg?quality=95&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,1080x721,1280x854&from=bu&u=_d4UCBGu-Ws6ggj4acaCGcQrIo0vefmjOlhYRW_rdV4"
     ],
     "hashes": [
-      "0225cf46c79363f9f42bb5c2bb4ac4e573939ea2",
       "902b4812dba30079d294efddeb31b84addb46972",
       "87e470c47d2c7908c85b775eaa247d9ff75972eb",
       "dc74d4c5db21d1ac8c8832a13f6b29b60b812c58",
@@ -609,7 +609,8 @@
       "9b4464ba221893592d65e0b48d1beeb445f99f02",
       "6b6f5d7aa3262f6eb66ee239ed6ab5af85f5ee8c",
       "6ae0286dad5c340827c6ccde4137b210f3642fd3",
-      "26df207f61cbc22696b4ab192edb3d339ab04673"
+      "26df207f61cbc22696b4ab192edb3d339ab04673",
+      "d03db98bed6986cf350323c46ad683cff16f68c9"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
