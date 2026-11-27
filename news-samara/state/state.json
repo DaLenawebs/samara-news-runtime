@@ -40,14 +40,14 @@
     "29751658b26749c03d98210e7a90875a": "AYCDlWa5ndxnd-fLLZ4Zal_bnyx_eSGHUPcBPJuyeQ_z2Nmg81gUjXP6ivtIqhjGisF0P8kkZratU2xd4q6u_7zrQz8FrVO_maQ1x5FkONOfsvmwGYxpwHulIIkvP2HiiT_-zXgfK8wiSZMg-6X_3Qj_EZvwoEuWP73jv3VbTAQmKFCJjw",
     "46e51dd16bfa4e183bd40e8c99c57c23": "AX-VZrmd3Gd358stnhlOxl6OUkfNP6Jwiarw7-FfQWIi0rFceKTk2DSfv2xFPOpRocXCD-xsiwr4786M5JcmA2VyOl9fzivzwGuOWMCWK_YkSa_VzYQIxzqs1od_6N8VuBcG1JPkrxmR9dkB3Ebcez60_QSBnpR8NC27GOGBXDI",
     "1e6487ad5d7b37a08b0712ba4fd0a604": "AX-VZrmd3Gd358stnhlwFekFZDTLB_z2OAQ17RDfV3MJdkmQM5EaQASxGa4y7IcFdnU0ab4vsYPV7not5OsefuUkTe0BGG4ulsrbA5hHK3YCq8AeJi-w18rvvL86I3zwjVNAeDJmKs88K0jAT5LrzQ0e3D3hLl1JhQrnIXD-Li8",
-    "3adf217910968ff29ea706214afb452b": "AX-VZrmd3Gd358stnhlg500sA5Et7IN7P1DRE59flO7IR9KkNBUt1Df7UL5nfxdxNn5kGXrPSIEB58belrcWP_sEpCGm1yGMDgJzUZSTkiM56g616_5Qcw5-RLWiu61BqhepgUOw_n2IWJiY822L4Xq0HbyKa2NaDUCLkKYyCXY"
+    "3adf217910968ff29ea706214afb452b": "AX-VZrmd3Gd358stnhlg500sA5Et7IN7P1DRE59flO7IR9KkNBUt1Df7UL5nfxdxNn5kGXrPSIEB58belrcWP_sEpCGm1yGMDgJzUZSTkiM56g616_5Qcw5-RLWiu61BqhepgUOw_n2IWJiY822L4Xq0HbyKa2NaDUCLkKYyCXY",
+    "8371cd57c5ac1e1320a7036cd1d82887": "AYCBlWa5ndxnd-fLLZ4ZTzy4ASGiwrdzs2MZmAJEyY5r0Bpt2P7Zr9FxMPrvw3qK3EpcSEqoG0DOMl07kiWM4c1uIvYiZNaQkTKQCQZAEKYGrr_QpN-JsH_FZG94bT9E2jDHemWAFB-vQd1HVPRupdZePbVkgb6GWHdiZvCyLBFDWQw"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aif-s3.aif.ru/images/031/271/9f7f0a7f4cd5e772bdbfe7ca9d8a0560.jpg",
       "https://zbulvar.ru/wp-content/uploads/2025/10/Mobilnyj-reportyor_Agentstvo-Moskva_831632.jpg",
       "https://www.mosvodoupravlenie.ru/sites/default/files/page-images/dscn0309.jpg",
       "https://oboz.info/wp-content/uploads/2025/10/5195047671235213380.jpg",
@@ -346,10 +346,10 @@
       "https://st.volga.news/image/w1300/h900/max/b392b7d4-f80a-4aa8-b964-0160a952d75e.jpg",
       "https://pro.firpo.ru/netcat_files/312/481/cKkwmdMd24w.jpg",
       "https://aif-s3.aif.ru/images/045/553/21780a3672421153e7b5be3f3e6dd85d.webp",
-      "https://tvsamara.ru/i/49/494a3986041c7ec3fbb6bc688c873f3d.jpg"
+      "https://tvsamara.ru/i/49/494a3986041c7ec3fbb6bc688c873f3d.jpg",
+      "https://sun9-20.vkuserphoto.ru/s/v1/ig2/ayoLunkxBhffTUdKrxdhhxHdnu2zwBC4Ww5kIHnPrDDBwwFlzYBH9cij7BpQIJRDVgwJjVeDH5fnG1aErzMYOpG7.jpg?quality=96&crop=0,109,921,1381&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,921x1381&from=bu&cs=640x0"
     ],
     "hashes": [
-      "fec412ca23a4d290c9e6e81452841c629d5e79d8",
       "567a3e1a2d947a1f1c6b6912a68936379fa12bee",
       "f040d49f0ffa8f8f2eef87d56b722b7c47afc898",
       "8641016de2f1aaea31b2a4d76af1bd336a71e80e",
@@ -648,7 +648,8 @@
       "f281aea96aaf58a107b7c9c7c3e9d832052a2281",
       "2766f93975af5009e32afee0e215f4a905b1ef33",
       "e651739600987f156907fc89e309469028a05bbf",
-      "4c089dd50dc1c4be90b6127b6a159d35a71ab421"
+      "4c089dd50dc1c4be90b6127b6a159d35a71ab421",
+      "f1aef6b76c856e7a2b27154d124cd6126c699c75"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
