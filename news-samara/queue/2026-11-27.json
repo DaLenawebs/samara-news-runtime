@@ -227,8 +227,7 @@
       "imageType": "object",
       "imageQuery": "ели новогодние ёлочный базар",
       "imageSite": "ria.ru",
-      "imageUrl": "https://aif-s3.aif.ru/images/048/773/3bbadfaee3fc287d7d08586cc6d7eb8c.webp",
-      "imageFile": "news-samara/output/2026-11-27/img/2026-11-27-1400.jpg"
+      "skipImage": true
     }
   ]
 }
