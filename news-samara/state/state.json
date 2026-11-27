@@ -15,14 +15,14 @@
     "df0e432c0b36da350a035d029e5555a7": "AYCBlWa5ndxnd-fLLZ4ZsJ9Iq-mYBHjHJWl3Q1qnGDJ4aXsFURU-BSM4HE5d_OKxCG0XlbW2ZI2YBPjzCsuStQPgm7al3dEfa3iCdrKS9_VbnFquRYHg1__9061aJCp6ZE2qHMp29Uxbto5pOEhTAGK4NGHbyDv2C0LKZseycg7GNIE",
     "f272f1437163e54af1bc929e79e86997": "AYCBlWa5ndxnd-fLLZ4Z0XWexv8c-YR_JH0P3cNaDRwRd7kZd4r4RTOKTpTtVlMEjxIZIoirn-m72N7nsU8hxc4FNrZQo-knmvJofQHMtIgcOh83pbRFFd4vdsmxGqZ1wtqf9wtf3Srgp3Xh9B8xdV9jgFkDfmMsw-CjtVnpHPRzLgI",
     "43e86303435cd8b2f2a4c13f0fb1d08d": "AYCBlWa5ndxnd-fLLZ4Zt7YrP_4YLZ7oJoaoJ71JAxGnKOM6qUpOfQw4iFlrNUtNwtTTtKRXrgOpMLB83koVVoQOft9pA17f3NEqSPEJFHYTGqbramupndvuZuOtZdxVOxJMscXjTWX69oPjxauL-6UssSJomBV7tOUZECCDhIK7lv0",
-    "e61aa4a7944c1b52563489ad2fb87d68": "AX-VZrmd3Gd358stnhm5Iibx-RlhwtzLnrAnpqpXgieuWZbhJEy-IuKl5vB2ulP9v8A9gvTaGQ5qqynwS4Bd6vHzhQux3B022bsW55qNoAkiiNld8_nvDymZCWjbTT9B8WG5mBjQQ_zBX1_Roye5k6qeA2DKoKwkWfQNmfH_5Ew"
+    "e61aa4a7944c1b52563489ad2fb87d68": "AX-VZrmd3Gd358stnhm5Iibx-RlhwtzLnrAnpqpXgieuWZbhJEy-IuKl5vB2ulP9v8A9gvTaGQ5qqynwS4Bd6vHzhQux3B022bsW55qNoAkiiNld8_nvDymZCWjbTT9B8WG5mBjQQ_zBX1_Roye5k6qeA2DKoKwkWfQNmfH_5Ew",
+    "b865c6595ab16c5552dea4d1507ed36a": "AX-VZrmd3Gd358stnhmO87AxyGJ0iMho5gTX2CgxaJ3CdT3Dy6WIxHf5uRt2pFh3vciboayCJFKOXggXbJD8mlw1hF0H_NG_N6ah1SgncfeAkOvItcz0tevLjjexaqRVQTQBsuvrDDmisY6H_fVUBmrfr8YybVxv4t9fCAyj7U0"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aif-s3.aif.ru/images/032/228/f4059a3e7cbb2a87ab1ce381687f6b11.jpg",
       "https://farmsovety.ru/wp-content/uploads/2025/01/orig.webp",
       "https://demosite.mz63.ru/upload/tg_bot/1711624202_AQADCt0xG8zoMEh-.jpg",
       "https://aif-s3.aif.ru/images/032/472/37d3b01699af98d50cf38f2f5cae512d.jpg",
@@ -321,10 +321,10 @@
       "https://sun9-40.vkuserphoto.ru/s/v1/ig2/iwolbC_dP4CPAhAQOhAv68qdH2CbQWZ7MsqingDimU-zpa5_eNAsomqVtIeyBdOuHTJgc7M9SEptdYEfQJdZHpHl.jpg?quality=95&crop=0,0,800,600&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,800x600&from=bu&cs=640x0",
       "https://academy-of-capital.ru/upload/medialibrary/0bc/qg6pq0hu2akuwxks7l7c72pk6hlwsklq.jpg",
       "https://tprint.ru/wp-content/uploads/2023/06/upakovka-dlya-molochnoj-produkczii-8_result.jpg",
-      "https://palex-r24.gosweb.gosuslugi.ru/netcat_files/generated/97/139/760x570/70/8ef1b78ef551488a260b0753c523292c.jpg?crop=0%3A0%3A0%3A0&hash=2d4e6c68499f742c7730aa605c32043c&resize_mode=0&wm_m=0"
+      "https://palex-r24.gosweb.gosuslugi.ru/netcat_files/generated/97/139/760x570/70/8ef1b78ef551488a260b0753c523292c.jpg?crop=0%3A0%3A0%3A0&hash=2d4e6c68499f742c7730aa605c32043c&resize_mode=0&wm_m=0",
+      "https://volga-mother.ru/wp-content/uploads/2019/12/DmvJ7pFX4AA88NB.jpg-large.jpg"
     ],
     "hashes": [
-      "cfc328e77e7e297d43d5ebe7a4a10b7c9565eaca",
       "61672d771de43403ef56a95ee99f8ed0918cd893",
       "83d406d472ff6977bb94b99ed412dd9a3ac6d43b",
       "9ebf3530afca1984349b2e04efe9ee40f4beee2a",
@@ -623,7 +623,8 @@
       "1ae72c96d15b4f1e2eed42ac042de73228b19910",
       "d56837d8d2795ea6ea70c0388f9732879d18c561",
       "0eab9b7d03a52b896043f91d37f32e2596bd1679",
-      "73348da211ecbfaa70397a46320c460510df9f44"
+      "73348da211ecbfaa70397a46320c460510df9f44",
+      "fb225b377136db0bc595ddc078d13b891906bd4e"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
