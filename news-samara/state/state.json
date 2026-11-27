@@ -1,49 +1,11 @@
 {
-  "date": "2026-11-26",
-  "images": {
-    "16ef1007a824555b245ef55ce66099ef": "AYCHlWa5ndxnd-fLLZ4ZrA1Eik-Dk2ul3Ki6aXC9D_m4XEV-PlKDQuc1gFy_2L-jec9gyyPMOo0ny3DWvF1ZRS7gf-Ag3uEbwCC7ZhagyFBWAG83MNJ6ofSKqC5okq3C5qG0nqrZqjc5deF9EEMk5SiAS06ZTMhme-TwTajtuUcA6p1unSr-FKU",
-    "9063bc761b876122a1d6d10dac0bb115": "AYCBlWa5ndxnd-fLLZ4ZGrzIRNy7CAnmczuia5Mjom7qFk46hvKE8ju1kxM0NESj64etbqRUwC2LBo5Gh3M1FI-M--OxKeebH8MU9JsIw28KIgmyFDn0WBO36YZuyQGXCTSvBA6fsLstRokvpqqTcCgpEVO696VFsn9ODNdw93OzECs",
-    "0154dfb6aebd1d145ffc175d63e49bd7": "AYCBlWa5ndxnd-fLLZ4ZclmuKLKXKdiX7GwneTtsokkHMcB_w5z_6fFN7EEgRE560o3JnjcHW-g6azyn2h-HuO3dUcT6m6nuklbsbSAGFjDRz0wGVqvJ8wiD_Tuh1JXmLzVCsL1rGgISjIYGyCF_dDg9Lm86RtshPyLaUcxGRNZ8vP4",
-    "384a25b324a91b687878fb6288f65f63": "AYCHlWa5ndxnd-fLLZ4Z8xFN9bmDM_pk05LbvCTnZWl1kJGZDoaaBsUS-dln2pqVXALXNh4uFK1eadF0RvLhQafU7hoyiOQH6ADDH1_noBnNvbO9-I2EcMq6fTFLRYUq95_-1Lq4d5CW6AdPhr2NLW75TK2IcbVVCPuvXYApf4xHRT3aJvbL3H0",
-    "4db6da30e1a8dfecbf876437c64eacd1": "AX-VZrmd3Gd358stnhnhN2Od9PffUjjrNsvYp5QMtSehRuu1CkCNVUBqthFOxR7TTyIokA9Azxn8etYr1AU7QoyPBTNWlemdja99-EZaGdAiesEbxJTDQJVoqgIenKtN2oijUlsNL1C4cVXLytpog2kDf8e9OY-wMRFnfAc-QZ0",
-    "ddb83dac6f9baad4f9c680c229ebb1e4": "AX-VZrmd3Gd358stnhmLkKMB3-zazMQiBTNATHwPtUUijvqlFKueLTtwsaZhZ1pLDqGtzzj1ijXXnCQRZgEXKcERKjN8rsQKz-8lQLP0pXVBHcKLUbr_fnzfNlO16ipXyntYO78AQGdST5R2gIigOz0StfVKwl-D_xT0qsJL3S4",
-    "5abc69d3b741b659efdcbfd8e427a369": "AYCBlWa5ndxnd-fLLZ4Z0_s3pcv-dwKGvupFeqjLi6CUTGxEC-bs-m-JgEFydYYDPnSTtfiUCM1Q3pN70RETSzdyGZLSv1tHKu3SSUCQhdz3puAuJYYDta6aHoOJhjvOHdLB0h2R24tWRhGk4FuENqjD9prm3TnB8oeqYQJq3F32_i0",
-    "7482c60d16f42aecb144d376a5eee719": "AYCBlWa5ndxnd-fLLZ4Zt4abRvpN1GXFj7TEoGnUNHp6ugE66an0qi_Rr4r1GRuqnppSoTXExWGo4xdy2zBRa38nz7ntFEOvBZCU0SMfp3kZZP8c5tVx8IC0VYTbWhstyzDU-lxSe4oxfYOKnhSOW3etXf55qjDy6oa9Y1i3MSk7tC4",
-    "639ecbfdc98a1045fc94ef895a56e481": "AYCBlWa5ndxnd-fLLZ4ZBzisrCvMibtbdnovDpnPy6d9ImXq45bZOPormOc1DTeWq6gCObX1VMk3j_Y3peGufCJY9b0FQRiKCXDpcJq5vo3qoZ2_S_Gi6eyuOfdUnv01g-C_VKb8Cb0UR-QOUnv9xZei2-6RJkoXOl7ycItK7iOMeSw",
-    "979b0f1e8b2112118058abbb66de0d46": "AYCBlWa5ndxnd-fLLZ4Z78RDuOLSPvgtcE3fDh9Yy0dkk1ymiKpSpIQPzlBVXD8YSayixYyz8fC4vFrQpARNFu3TUOJX20g8gRmd5d6pwSV7-ixrcZ0cGtTchiwlwEpudjaHXei4fRFTXturUMsgxPLkZcT8BYt4XWu3Ijz16tFPDVA",
-    "7e32ecc4b287302137228f27f6e53aa2": "AXSVZrmd3Gd358stnhlwnyAwGOQ5xNzBVRO6UpCrIkUV2zcVxQMICyKMPfsOLnM_0DVkT45mbspjak4_Dh6M3qRWyXCxNnuNyIUv0tR8CLlqEMw7IJar8sd1zcsA1g4r8CXF4S1zDjTKGiH09Y6jO7rOoIb4",
-    "0629487978e384379427726d25d85dd3": "AX-VZrmd3Gd358stnhkBnmq735916pWX7G68Qkp9W51Vfc66oVRrEc5HL0VU3bbO_UgHYmc87JabyZBgxM7uBbPsYnywMgyIpDqBmGv1IC_Ln-KqnAWR-e3IGV_F21nOpkLdVrz3aW-Fm7kwKvqNFeNgWLS4KCoM9ikTk2RHKZA",
-    "b035d7291b099692a349d930e50ae0f5": "AX-VZrmd3Gd358stnhkX9t2jIVE9JP6wWtX907nFYspkYmjCPxkT_cHtNDxQTHq43Fng2iREChuUwvJHMZYNclA8dMv8NZ7nzW_oXmPQp2E0p-l1eQiOjakr-xil1LbRZsu9Vb-L6ZCYZHsTF09PIZqZAIVlR8tFSv6kHMVAgrE",
-    "c850ac96c11afb43be79f2bbeca9223a": "AYCBlWa5ndxnd-fLLZ4Z06YguiK27tXzLRwDvm25mLDt3Ri0rq8v5NmycU8FaQ_okQpWA2yep4ATGjeCsOEs95fP4sjaUebuHMBFCuDfPazx_CyBku4vOaWq4FFkENcqUn_MUV6TdQ3uTqT2TzEctdPJulyGuOuJEmZ9kBWlICAjRxE",
-    "668ea9c8792eedc8f5f0fdcb17d8e74e": "AYCBlWa5ndxnd-fLLZ4ZrSh1nR7iPLYFhLGBZr1FXOX7X2lskrxHZ5N4n-u8U5cuhzkFMd9Ca5hP86ybWnNtYDYH6EzyYpjayaHlDAUIYcT-7Kp6uYuv4SeD0FP5CkdHQeZ9U302Z4h6mNSvDULAmzOVO3cxWfaPrXD9bOnfRnNW7l0",
-    "a2c3f81a7054e69104c6a5c3cbc3a68e": "AX-VZrmd3Gd358stnhkQOxQOcrAIlYJDMJCgBgUud5z9TzszyJa7rbu6ywdbmOk7YV7oO21YxXMuO2zG333--w2SHlMdWgKR_se-xbWJ7UMSBsR3E2eiU_u5GwBjaBOyIJ2042zFiMBfxS0ZpZr9QgUwKekDpIirEUYRpdbJBSw",
-    "b0aa4d0db3c01531e8bfd209a491a413": "AX-VZrmd3Gd358stnhkUbyzumPbJt4TQEFgHQ5LRzN-_789iTP5n1RYv5MOsTLmWsojHmVUVx148Fr_eo15uRXeDvOc25os1RMZfsW8vxcn2wrgo_C3gm07Y27BBBy7Z-zHYljC9JA3CvxoinIdFQKzL3ExQAICgEECkb05G5qM",
-    "5bb55e2c0bd1afcb5c79acf7294c006c": "AXSVZrmd3Gd358stnhnmjEx0FJht4YsAgOfwf19pfOkob2RwIpcoT_nUhs4guMBUuFCHmA87nHaO71flWsvmJLGex7g8R0yPpH4q2uXszoablyVdTi39gnj3DCFZh6ljiPI3dHrJIIWCayl5ok4ct4Jfxel8",
-    "37a6898bc31d7c0e572edae5186764b5": "AYCElWa5ndxnd-fLLZ4Z_wCdZMDzwdo6LvK6YympdXuNK4eHS0YIsLEyS2lU8EFSOy_9y1miuhixvt13ZI4upNRPW79MvvDJx7gpNNPz_bHG7ph14Q29CT_8dTEAMide6jl1h83pJTBq7onysyO1t4SOu6gorJLhMWi_vsDa6k5QlVzULSw",
-    "cee261b424eb05eb1f6ade4081d60336": "AYCBlWa5ndxnd-fLLZ4Znvq6jPrbr39ev_BaTarX-e8BgXuA2dhKRIRpLHgvPAqJ85AYBmfueRGbII0QN5xl1HzPwovdOxxN2uzNXUzqDVWxRDDXvzVCjWYaTIU7gREwEJhj43X9RVm1vLeKH9VfUUv6JPWzEpFwRCwubqOUIQdlPIE",
-    "f30d94aa3801d5a9f8831cfff817bf1e": "AYCHlWa5ndxnd-fLLZ4ZE60mKvM4CZqEaAbTShHR05ARqWNQJ4pQtAcNChbB78UYlmjMq3oDhgzkNRwIne4IsMHxmQ-8Pmie7hfLpae4DxgO_-X7-Z315bOg_qLjz_yGhbXD8n1YNu-4bESZD-N9b9N6dIefTt5ZYYellwAxuNUw6nrKDfq-qXU",
-    "1570346b304cdb42fdfac842d1b2367a": "AYCBlWa5ndxnd-fLLZ4ZesEazz5V-tDg1Wod1Ps0jGwMXhZZ-0jbgwEKdBD1B4LH6PydbLr9YA3zVWoBo-i871GqZLqR3smV881peVoXdLR9o0p78jirvqGl_vgdFSxnLldWge9xpKN9HSm5UbACOpaILxDrE1YnC9ZmD2tfD14pW8o",
-    "69a5b68c4d18a15669c1919bc2ca3d04": "AYCBlWa5ndxnd-fLLZ4ZRiXqtbccT0MZ6N2Z_vdTIk55Jcql0KY7zbzK9G_G1obbQx-x6QQR-P_lzgOti_XF6fTmlzBZuAqPKebjxMUThlZTmhtx0ahrgJyGTN6xFN7xWwzgtc4EA51LwNu5Pm0giEokaUnffhZyNEY-Xab-OC2cFWY",
-    "1955edae7ce52856552272c99d0b8d9b": "AX-VZrmd3Gd358stnhnMpli7GvazuROQEWHaeILSA28DdAJRiqTG4a3Ijp8fj9SDsMDlf-0NDpW0jMMLWFFG2lpXI8z47iXD3xepGunDCkZ4mlnPoe7gS5TOOQDoh7ly_NM8PMJEWPB7mfYX0DeVezp9rxzD2XCBj-Nx2mQKwFk",
-    "98384b339f78cd02b426233e74b52c0b": "AXSVZrmd3Gd358stnhkUVr7sV5lwZxe4bKZLAu8mTmndVqygLav5bsYiosgVHaMPj01Oaox2bdKGnkJ96rgUVOkjMMRLDPANdwenI2etUxNa_BqGsWvEUBtY0TgptopWiw1Ll2uwXxKEEDmrWA_9Hc11jZ5U",
-    "f4170208d55a3cc5c43c77c157c50419": "AYCBlWa5ndxnd-fLLZ4ZNn62t7BUky-So9yywZ_ZU6RF1b42xD5n46CK4icKl2JKqXlwDKfXSAvvHnwlTA1FF5Lpfi2q0-1jNJoUhicQh6H2oWl5xCJptP4qN8Jcud4jmKBEeoeOHwJYKYlUrwbRqixh5a4LKZYkzm4rqCcCfmRJzdw",
-    "9e479a8e6f22cd71ab24224a9bfbdc4a": "AYCBlWa5ndxnd-fLLZ4ZA-LCY4d8vagNq-tgt-wHLBDc-SUkr5dTp0iZjFdqPUeSbrKey65SG6c86J7wjBgX4fKC8MHrctskIejv1HzPZt0dBPo0vvjH9nJTZxysRC3j1NHijoWIJVXW7rBZamv6yRC3aoTEk5sm0_fJZLRxgUJH28w",
-    "34ecb2c9de74524df655c93a0138dc1f": "AYCBlWa5ndxnd-fLLZ4ZxdJfBFKEBtLAqNNSyQfF7tVvrpKZEVW2uAeCSY2HHJJZSrtDp7tBqO6fJEKxn9Ed1yi6nUA9mxbNM1kVh7Qn0oojYK38aijhJctY907S3-EItxpLclUFcfHr_OKH5FUAa5WEaG-V5njC7eHROQcLuDsvFHU",
-    "bc150438b073b93ca5eb9453e4e88ce5": "AYCBlWa5ndxnd-fLLZ4ZCXxDVdmmAazrpoR3lJ3ZJ2Ij7Yta6I75CUkEe27Eq87VwOv2yyzXnLRNMOIdCQQMestcINnEsz70q3nQZggbfA5dI-kuISBXa-_GlhqpxHdLQeIaOdDWiGxQWm1op4WPLLV9qgGyRSOlM24IUQl5G9YOq-A",
-    "73e40a178c8ac83177ec54c1bc50dde4": "AYCElWa5ndxnd-fLLZ4Z-J7yqQFptss-3650cb9I8KFFuwsE0XZ_iljbeXNa5WZSZlbRMN0mm3qmoqL-J9AJQv32x5uLW1Tb1CjhrTLZCWWlw0N-No8tQ_Qr5HO2OYQf8WzljvS6hzlNEWjvgjwe7T8LZHSua5HpLLTKlT3cmp31UB-BUfI",
-    "62d2f184f0572a9ba5b653696a4fb87d": "AXSVZrmd3Gd358stnhlRVEZ_j8CPiE7k0nHQ7soFmcI5Y7dEIjWtEtOux5JOceMNWTJQo44OqtGD8Goq_ieHfEeDyaxwHrtJknT6G4NJ5We7IgNyCVk8orY9YNc8pq3okpHowXsoV59bG57x_u7jyRKoMWNI",
-    "ad3187ca028761893b29625060a455a2": "AXSVZrmd3Gd358stnhmuwh_XVkJhWZuPV5ddRO_AKqw-YV3ip7PRn8o88i1Z1yABsqTHURXJJFzPTwompEdLD6ETI4pKsbbgYL7oESk7SdouaPt7b2xbzLPo22nAc8eQkxDp92FPh1O7t5xLOFLsk4RQ7-L6",
-    "e62ffc89ce8b01b9d4b2b6dfc29aa3bc": "AYCBlWa5ndxnd-fLLZ4ZDMz5WoI1is5gyxYgy43UynC5b7-zeCXnml1obiO6Z2w6W8auw-h-A2h2JHI2Dc3kCo0Rpx_7DcEpGasLCmGhC3kzUi29hKOE5UYVtMCYQw7ubhzPqBssOQjNZ1KGuWpofR4MDEM43R5PQn3Ngtf24E_LdiQ",
-    "b3c0bfc379d2d3028cb526134b077fec": "AYCBlWa5ndxnd-fLLZ4ZPHuH3ILiibxnw1jqFvqDaB41GMF1uGVj3FsPV28WrD4RiHFKJMLsQsbueBt9Di9QQFp8Jb8gw6DCwf9pQuzKfz6kdu3VkNbEmuGMlO8sI7G46Z2xXN1zG2a_Zic8GTONrhdjS3fvM71EjjuuTxkVK2hJK_E",
-    "ca2117baff5a2e2667fc5bdb85755b01": "AX-VZrmd3Gd358stnhm-hknSipmq50YzJwBoZNmXL6BUAcZs9UfKy7eChQTNmN-HnpUjdECSoTGRfzEmFUtW0fTJQABM8fXUmxKjZ8q8DKyepzBamX27uRtZR5sxxgk9dIOVlEiJ42OQ437F2g5lQ4S5NMHjkWtzupr5WWTGtdI",
-    "15540be7a6600e6cbfcc6b57843bddc0": "AX-VZrmd3Gd358stnhlzPnW9hiJS4Uz5GEk1-ItYPYsL-VM_NPlP2ZaR7Dz_wHSGJ8CfK3Ubd1qYV7_J6560Tnfk5y0Z1V_yIe8UQudA5ydmrNB6KGRNh6CdNnuEnoArX793c8A3GNCmK7ioBbMda31pdaKEDmA9QkHMbJmZB9M"
-  },
+  "date": "2026-11-27",
+  "images": {},
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://samara-news.ru/img/20261116/ef18fdad6f8d5fe1af1369fc2c66d880_o.jpg",
       "https://regionsamara.ru/wp-content/uploads/2026/06/07c5bad85a746dad3a7191f44356fdff.webp",
       "https://quicktickets.ru/files/o/samara-filarmoniya/info/photo.jpg?1669803721",
       "https://oboz.info/wp-content/uploads/2025/12/005-Foto-Minzdrav-Samarskoj-oblasti-1-1140x760.jpg",
@@ -342,10 +304,10 @@
       "https://vesti095.ru/wp-content/uploads/2017/07/IMG-20170704-WA0007.jpg",
       "https://www.sportsamara.ru/assets/images/companies/5132/3862.jpg",
       "https://imagecdn.ru/width?width=1200&tryconverttowebp=true&alias=i3vestno.ru/images/2023/11/29/100b1725e62049f5920326b3b77933f2.jpg",
-      "https://aviation21.ru/wp-content/uploads/2021/10/kurumoch-samara-nordwind-a330-airport.jpg"
+      "https://aviation21.ru/wp-content/uploads/2021/10/kurumoch-samara-nordwind-a330-airport.jpg",
+      "https://rusdozor.ru/wp-content/uploads/2026/04/photo_2026-04-13_01-20-17-768x432.jpg"
     ],
     "hashes": [
-      "f521dfdafcc9e9aab496fab4b121f69761d90077",
       "4db08fc02ef8220ca868407dd1b8ad06d9580f96",
       "0225cf46c79363f9f42bb5c2bb4ac4e573939ea2",
       "902b4812dba30079d294efddeb31b84addb46972",
@@ -644,7 +606,8 @@
       "393b5b93cbe5b5b29e3d8b779afb8f7bd822964d",
       "95f60ec4c953fabdf78943b81ee965cb6f7368cb",
       "9b4464ba221893592d65e0b48d1beeb445f99f02",
-      "6b6f5d7aa3262f6eb66ee239ed6ab5af85f5ee8c"
+      "6b6f5d7aa3262f6eb66ee239ed6ab5af85f5ee8c",
+      "6ae0286dad5c340827c6ccde4137b210f3642fd3"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
