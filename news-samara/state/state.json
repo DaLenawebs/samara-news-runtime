@@ -22,14 +22,14 @@
     "caa9af0961c022fd604be27dd7ee0a18": "AX-VZrmd3Gd358stnhkEVrBRjW-kStPlwmIYrZ7X-TXvEI__Q_yptsWTZ30qZ5ELRU71hRBmv6r1Donv-eFacm-hZDMPKPerIR_QPhLnfjw9K_-QzSstw7K4119DHgL1mtCfnV4bh6ZnW6NOACALELKoeGCOyFTFaxMjKrsMnLQ",
     "d8f9cde5411ff4ded3c682063a11235b": "AYCBlWa5ndxnd-fLLZ4Zp1uFD7ynxbbuLBR2QmWwc2AEvwi7mDyqpSZbPrkc5ExU4o2ULxGMEow0qX1g2rU9D0cFTrBfzf--r7n-UgRVpe4d1t8UokJl8XP651sFYsTZXsmPQ0JpYBkgtlabR9SyekZapMvUpPub_L8ii-EOOSpl7ZQ",
     "bb1da19b84bb2533040e95716dfa514e": "AYCBlWa5ndxnd-fLLZ4ZCkgCj0Jg8MSri6AnluMCozByeRjzHOSSpZcsP5vY79WXxoX8N7-8DQvUDQa85eV5Jt3NAHg-EHnAcfvOnazlTvNkQ2TAppJcEtQFtQGOJJ25_c2M2WPz0fAE5WASDk5A3n_ort9Ll99X0j_nc5FgIpROzm4",
-    "39304057fc4bb1ebc514120e28683178": "AYCBlWa5ndxnd-fLLZ4ZQLxXrT2xP3Zp-LmBpOYPHLcZi7E-rYyVzChry0lNuFbeU-IYFnLnsIqrgrJ6Ss2jGhMwt39K1Dfi3bKpekfIw4xplRuuiqI49wiNpEA5xdn-9KXv5jMYWTxsUbttvweVb47kDrqexBwmqNRqfTOg43PNv9Q"
+    "39304057fc4bb1ebc514120e28683178": "AYCBlWa5ndxnd-fLLZ4ZQLxXrT2xP3Zp-LmBpOYPHLcZi7E-rYyVzChry0lNuFbeU-IYFnLnsIqrgrJ6Ss2jGhMwt39K1Dfi3bKpekfIw4xplRuuiqI49wiNpEA5xdn-9KXv5jMYWTxsUbttvweVb47kDrqexBwmqNRqfTOg43PNv9Q",
+    "26c8fe5cfd067aaa679a8bbd1fa272be": "AX-VZrmd3Gd358stnhmWujbEt-PoJGCBKeepZGX6mWVqkLANroXPt8HMDItCq1hR-jVjMc6-HChc3G745KWfxl5RXP1RjY6Jkxnp66dtPwbpuJwEfAuAIVZLnLKTlnEZljQwzGOKcsQDkl1F7WhFbvTgEhmrTJu1iZ8TMfmJQAg"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aliashabmurzaev.ru/wp-content/uploads/2025/12/podrostki.jpg",
       "https://aif-s3.aif.ru/images/045/314/857008267fbaf328c41811c96dc764de.webp",
       "https://cdn1.tenchat.ru/static/vbc-gostinder/2024-10-07/b961f030-c926-4cc7-927d-f490342d09fb.jpg?width=2&height=2&fmt=webp",
       "https://www.azbukainterneta.ru/schoolbook/textbook/module_12/8.3.jpg",
@@ -328,10 +328,10 @@
       "https://regionsamara.ru/wp-content/uploads/2025/03/collage-2-23.jpg",
       "https://n1s1.hsmedia.ru/90/32/78/90327871de5f26492cc8f44341eca27e/3536x2361_0xcb85HHID_6765958560689604323.jpg",
       "https://aif-s3.aif.ru/images/028/323/71122c42943f92e3955c01daae82ce21.jpg",
-      "https://gps-forum.kz/wp-content/uploads/2024/03/sputnikovyy-gps-treker-1024x768.jpeg"
+      "https://gps-forum.kz/wp-content/uploads/2024/03/sputnikovyy-gps-treker-1024x768.jpeg",
+      "https://63.ru/html-to-img/og/g0AuEWvynMER813UjTpnEg/article-id2609998-16x9.jpg?1761750699"
     ],
     "hashes": [
-      "12543c6e5be2894ad9363773e2428563b28392bd",
       "fd0af83575ab2720de6e886428bb33ef041be2cf",
       "56b0516a5585c16e7014420ada8e61396c0e0087",
       "49d44c805938733b8c0e8e238de00c0bca6c2cea",
@@ -630,7 +630,8 @@
       "5482670cec47d785cf47a666b55b658cf58ad42f",
       "0aa14d568d9a782ceb4b5f049a7394686e883a65",
       "f59a0714b073477ffc1561d90dd8bbbaa0a60526",
-      "607b58fcecf361aab6f02c7e4239133be0678ac5"
+      "607b58fcecf361aab6f02c7e4239133be0678ac5",
+      "ad219cbdcf2fa2050bba78ceafb1f443d3ec55c1"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
