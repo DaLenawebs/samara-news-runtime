@@ -27,14 +27,14 @@
     "ddb87bd023b35fe3f9efccad34295ecf": "AX-VZrmd3Gd358stnhmOsKiO75jOMv__s1vBxWd02W7W2wTG1Kry5RP9m62gMd5X4U9TdPwo1psOr4s2KvSF5JRAId4QqT6OyASeXe7B1XhCE9mieiO4Fj-_Bqe_p8Fe0wSkIIN4d7Jl6XEAJdysdIcinuAmOmhYiNirA1bEhx0",
     "6e3fe2315429fa9d84a80298e98b15f5": "AYCElWa5ndxnd-fLLZ4ZmMPQ25WC9iEzYk2_6lajjtqPNmuqTxF2CqSdHS7y04yBMoFcWQUFq4jb9q9eF_w-U4pdp3nOaw3pnsMpNaRJBAAJM3AKhxHzTrzqYYto7jSzKH7nMaZNPPqvmNYs32QCn4wteB68WvTbgfogdMwa4iyTsLjcSrM",
     "6c9b362485b8a35f6854de1d21eb4041": "AX-VZrmd3Gd358stnhkd7q6SmKcGPJN-3_YbDVgsq7RJE6bdQbYY2gBB7XGjg1RWdYE-sXuOg37KCeblNaHZKqIvHQ_Hj5dQPEZyZVZIr0CL2H8DiB9XhmS4FlrzbM1DisvJq9bok30R7OiUIx_t7oXupvmFH41qtJR2U97QaAg",
-    "7b92d8e3467b36494e76dacf3151f771": "AYCBlWa5ndxnd-fLLZ4ZSpCjSC2ZnzlC9FGC6SN3GRYRTyCpJO6A144ka1izsy4F45Kuxt_HAsZB9fOeTZYubNIlDoXSOQ7yQ1EmQVXyXOt_36fHcA0pRppEl6nf4zTmf0gRgQv1TDt6HgdHjisTon9c0CadAAJ71jJ990KZfDEMV6k"
+    "7b92d8e3467b36494e76dacf3151f771": "AYCBlWa5ndxnd-fLLZ4ZSpCjSC2ZnzlC9FGC6SN3GRYRTyCpJO6A144ka1izsy4F45Kuxt_HAsZB9fOeTZYubNIlDoXSOQ7yQ1EmQVXyXOt_36fHcA0pRppEl6nf4zTmf0gRgQv1TDt6HgdHjisTon9c0CadAAJ71jJ990KZfDEMV6k",
+    "8ae280112b061ea5bda96e9ec56bc1e1": "AYCBlWa5ndxnd-fLLZ4ZCovlxeLmbvV9Q0hyHdCrzk2tCJVlz6saLW--EvGe8QV0rIoMKcRhPI9BEvqUZUTW5rRgHhP_WxlgD6mPrKyw6K7tMBUC_DQ8k70vnri8KwCvcAaRwQqKvSPIAF-KRUppWH-H4cALH6ImRM_mNObtG8RF3uI"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://dic.academic.ru/pictures/wiki/files/54/60_Kuybisheva_st_Samara.JPG",
       "https://tvsamara.ru/media/news/1905114-103814092025.jpg",
       "https://aif-s3.aif.ru/images/035/307/b6b3028b6502a96f5ba246f8f2f08652.jpg",
       "https://cdn.radiosputnik.ru/images/07e8/01/0e/1921282367_0:310:2794:1882_1920x0_80_0_0_a823093e336ff5a21727057af784a54d.jpg",
@@ -333,10 +333,10 @@
       "https://static26.tgcnt.ru/posts/_0/f5/f5b4ccb4e049072f660c7307bba545e7.jpg",
       "https://kalmatron.ru/upload/medialibrary/9e4/icpfpqzqzeikvoypc7oor9hws9a0fh6f/vil_nyusskij_mezhdunarodnyj_aeroport_litva.jpg",
       "https://tvsamara.ru/i/86/86f310efc3b34b6f2923f0cb5bcfab94.jpg",
-      "https://citytraffic.ru/Files/2026/08/20260806-1619-406776-02.jpg"
+      "https://citytraffic.ru/Files/2026/08/20260806-1619-406776-02.jpg",
+      "https://aif-s3.aif.ru/images/034/202/e88f691ca16f43446ff0b7fa52940600.jpg"
     ],
     "hashes": [
-      "b6a20da4995fde75ca88ed3ea5b7b3f6bd5703d1",
       "e8e20bd921136ce7ef2309149246ecf3629c4ae5",
       "07eb59cac5ad5c73095e72530da27b7d87f4340d",
       "beb19bfac21b0e063ee4e31a1194d8e72ac6602b",
@@ -635,7 +635,8 @@
       "aafd3822f668f70917690f7fb94037df8da20b4e",
       "9f272a1fd0863401b65b75c76b16b2001abc3d25",
       "fcd694c75ba3b1bb6d04f0c9abbb87364ff2bc81",
-      "95d87d3e737a6657e074cb6da9d9ded22c1ba8b3"
+      "95d87d3e737a6657e074cb6da9d9ded22c1ba8b3",
+      "7ca2e2d7764836cc6bb5f62d22e313df63e5ee0c"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
