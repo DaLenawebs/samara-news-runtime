@@ -38,14 +38,14 @@
     "0bae1bb261e6fa7c4a962487480886b2": "AYCBlWa5ndxnd-fLLZ4Z9wDPOW7u2dbVuunsp-aaz5gVkL8M_0_58qvW7TF0Mm-B0yyOAcOhoSR6_BWJZ2USoLz4ri_YtLc-LLegwAxQfC7BnXZmb1jo9ORab9Akk3A5Ucr9ijnyfd0m0dGKPxy_Mg9ljL4YdMrs5k-Gj6NTgKXFnSY",
     "0056d450fd612921fba6eb90fd2639a5": "AYCBlWa5ndxnd-fLLZ4ZUYafL3VyGTn4R4FTTyY3_7kWKT0VWZCaI6ij92CiJmgbgldd6do2YIidLk3dfWu9DSizHRVEctOT0KP06LPzio_RrKcEV2XZhGeWo2afW4MrfAbzkmRZcr0qSn7OYT9vwx5l-BeIRNZGDD9Uad4g48FgsVQ",
     "29751658b26749c03d98210e7a90875a": "AYCDlWa5ndxnd-fLLZ4Zal_bnyx_eSGHUPcBPJuyeQ_z2Nmg81gUjXP6ivtIqhjGisF0P8kkZratU2xd4q6u_7zrQz8FrVO_maQ1x5FkONOfsvmwGYxpwHulIIkvP2HiiT_-zXgfK8wiSZMg-6X_3Qj_EZvwoEuWP73jv3VbTAQmKFCJjw",
-    "46e51dd16bfa4e183bd40e8c99c57c23": "AX-VZrmd3Gd358stnhlOxl6OUkfNP6Jwiarw7-FfQWIi0rFceKTk2DSfv2xFPOpRocXCD-xsiwr4786M5JcmA2VyOl9fzivzwGuOWMCWK_YkSa_VzYQIxzqs1od_6N8VuBcG1JPkrxmR9dkB3Ebcez60_QSBnpR8NC27GOGBXDI"
+    "46e51dd16bfa4e183bd40e8c99c57c23": "AX-VZrmd3Gd358stnhlOxl6OUkfNP6Jwiarw7-FfQWIi0rFceKTk2DSfv2xFPOpRocXCD-xsiwr4786M5JcmA2VyOl9fzivzwGuOWMCWK_YkSa_VzYQIxzqs1od_6N8VuBcG1JPkrxmR9dkB3Ebcez60_QSBnpR8NC27GOGBXDI",
+    "1e6487ad5d7b37a08b0712ba4fd0a604": "AX-VZrmd3Gd358stnhlwFekFZDTLB_z2OAQ17RDfV3MJdkmQM5EaQASxGa4y7IcFdnU0ab4vsYPV7not5OsefuUkTe0BGG4ulsrbA5hHK3YCq8AeJi-w18rvvL86I3zwjVNAeDJmKs88K0jAT5LrzQ0e3D3hLl1JhQrnIXD-Li8"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://samaragovorit.ru/upload/u1/004/bigjpg71033.jpg",
       "https://cdnstatic.rg.ru/uploads/photogallery/2023/07/14/samara-teatr-dramy_72c.jpg",
       "https://aif-s3.aif.ru/images/031/271/9f7f0a7f4cd5e772bdbfe7ca9d8a0560.jpg",
       "https://zbulvar.ru/wp-content/uploads/2025/10/Mobilnyj-reportyor_Agentstvo-Moskva_831632.jpg",
@@ -344,10 +344,10 @@
       "https://drugros.ru/uploads/page/facf2648-e64e-11ea-aaf5-0242ac1a0007/main.jpg",
       "https://rb.ru/media/upload_tmp/20161105-dsc_8037.jpg",
       "https://st.volga.news/image/w1300/h900/max/b392b7d4-f80a-4aa8-b964-0160a952d75e.jpg",
-      "https://pro.firpo.ru/netcat_files/312/481/cKkwmdMd24w.jpg"
+      "https://pro.firpo.ru/netcat_files/312/481/cKkwmdMd24w.jpg",
+      "https://aif-s3.aif.ru/images/045/553/21780a3672421153e7b5be3f3e6dd85d.webp"
     ],
     "hashes": [
-      "48259973ea64d5069aee718302c35e002084e565",
       "be5dd420d50aa331e5fbc9b1cb86065d37f9a8cd",
       "fec412ca23a4d290c9e6e81452841c629d5e79d8",
       "567a3e1a2d947a1f1c6b6912a68936379fa12bee",
@@ -646,7 +646,8 @@
       "23f241b4cfbd7645f29d98069fd3819e50737ee4",
       "92e6e90cdcd52e80d9f95ee1065f16a3d3ada50e",
       "f281aea96aaf58a107b7c9c7c3e9d832052a2281",
-      "2766f93975af5009e32afee0e215f4a905b1ef33"
+      "2766f93975af5009e32afee0e215f4a905b1ef33",
+      "e651739600987f156907fc89e309469028a05bbf"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
