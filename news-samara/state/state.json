@@ -32,14 +32,14 @@
     "d1053485946ccc1dd89765292455ff83": "AXSVZrmd3Gd358stnhlDc_Ax6vzgongVLQa37O_G0zMOZH_RPnrkAFD4TVlW4RfzBLw9nI3IIl4xmI_H7WwrDnbOf5GyqE1HoxbEnzDAIgwYpi865j-QGNVilrjZhwQoBxw9OEtamgBSck-7s2uaQdMsasb_",
     "7c1ad2906b396fabbd3ec48828e4834a": "AXSVZrmd3Gd358stnhlIuR43WTwQmCCIYtHO64DUvFvlLJLMlym7LOs-YMr-ZTvQK4EOr3ieMwU_A3BtAo638soBysBngBC7yGuVeYASGqw0xrzKmQmGJK42j5Tc5C_qrnKUzl3qf-aEQAuNJnKBV9YMpz8h",
     "5591cc672092e867c60a39734c1e5cc4": "AX-VZrmd3Gd358stnhnVpRfq48lZRj_IKlfcVurUKAFAb3Jr5cC9kTc6IfYHvjbGATIa-CJkvWwhWwnBfoM4v7cbcdCuDwfkptNWeOTX2lm_VyTUVTg2JvVs0jIux2sNdZ3YMivn9_kJn3yTyW8qfD6-6gr8iGbMmGwrkQxm8WE",
-    "d47a5dedead0a7e8ca6d9a0778518eab": "AYCBlWa5ndxnd-fLLZ4ZFvU-OFVdXXq4xbiaYqPPKUd7nemu1kBGe1fwxV_QvCseQGDXWn8Z9PPLxI0VzFR9PZZfydwOfWSKrdJ4CJlwcAycxcjsc8wLAW1rWvf8fhO8082LLmwD1DqjbeGRHghWqgL4PGVMtxFHFktJoa1KXGork1o"
+    "d47a5dedead0a7e8ca6d9a0778518eab": "AYCBlWa5ndxnd-fLLZ4ZFvU-OFVdXXq4xbiaYqPPKUd7nemu1kBGe1fwxV_QvCseQGDXWn8Z9PPLxI0VzFR9PZZfydwOfWSKrdJ4CJlwcAycxcjsc8wLAW1rWvf8fhO8082LLmwD1DqjbeGRHghWqgL4PGVMtxFHFktJoa1KXGork1o",
+    "6384a53e5f44117b263381cf80f6d96c": "AX-VZrmd3Gd358stnhlBsfG8w61eIbN7e9k3T1RNYbe4ghjfAYk49vvOB07Daxy6MEjQcCle06fFD2YImCKd5M9XWBmKUh13wnFj1FHyWZH_IBX-0uaJlqeEKlo6gq0m4QPXI3xTfP_JzG6TML9otDrsu_lLGBdidPse51FGzOU"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://elk63.ru/wp-content/uploads/2023/07/m05y6I_bfgU.jpg",
       "https://komunavolge.ru/assets/uploads/gide/2025/June/naberezhnaya_Samara/DJI_0861.jpg",
       "https://turportal63.ru/upload/iblock/ca1/1%20(1).jpg",
       "https://aif-s3.aif.ru/images/036/392/f7b5868fda8347d42487178b51d818eb.jpeg",
@@ -338,10 +338,10 @@
       "https://oboz.info/wp-content/uploads/2025/12/Noskov-na-TZ.-Press-sluzhba-glavy-g.o.-Samara.jpg",
       "https://skillbox.ru/upload/setka_images/08434214042023_c7c2d6650fe8dd3125b1541cb39af56649bd56fa.jpg",
       "https://tvsamara.ru/i/6e/6e3b90f0626bacde4a007948e7261b57.jpg",
-      "https://sun9-16.vkuserphoto.ru/s/v1/ig2/ivl5MCC4vKzCZfXOqdnTvDqd6VMzvZ3CmR2t34T_nlgtMldYP5ofiOH8PQFHBpYIgVXdiQhp4uQWYtd9gIA_8RXB.jpg?quality=95&crop=0,0,900,600&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,900x600&from=bu&cs=640x0"
+      "https://sun9-16.vkuserphoto.ru/s/v1/ig2/ivl5MCC4vKzCZfXOqdnTvDqd6VMzvZ3CmR2t34T_nlgtMldYP5ofiOH8PQFHBpYIgVXdiQhp4uQWYtd9gIA_8RXB.jpg?quality=95&crop=0,0,900,600&as=32x21,48x32,72x48,108x72,160x107,240x160,360x240,480x320,540x360,640x427,720x480,900x600&from=bu&cs=640x0",
+      "https://cdnn21.imgria.ru/images/07ea/0b/1b/2134295359_0:227:1662:1162_1920x0_80_0_0_a6b3f94f308f8032172a294f8ce9fcf0.jpg"
     ],
     "hashes": [
-      "263905b86b9fb0b7c4f2c643c6c4e43521cffdf9",
       "a8278030687907bd5801b5537028819cd5d6d1bf",
       "5334c0ef5e1abca51eaa77b43e82bc623c1f9108",
       "466186fe6d62cfd2b3a78f691c1df1005740c164",
@@ -640,7 +640,8 @@
       "cc9a6601000045e895eac66fb5a8a38799f54af9",
       "08487021616abff0981fb019505b19b23aa308b9",
       "572ad24a06a2c4a0af20b94b1b715bd74dced452",
-      "e62aab446addba228290083c78d5491971bdbe5e"
+      "e62aab446addba228290083c78d5491971bdbe5e",
+      "0241c05b0d0516967648508bcaf65b50b407a48d"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
