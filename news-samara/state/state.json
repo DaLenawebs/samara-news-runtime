@@ -24,14 +24,14 @@
     "bb1da19b84bb2533040e95716dfa514e": "AYCBlWa5ndxnd-fLLZ4ZCkgCj0Jg8MSri6AnluMCozByeRjzHOSSpZcsP5vY79WXxoX8N7-8DQvUDQa85eV5Jt3NAHg-EHnAcfvOnazlTvNkQ2TAppJcEtQFtQGOJJ25_c2M2WPz0fAE5WASDk5A3n_ort9Ll99X0j_nc5FgIpROzm4",
     "39304057fc4bb1ebc514120e28683178": "AYCBlWa5ndxnd-fLLZ4ZQLxXrT2xP3Zp-LmBpOYPHLcZi7E-rYyVzChry0lNuFbeU-IYFnLnsIqrgrJ6Ss2jGhMwt39K1Dfi3bKpekfIw4xplRuuiqI49wiNpEA5xdn-9KXv5jMYWTxsUbttvweVb47kDrqexBwmqNRqfTOg43PNv9Q",
     "26c8fe5cfd067aaa679a8bbd1fa272be": "AX-VZrmd3Gd358stnhmWujbEt-PoJGCBKeepZGX6mWVqkLANroXPt8HMDItCq1hR-jVjMc6-HChc3G745KWfxl5RXP1RjY6Jkxnp66dtPwbpuJwEfAuAIVZLnLKTlnEZljQwzGOKcsQDkl1F7WhFbvTgEhmrTJu1iZ8TMfmJQAg",
-    "ddb87bd023b35fe3f9efccad34295ecf": "AX-VZrmd3Gd358stnhmOsKiO75jOMv__s1vBxWd02W7W2wTG1Kry5RP9m62gMd5X4U9TdPwo1psOr4s2KvSF5JRAId4QqT6OyASeXe7B1XhCE9mieiO4Fj-_Bqe_p8Fe0wSkIIN4d7Jl6XEAJdysdIcinuAmOmhYiNirA1bEhx0"
+    "ddb87bd023b35fe3f9efccad34295ecf": "AX-VZrmd3Gd358stnhmOsKiO75jOMv__s1vBxWd02W7W2wTG1Kry5RP9m62gMd5X4U9TdPwo1psOr4s2KvSF5JRAId4QqT6OyASeXe7B1XhCE9mieiO4Fj-_Bqe_p8Fe0wSkIIN4d7Jl6XEAJdysdIcinuAmOmhYiNirA1bEhx0",
+    "6e3fe2315429fa9d84a80298e98b15f5": "AYCElWa5ndxnd-fLLZ4ZmMPQ25WC9iEzYk2_6lajjtqPNmuqTxF2CqSdHS7y04yBMoFcWQUFq4jb9q9eF_w-U4pdp3nOaw3pnsMpNaRJBAAJM3AKhxHzTrzqYYto7jSzKH7nMaZNPPqvmNYs32QCn4wteB68WvTbgfogdMwa4iyTsLjcSrM"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://cdn1.tenchat.ru/static/vbc-gostinder/2024-10-07/b961f030-c926-4cc7-927d-f490342d09fb.jpg?width=2&height=2&fmt=webp",
       "https://www.azbukainterneta.ru/schoolbook/textbook/module_12/8.3.jpg",
       "https://school7szr.minobr63.ru/wp-content/uploads/2017/09/%D0%A1%D0%B5%D0%BC%D1%8C%D1%8F-4-%D0%B1-1024x512.jpg",
       "https://dic.academic.ru/pictures/wiki/files/54/60_Kuybisheva_st_Samara.JPG",
@@ -330,10 +330,10 @@
       "https://aif-s3.aif.ru/images/028/323/71122c42943f92e3955c01daae82ce21.jpg",
       "https://gps-forum.kz/wp-content/uploads/2024/03/sputnikovyy-gps-treker-1024x768.jpeg",
       "https://63.ru/html-to-img/og/g0AuEWvynMER813UjTpnEg/article-id2609998-16x9.jpg?1761750699",
-      "https://static26.tgcnt.ru/posts/_0/f5/f5b4ccb4e049072f660c7307bba545e7.jpg"
+      "https://static26.tgcnt.ru/posts/_0/f5/f5b4ccb4e049072f660c7307bba545e7.jpg",
+      "https://kalmatron.ru/upload/medialibrary/9e4/icpfpqzqzeikvoypc7oor9hws9a0fh6f/vil_nyusskij_mezhdunarodnyj_aeroport_litva.jpg"
     ],
     "hashes": [
-      "56b0516a5585c16e7014420ada8e61396c0e0087",
       "49d44c805938733b8c0e8e238de00c0bca6c2cea",
       "5b88a525318be83d06bd944a8b3e21bd2c0c1f4d",
       "b6a20da4995fde75ca88ed3ea5b7b3f6bd5703d1",
@@ -632,7 +632,8 @@
       "f59a0714b073477ffc1561d90dd8bbbaa0a60526",
       "607b58fcecf361aab6f02c7e4239133be0678ac5",
       "ad219cbdcf2fa2050bba78ceafb1f443d3ec55c1",
-      "aafd3822f668f70917690f7fb94037df8da20b4e"
+      "aafd3822f668f70917690f7fb94037df8da20b4e",
+      "9f272a1fd0863401b65b75c76b16b2001abc3d25"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
