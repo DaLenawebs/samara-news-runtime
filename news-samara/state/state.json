@@ -30,14 +30,14 @@
     "7b92d8e3467b36494e76dacf3151f771": "AYCBlWa5ndxnd-fLLZ4ZSpCjSC2ZnzlC9FGC6SN3GRYRTyCpJO6A144ka1izsy4F45Kuxt_HAsZB9fOeTZYubNIlDoXSOQ7yQ1EmQVXyXOt_36fHcA0pRppEl6nf4zTmf0gRgQv1TDt6HgdHjisTon9c0CadAAJ71jJ990KZfDEMV6k",
     "8ae280112b061ea5bda96e9ec56bc1e1": "AYCBlWa5ndxnd-fLLZ4ZCovlxeLmbvV9Q0hyHdCrzk2tCJVlz6saLW--EvGe8QV0rIoMKcRhPI9BEvqUZUTW5rRgHhP_WxlgD6mPrKyw6K7tMBUC_DQ8k70vnri8KwCvcAaRwQqKvSPIAF-KRUppWH-H4cALH6ImRM_mNObtG8RF3uI",
     "d1053485946ccc1dd89765292455ff83": "AXSVZrmd3Gd358stnhlDc_Ax6vzgongVLQa37O_G0zMOZH_RPnrkAFD4TVlW4RfzBLw9nI3IIl4xmI_H7WwrDnbOf5GyqE1HoxbEnzDAIgwYpi865j-QGNVilrjZhwQoBxw9OEtamgBSck-7s2uaQdMsasb_",
-    "7c1ad2906b396fabbd3ec48828e4834a": "AXSVZrmd3Gd358stnhlIuR43WTwQmCCIYtHO64DUvFvlLJLMlym7LOs-YMr-ZTvQK4EOr3ieMwU_A3BtAo638soBysBngBC7yGuVeYASGqw0xrzKmQmGJK42j5Tc5C_qrnKUzl3qf-aEQAuNJnKBV9YMpz8h"
+    "7c1ad2906b396fabbd3ec48828e4834a": "AXSVZrmd3Gd358stnhlIuR43WTwQmCCIYtHO64DUvFvlLJLMlym7LOs-YMr-ZTvQK4EOr3ieMwU_A3BtAo638soBysBngBC7yGuVeYASGqw0xrzKmQmGJK42j5Tc5C_qrnKUzl3qf-aEQAuNJnKBV9YMpz8h",
+    "5591cc672092e867c60a39734c1e5cc4": "AX-VZrmd3Gd358stnhnVpRfq48lZRj_IKlfcVurUKAFAb3Jr5cC9kTc6IfYHvjbGATIa-CJkvWwhWwnBfoM4v7cbcdCuDwfkptNWeOTX2lm_VyTUVTg2JvVs0jIux2sNdZ3YMivn9_kJn3yTyW8qfD6-6gr8iGbMmGwrkQxm8WE"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://cdn.radiosputnik.ru/images/07e8/01/0e/1921282367_0:310:2794:1882_1920x0_80_0_0_a823093e336ff5a21727057af784a54d.jpg",
       "https://imtos-samara.ru/uploads/posts/2025-02/8.jpg",
       "https://elk63.ru/wp-content/uploads/2023/07/m05y6I_bfgU.jpg",
       "https://komunavolge.ru/assets/uploads/gide/2025/June/naberezhnaya_Samara/DJI_0861.jpg",
@@ -336,10 +336,10 @@
       "https://citytraffic.ru/Files/2026/08/20260806-1619-406776-02.jpg",
       "https://aif-s3.aif.ru/images/034/202/e88f691ca16f43446ff0b7fa52940600.jpg",
       "https://oboz.info/wp-content/uploads/2025/12/Noskov-na-TZ.-Press-sluzhba-glavy-g.o.-Samara.jpg",
-      "https://skillbox.ru/upload/setka_images/08434214042023_c7c2d6650fe8dd3125b1541cb39af56649bd56fa.jpg"
+      "https://skillbox.ru/upload/setka_images/08434214042023_c7c2d6650fe8dd3125b1541cb39af56649bd56fa.jpg",
+      "https://tvsamara.ru/i/6e/6e3b90f0626bacde4a007948e7261b57.jpg"
     ],
     "hashes": [
-      "beb19bfac21b0e063ee4e31a1194d8e72ac6602b",
       "5e55916a915bd46d2107cd2afa45a5bb55d46891",
       "263905b86b9fb0b7c4f2c643c6c4e43521cffdf9",
       "a8278030687907bd5801b5537028819cd5d6d1bf",
@@ -638,7 +638,8 @@
       "95d87d3e737a6657e074cb6da9d9ded22c1ba8b3",
       "7ca2e2d7764836cc6bb5f62d22e313df63e5ee0c",
       "cc9a6601000045e895eac66fb5a8a38799f54af9",
-      "08487021616abff0981fb019505b19b23aa308b9"
+      "08487021616abff0981fb019505b19b23aa308b9",
+      "572ad24a06a2c4a0af20b94b1b715bd74dced452"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
