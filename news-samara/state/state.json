@@ -18,14 +18,14 @@
     "e61aa4a7944c1b52563489ad2fb87d68": "AX-VZrmd3Gd358stnhm5Iibx-RlhwtzLnrAnpqpXgieuWZbhJEy-IuKl5vB2ulP9v8A9gvTaGQ5qqynwS4Bd6vHzhQux3B022bsW55qNoAkiiNld8_nvDymZCWjbTT9B8WG5mBjQQ_zBX1_Roye5k6qeA2DKoKwkWfQNmfH_5Ew",
     "b865c6595ab16c5552dea4d1507ed36a": "AX-VZrmd3Gd358stnhmO87AxyGJ0iMho5gTX2CgxaJ3CdT3Dy6WIxHf5uRt2pFh3vciboayCJFKOXggXbJD8mlw1hF0H_NG_N6ah1SgncfeAkOvItcz0tevLjjexaqRVQTQBsuvrDDmisY6H_fVUBmrfr8YybVxv4t9fCAyj7U0",
     "c02668ece7b4009b9123d179e5684f84": "AX-VZrmd3Gd358stnhmQVI4_QINmwujg0pFgN4oxgYUPFf1fy_-YajPmlid1-Yfld2KId40DaJbuobjN0wU3WhqViIDcd-ciy1dsGRZIwVLgUztCbFroF5f04BUlSoVyJq8-_bPVMklonookkOEAWKtgwTjEgzLKzqyXX_85L2Y",
-    "2e9f301e0496c051918a4772f0ec8230": "AYCMlWa5ndxnd-fLLZ4Z6Ezf05g9GlDqBrAHh2_mFlz-1es1vZbfAZ9Dy6YIFe9C9jqzbqj5Q6Je86hK3x0R5I6SM9pRw2OxxKkh8llxsZnwrTFmh6ocRh3wDV0C0LbPatIYsvnjgSKyqt32AGD8GgvabszIs6yUc8M7RVGTy9YBxTnGVEyrg3PM0Lwk4g"
+    "2e9f301e0496c051918a4772f0ec8230": "AYCMlWa5ndxnd-fLLZ4Z6Ezf05g9GlDqBrAHh2_mFlz-1es1vZbfAZ9Dy6YIFe9C9jqzbqj5Q6Je86hK3x0R5I6SM9pRw2OxxKkh8llxsZnwrTFmh6ocRh3wDV0C0LbPatIYsvnjgSKyqt32AGD8GgvabszIs6yUc8M7RVGTy9YBxTnGVEyrg3PM0Lwk4g",
+    "caa9af0961c022fd604be27dd7ee0a18": "AX-VZrmd3Gd358stnhkEVrBRjW-kStPlwmIYrZ7X-TXvEI__Q_yptsWTZ30qZ5ELRU71hRBmv6r1Donv-eFacm-hZDMPKPerIR_QPhLnfjw9K_-QzSstw7K4119DHgL1mtCfnV4bh6ZnW6NOACALELKoeGCOyFTFaxMjKrsMnLQ"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://aif-s3.aif.ru/images/032/472/37d3b01699af98d50cf38f2f5cae512d.jpg",
       "https://familysenter63.ru/images/3.jpg",
       "https://progorod43.ru/userfiles/picoriginal/image-1649257146_1375.jpeg",
       "https://u-f.ru/sites/default/files/salati.jpg",
@@ -324,10 +324,10 @@
       "https://palex-r24.gosweb.gosuslugi.ru/netcat_files/generated/97/139/760x570/70/8ef1b78ef551488a260b0753c523292c.jpg?crop=0%3A0%3A0%3A0&hash=2d4e6c68499f742c7730aa605c32043c&resize_mode=0&wm_m=0",
       "https://volga-mother.ru/wp-content/uploads/2019/12/DmvJ7pFX4AA88NB.jpg-large.jpg",
       "https://med-elektro.ru/wp-content/uploads/2017/12/%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%802.jpg",
-      "https://vestnikip.ru/wp-content/uploads/2024/12/verhovnyj-sud-scaled.jpg"
+      "https://vestnikip.ru/wp-content/uploads/2024/12/verhovnyj-sud-scaled.jpg",
+      "https://regionsamara.ru/wp-content/uploads/2025/03/collage-2-23.jpg"
     ],
     "hashes": [
-      "9ebf3530afca1984349b2e04efe9ee40f4beee2a",
       "0feca9846b18170804655b2205ca8191c2ae9ce5",
       "671a8336af1bbd3c48ecc86bf55aa7afc404dae6",
       "4f6da9be80f79552613f143d1ff3c13a59f80d7d",
@@ -626,7 +626,8 @@
       "73348da211ecbfaa70397a46320c460510df9f44",
       "fb225b377136db0bc595ddc078d13b891906bd4e",
       "7538738664af4776a0801736341747671ea1d838",
-      "3661ef1259f038306dc57cad8745abf732d51d70"
+      "3661ef1259f038306dc57cad8745abf732d51d70",
+      "5482670cec47d785cf47a666b55b658cf58ad42f"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
