@@ -23,14 +23,14 @@
     "077b788dfac883ab93cddc9d12614eba": "AX-VZrmd3Gd358stnhkOvTrHThApNx9-4DfK5loFnurERRl4zorh6UjFnz3oSNmkqP-7wZvBsC1mRuY2Y9vZA4PRIMXIfF9oaIIbll7nYgWsGJSZN1eFuc-QJOMnK6utcMmN4wzd6mhcJb-nOLmsuleDye_5DEhzORivFHe25u0",
     "b23fc7fb09b5b7a8a1f818e7b8f4d176": "AYCElWa5ndxnd-fLLZ4ZiWfSU9Pe5_Gm66WFqmlzT847mbBOaGNRZm0OzzqFlV2kFxOSxdy1V68O8cjLr4g7_f8j2MO7C88X7iW4eG6BxF85UJFkSs0vdt9EEw--uYCgtxyqxtTndp7HT20jvU0vxOtZBxzFpe89OkC7aaZKbdWwVLKWf6U",
     "8c3128a078a3c49e44aa6ba22fea6421": "AX-VZrmd3Gd358stnhmpn1X0HN6t7utaQxE1UUoGAowD05b7wZmBhcRn2D2pb9RrunhfXu5JwnF6l5K5_mCHXHG0IIsQFJaaAv0gSx1eyqdDyzmb_jMNkzHs5Kr51B1gcD5nheCsqEMMVgEpgLnFjVDQBkV0_1LVze5riVB9Oco",
-    "7a54e6b7fab5013e5ceed0d1566ece66": "AX-VZrmd3Gd358stnhkhD8met5BUYS45gLFp2yIjNcaLyW4iAfwbihvICOmudLhSI3xJq6Ktq6ACcxqcye0UfFnsQW284xpSv5oxIT73vAeXpOGrlu8elIx4qGHNvWsgHCbs7CIoeMUo2TuCIwpA704FP5DzQLptefUcC0gqVr8"
+    "7a54e6b7fab5013e5ceed0d1566ece66": "AX-VZrmd3Gd358stnhkhD8met5BUYS45gLFp2yIjNcaLyW4iAfwbihvICOmudLhSI3xJq6Ktq6ACcxqcye0UfFnsQW284xpSv5oxIT73vAeXpOGrlu8elIx4qGHNvWsgHCbs7CIoeMUo2TuCIwpA704FP5DzQLptefUcC0gqVr8",
+    "af12e15a4ca51d0c655584a6580e2f83": "AXSVZrmd3Gd358stnhmlqZCc-jFMiXGfmdyqqR7x2QWYMu2_LdgN6OOkv8usKfI0na2BZvnJjAfHkI0IoWodNXlYNrhZOx_D4w140od1VZizkmIxdX7NbPXmfkdK8N2Dh-hTxIi9joLJOQ3tzbB6Rf1Xab_5"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://www.iffcotokio.co.in/content/dam/iffcotokio/iffco-images/airplane-with-travel-luggage.jpg",
       "https://images.wallpaperscraft.ru/image/single/snegopad_liudi_ulitsa_134931_2560x1600.jpg",
       "https://rotana-rf.ru/wp-content/uploads/2025/10/xtv5908hm3tjfmbg3s.jpg",
       "https://63.ru/text/longread/2021/05/31/69943796/2021/images/tild6333-3531-4164-b536-666261663061__cctv-2846083_1920.jpg",
@@ -329,10 +329,10 @@
       "https://listaj.ru/wp-content/uploads/2026/09/ennnnnoen.jpg",
       "https://cdn.radiosputnik.ru/images/07e9/0c/1f/1982874787_0:160:960:1120_1920x0_80_0_0_d6c61478ff876bc355552a34cb41f12c.jpg",
       "https://tvsamara.ru/i/9b/9bfe6fc0f581d0746f12cdd38b5c2c86.JPG",
-      "https://cdnn21.imgria.ru/images/07ea/0b/1b/2134312888_0:0:2490:1401_1920x1080_80_0_0_fc7186eb2e96ac0d912fc1d228cd9331.jpg"
+      "https://cdnn21.imgria.ru/images/07ea/0b/1b/2134312888_0:0:2490:1401_1920x1080_80_0_0_fc7186eb2e96ac0d912fc1d228cd9331.jpg",
+      "https://sun9-38.vkuserphoto.ru/s/v1/ig2/3ly0Lib99-lOqxIb8Ko3-LKweZoxr030UJQ9_Tez-IsI2lTk8oUSEFhg_1-DGCt68_bxDK-oAo2WQZkeAq7KzULa.jpg?quality=96&crop=0,0,1130,800&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,1080x765,1130x800&from=bu&u=QQUWi01SbLUubc4BTzp6HF17260uIqVJFdU6Sdz_XRc"
     ],
     "hashes": [
-      "194c0b1f8e96c1c535631113afbbccd27342229e",
       "ce15d8e42b617bc518b0d7053dc183194ed860c4",
       "aa81482122ce8d594e0d86a48a91c35ca3cbe73e",
       "e5edffca3eb6d41236de831af4668f2417070d3a",
@@ -631,7 +631,8 @@
       "8a97fbb255c53dbe9c41c961bea9ee256594dad2",
       "9e90c5820b822aa3d34c19f7bb6f1f4080590db3",
       "e85a00966dfb797b078eaf7dacb531e0a57151e0",
-      "87fb21a92128531ffbaf691db689877be0b7c351"
+      "87fb21a92128531ffbaf691db689877be0b7c351",
+      "cd69288895c23da2f233787155e4c84070183487"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
