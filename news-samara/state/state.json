@@ -19,14 +19,14 @@
     "cbc44dcb2fb5d6ac9ff7f143eec9d9eb": "AYCBlWa5ndxnd-fLLZ4Za79MsCB46LR4YsqnfXnnq2nq7QM7qzxnGo90_qyL0VNTC0lIjKZtAxp_8N-pJNzyQO4aR2_7eVDA381yesZVNyOUWIb2lSDtGFsexF1QQR3FeipXo6aD7YZwLj4hHXd7z7VdW29-PCUVpg602hoc_L4yYlQ",
     "ed48382fffac93feec67969b05f7106c": "AX-VZrmd3Gd358stnhnAkkQV2q_lnv6P3N2PzcwDZutHT453D01FmQ1wBpip_SMky13Nc3wC_K_jm11yTUksA_hmCTA-jAIr_DDBrw3hh8_NQO9BWjjMfuLMEi7ppJLl2QCLiQu0gZKjJ11JlrxFoufYr_TFQ2sgJz04GVgjd8U",
     "db652d8cc1ff7c20371b1b2cf22e05b0": "AYCBlWa5ndxnd-fLLZ4ZMQ4ObGSYSPxPFJiQp_ptNNU2vPObyPX-ln1jP3FvLbbRfwDfU0yaMcodnIDqqgXLZy_EAtgZP9puwYGAYcU8K4zNDhHWhXTOUBQFWLjWFWKmoq6lZv4mrY76ZtCobYXa_STGIwii2J9HHE2pKGWU3HWmJSg",
-    "9ab1b4d0170b2c96c94e58645f9dbc26": "AYCBlWa5ndxnd-fLLZ4Zv16YlpBMy5YoUiS9is_ixKJelHysRZOZlGwEHgSoX54er7EL8GXZR7Fu7CoRZ7WAP8R3HrlIiH5PKLzgt2pvKT6EP6ziqwJ7hwKXuwTJuvJMLsRm4nFf04iY0DuaCcYXafoDNRKo9glZ14xhzVV-Hkd2kc8"
+    "9ab1b4d0170b2c96c94e58645f9dbc26": "AYCBlWa5ndxnd-fLLZ4Zv16YlpBMy5YoUiS9is_ixKJelHysRZOZlGwEHgSoX54er7EL8GXZR7Fu7CoRZ7WAP8R3HrlIiH5PKLzgt2pvKT6EP6ziqwJ7hwKXuwTJuvJMLsRm4nFf04iY0DuaCcYXafoDNRKo9glZ14xhzVV-Hkd2kc8",
+    "077b788dfac883ab93cddc9d12614eba": "AX-VZrmd3Gd358stnhkOvTrHThApNx9-4DfK5loFnurERRl4zorh6UjFnz3oSNmkqP-7wZvBsC1mRuY2Y9vZA4PRIMXIfF9oaIIbll7nYgWsGJSZN1eFuc-QJOMnK6utcMmN4wzd6mhcJb-nOLmsuleDye_5DEhzORivFHe25u0"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://iuldash.ru/attachments/0b60c4c0083b295353f127048e01b087b9034728/store/crop/0/0/1360/906/1600/0/0/7fccf6955e9b00f813fa934a4d6a432f1779c29d9f1bc4cf92b8053f2333/d290425d3db1ca1d5cb1ab5d56bdb604.jpg",
       "https://cdnn1.img.sputnik-ossetia.ru/img/524/24/5242453_4:0:1915:1080_2072x0_60_0_0_2edbeb360dbc9bd9f0ae3f031e0aeee1.jpg",
       "https://impuls.detiguso.ru/wp-content/uploads/2026/07/happy-family-portrait-with-father-mother-son-and-daughter-vector.jpg",
       "https://junisa.ru/storage/image/9/7/1/798d1c2813cbdf8bcdb388db0e32d496.jpg",
@@ -325,10 +325,10 @@
       "https://aif-s3.aif.ru/images/026/869/6cf9ff00c089f85c815ce250426d506f.jpg",
       "https://phalera.ru/pic/wings1919015c06032c98e8a.jpg",
       "https://aif-s3.aif.ru/images/039/308/a4f390e6c9562776b6f837d6494e2317.webp",
-      "https://tvsamara.ru/media/news/8613619-074827012025.jpg"
+      "https://tvsamara.ru/media/news/8613619-074827012025.jpg",
+      "https://listaj.ru/wp-content/uploads/2026/09/ennnnnoen.jpg"
     ],
     "hashes": [
-      "fe71abeb6c3349a0cb50686fdf0f2f5a80f6748e",
       "b3945ed381bae436570af732c89945f87eb87fd0",
       "ecb7f373f0712a55ce574cf1ae2b5b12a1fec486",
       "45c49522e3af5df970b548b2da611b27a1e61aaa",
@@ -627,7 +627,8 @@
       "ce3373c3bd5944eb74e66e804c4c2ad74bbec61d",
       "b17e5ec20d607527913ff2cd47512ca6308d516a",
       "2030af15781b1c792348a6b4434af25db73ee7e6",
-      "063e6b4ef51558d5ee6ddf24c0a4e1b69bab701b"
+      "063e6b4ef51558d5ee6ddf24c0a4e1b69bab701b",
+      "8a97fbb255c53dbe9c41c961bea9ee256594dad2"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
