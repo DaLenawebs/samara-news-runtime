@@ -2,14 +2,14 @@
   "date": "2026-11-28",
   "images": {
     "0217f68540d49e612755f6bc9dec1132": "AYCBlWa5ndxnd-fLLZ4ZkMnkwAp6uQPISlONDD_dhIKdtkY_nNQyAOBBa03ihkAFYgMIOTQAAIuSRY6uAvqOZ0jaV2aTy0r3qkvaK2uJ4gf90IL3aH89zBADR5EQ6lHsuFTtFp_6qJrJM4e3makgRI6sfg3PuBR-wEG56lCnzRZyp68",
-    "614d4c02f59afc2a9e308d101eacf3e7": "AYCElWa5ndxnd-fLLZ4ZaQZ-ISf67I3uh-lr5UTs3hU60ftPjqy601LyZd_VeYDUJZTacyDkqZQfp3klQcrrM0JhivRjCzSGx35RgTcsKY0jC7-3svy4uk3vyh11Rfsq27IsVJCt52kBHb2ldFRd3-_s3ibaubjXSjEtQ1aZG4E7AYYVQus"
+    "614d4c02f59afc2a9e308d101eacf3e7": "AYCElWa5ndxnd-fLLZ4ZaQZ-ISf67I3uh-lr5UTs3hU60ftPjqy601LyZd_VeYDUJZTacyDkqZQfp3klQcrrM0JhivRjCzSGx35RgTcsKY0jC7-3svy4uk3vyh11Rfsq27IsVJCt52kBHb2ldFRd3-_s3ibaubjXSjEtQ1aZG4E7AYYVQus",
+    "0c37809a75206c765dbb6076b4489002": "AYCDlWa5ndxnd-fLLZ4ZyNStJiYAx2BddMQvN_OkfHsVMCJ8kMcOUh6L6pokVGQJ2iHeeDFElN6F2aJvKRceRbIMFgcnS3YuVRw_f79v-0VgSny2eWsVlRFpXmlGxo2wd48fhHkHC27LAKrHpOl4E-mZgO_QoF1K70D7uQMb3l3HTn0ORg"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://sportizacia.ru/upload/iblock/f87/f87175bd3589a31ed697f83d713ec326.jpg",
       "https://regionsamara.ru/wp-content/uploads/2026/08/b5da4b0fbecfb123b559f04c2162e242.webp",
       "https://aif-s3.aif.ru/images/024/875/e325f65d4865b075452b572dde1c580d.jpg",
       "https://st.volga.news/image/w1300/h900/max/2a61743e-c382-4276-9554-016efaa9f4b3.jpg",
@@ -308,10 +308,10 @@
       "https://sun9-20.vkuserphoto.ru/s/v1/ig2/ayoLunkxBhffTUdKrxdhhxHdnu2zwBC4Ww5kIHnPrDDBwwFlzYBH9cij7BpQIJRDVgwJjVeDH5fnG1aErzMYOpG7.jpg?quality=96&crop=0,109,921,1381&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,921x1381&from=bu&cs=640x0",
       "https://samaratoday.ru/img/2016/12/kv1.jpg",
       "https://gubdaily.ru/wp-content/uploads/2024/07/0882a.jpg",
-      "https://cdn.iportal.ru/news/99/preview/d7ac5e8fa4b4956c391102edec357dd703bdb7f4_1000.jpg"
+      "https://cdn.iportal.ru/news/99/preview/d7ac5e8fa4b4956c391102edec357dd703bdb7f4_1000.jpg",
+      "https://vestirama.ru/assets/templates/images/photo/d3604f6a4dbf04df8b4d722b43a469af.jpg"
     ],
     "hashes": [
-      "89d5bc73b83209ff04a34568c6ca943b25b4d485",
       "043d918ed0af7542456b6d6c8a2d870ad02443c2",
       "24a84482498e11d4b587137341cf844785ad707a",
       "7d172b5f5fb16dbfadf86f9951717e5dd50be99b",
@@ -610,7 +610,8 @@
       "f1aef6b76c856e7a2b27154d124cd6126c699c75",
       "774c6616b6b56451e8b5f272e9a48e2779aeb922",
       "8b7e9f2ec27b9aa2762da2085f265a20d222df50",
-      "63df31c06442f092d9457096110c9f8e4f641706"
+      "63df31c06442f092d9457096110c9f8e4f641706",
+      "26f56191d63a40977f3006aa8f05a2517fdc3b32"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
