@@ -3,14 +3,14 @@
   "images": {
     "0217f68540d49e612755f6bc9dec1132": "AYCBlWa5ndxnd-fLLZ4ZkMnkwAp6uQPISlONDD_dhIKdtkY_nNQyAOBBa03ihkAFYgMIOTQAAIuSRY6uAvqOZ0jaV2aTy0r3qkvaK2uJ4gf90IL3aH89zBADR5EQ6lHsuFTtFp_6qJrJM4e3makgRI6sfg3PuBR-wEG56lCnzRZyp68",
     "614d4c02f59afc2a9e308d101eacf3e7": "AYCElWa5ndxnd-fLLZ4ZaQZ-ISf67I3uh-lr5UTs3hU60ftPjqy601LyZd_VeYDUJZTacyDkqZQfp3klQcrrM0JhivRjCzSGx35RgTcsKY0jC7-3svy4uk3vyh11Rfsq27IsVJCt52kBHb2ldFRd3-_s3ibaubjXSjEtQ1aZG4E7AYYVQus",
-    "0c37809a75206c765dbb6076b4489002": "AYCDlWa5ndxnd-fLLZ4ZyNStJiYAx2BddMQvN_OkfHsVMCJ8kMcOUh6L6pokVGQJ2iHeeDFElN6F2aJvKRceRbIMFgcnS3YuVRw_f79v-0VgSny2eWsVlRFpXmlGxo2wd48fhHkHC27LAKrHpOl4E-mZgO_QoF1K70D7uQMb3l3HTn0ORg"
+    "0c37809a75206c765dbb6076b4489002": "AYCDlWa5ndxnd-fLLZ4ZyNStJiYAx2BddMQvN_OkfHsVMCJ8kMcOUh6L6pokVGQJ2iHeeDFElN6F2aJvKRceRbIMFgcnS3YuVRw_f79v-0VgSny2eWsVlRFpXmlGxo2wd48fhHkHC27LAKrHpOl4E-mZgO_QoF1K70D7uQMb3l3HTn0ORg",
+    "ecfd0d2c9976630a35965c190f97a101": "AYCDlWa5ndxnd-fLLZ4Z0QJSK7sUtaDazx6fhfx6VWstwTVgOiFNoonXiXLOTKDfZcWKxgQ_zUgti2dlWi-gVvp-iJWbth-RtKnCuKtu3ec7PMKE5MfGqB545ylUy8eVv3JEzrFrVEuHaUaJoSyrQwHrkrSkCA1we-iyYFSbnsrUsEEh-Q"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://regionsamara.ru/wp-content/uploads/2026/08/b5da4b0fbecfb123b559f04c2162e242.webp",
       "https://aif-s3.aif.ru/images/024/875/e325f65d4865b075452b572dde1c580d.jpg",
       "https://st.volga.news/image/w1300/h900/max/2a61743e-c382-4276-9554-016efaa9f4b3.jpg",
       "https://content.img-gorod.ru/pim/products/images/b8/44/018ed3d4-28fa-7355-ae75-acafc7d1b844.jpg",
@@ -309,10 +309,10 @@
       "https://samaratoday.ru/img/2016/12/kv1.jpg",
       "https://gubdaily.ru/wp-content/uploads/2024/07/0882a.jpg",
       "https://cdn.iportal.ru/news/99/preview/d7ac5e8fa4b4956c391102edec357dd703bdb7f4_1000.jpg",
-      "https://vestirama.ru/assets/templates/images/photo/d3604f6a4dbf04df8b4d722b43a469af.jpg"
+      "https://vestirama.ru/assets/templates/images/photo/d3604f6a4dbf04df8b4d722b43a469af.jpg",
+      "https://sun9-79.vkuserphoto.ru/s/v1/ig2/UX67WB-c6cyu9MwVexAeVjD2aaDWIifAgCOfEWmRfnXEqxqkRFIF28OebjICfv6-Ji7ngqdLStcsjjAQH2y0iehL.jpg?quality=95&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350,1280x1600,1440x1800,1536x1920&from=bu&cs=1280x0"
     ],
     "hashes": [
-      "043d918ed0af7542456b6d6c8a2d870ad02443c2",
       "24a84482498e11d4b587137341cf844785ad707a",
       "7d172b5f5fb16dbfadf86f9951717e5dd50be99b",
       "e4af641561740347245881e2ff700d3241601d72",
@@ -611,7 +611,8 @@
       "774c6616b6b56451e8b5f272e9a48e2779aeb922",
       "8b7e9f2ec27b9aa2762da2085f265a20d222df50",
       "63df31c06442f092d9457096110c9f8e4f641706",
-      "26f56191d63a40977f3006aa8f05a2517fdc3b32"
+      "26f56191d63a40977f3006aa8f05a2517fdc3b32",
+      "b997fc171c8a7d188898366601115d452048b876"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
