@@ -10,14 +10,14 @@
     "ab1767eec1464cf8f84b9c945947efd4": "AYCBlWa5ndxnd-fLLZ4ZBz4bBsHPYsWsg4GTLSA4ubb_7-PgCB9bPFJ9N69b3TCMBvNmeSXThPHI3A5MlNxAJmwPDG10RGB34okQcRx2-bc3MX-YK-y9JuD5tMHVaRFqdoJQ3oxUnGBn9Vv4OfsuGQijBg16A1yrX5T9NJGICT1iUiI",
     "78caffc1cc55ba8c1323573f4fd8abe6": "AXSVZrmd3Gd358stnhknCAZ1Hlbp3NS2jquqcMXpMFiMHr3xZSSRAVykjevQqPFI7mi3-SXX709qjZ-FORTl7W3ocNzJjnCK2V93XPCE93s5ZLI0rDVAEDFD771onreXSiy7rdAxXdaT6i8BwIfgTkCOPfWV",
     "49762c5e572266cb3d98e60bbe4e2b4c": "AXSVZrmd3Gd358stnhljLNaV3ERrG7OHLKZQREzK1Py-U19JkGBKitbNJOBGTlC7HnOZq4yIxrP839iXrk4uKpVP04rk2JZ6kO1rQejJut09-fgvNn1RF_ohkWqGI7Wpz0Ez8FeY21drTRvBgUBUulRUR947",
-    "3b90b5ec39d9031694d699fb6ec7120c": "AYCBlWa5ndxnd-fLLZ4ZY_eitBJM805hyoPtzmNoNM_9mhoh1VNq5scaK8NuIQVfqUQcW0rlTqhnHqxgnqi9QqMjs2TaFQ4cFvAjdTmSw9KZorCN4uRHeuBEl4Ht36qfR2DL6seFZG6tAzNryzUPRwhMNpQa15ePPbFigQgDsfwOkSk"
+    "3b90b5ec39d9031694d699fb6ec7120c": "AYCBlWa5ndxnd-fLLZ4ZY_eitBJM805hyoPtzmNoNM_9mhoh1VNq5scaK8NuIQVfqUQcW0rlTqhnHqxgnqi9QqMjs2TaFQ4cFvAjdTmSw9KZorCN4uRHeuBEl4Ht36qfR2DL6seFZG6tAzNryzUPRwhMNpQa15ePPbFigQgDsfwOkSk",
+    "67556a8c51d366156f253bda89759540": "AYCElWa5ndxnd-fLLZ4ZMT2QowuFA07DbND7oi5flVNMYpX9zN95CqXMNHdZi-mU2iQyi8iHG6p6XNG5gPLVEZmVzSBXODjLyBtW3B3feFN2VlDM5IOUPInCRXA76CwsZe7z9I9Msz3JgS0CsZXfxNq3zE330MT9sNsnEITXBVX2d5JvOVU"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://belem.ru/files/education_news/insha_3.jpg",
       "https://www.tver.ru/upload/iblock/6ba/7.JPG",
       "https://cdn.radiosputnik.ru/images/07e9/04/16/1977640228_0:161:959:1120_1920x0_80_0_0_2d2dbdccdc9bc2388ea00d71397c0220.jpg",
       "https://aif-s3.aif.ru/images/031/214/4578d95f25eaf586219e3d259118abcb.jpg",
@@ -316,10 +316,10 @@
       "https://cdn.radiosputnik.ru/images/07e5/03/02/1599635763_240:0:1681:1081_1920x0_80_0_0_6437eab72a8c1fbd8f58dd0027cb1b0b.jpg",
       "https://a1.drive-data.ru/bfc052es-1920.jpg",
       "https://files.sudrf.ru/1159/user/prigovor.jpg",
-      "https://static34.tgcnt.ru/posts/_0/2b/2b8203fc914438d6379dc6cd975fcd9e.jpg"
+      "https://static34.tgcnt.ru/posts/_0/2b/2b8203fc914438d6379dc6cd975fcd9e.jpg",
+      "https://sun9-74.vkuserphoto.ru/s/v1/ig2/VUjwm1yAWN6l4ykgkpF446ixwkZpREM8JY22Rs5ivyFFjFdf3B8St_KgXzpTO3zVD0bIeymVQ2_cMc84WoUnO_4Q.jpg?quality=95&as=32x34,48x51,72x76,108x115,160x170,240x255,360x383,480x510,540x574,640x680,720x765,735x781&from=bu&cs=640x0"
     ],
     "hashes": [
-      "3314b4fd3ebebdbd784dd62282f1adb8e7c17f32",
       "29da3252cab7ed8e7a543162aeb03fceb5958710",
       "9a86c9744c77aec5faf44abc4b5304f5b8baa25e",
       "3f979b7f5445fe15309010267b6f254cafdbc595",
@@ -618,7 +618,8 @@
       "9b92ec11af1883b032b2755a1f6c69a583900e3c",
       "ee722a99470e462b6bc63b294794f768795eaae2",
       "53205139cd5eac54888351d2bbcde5643cec6a6c",
-      "6aef35eb700a60b4134e0d8f85ad18c1f2d9138b"
+      "6aef35eb700a60b4134e0d8f85ad18c1f2d9138b",
+      "9d0cabb7baf85ae45f0b5da9d0121c0b0ad2fa5e"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
