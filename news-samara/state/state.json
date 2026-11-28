@@ -12,14 +12,14 @@
     "49762c5e572266cb3d98e60bbe4e2b4c": "AXSVZrmd3Gd358stnhljLNaV3ERrG7OHLKZQREzK1Py-U19JkGBKitbNJOBGTlC7HnOZq4yIxrP839iXrk4uKpVP04rk2JZ6kO1rQejJut09-fgvNn1RF_ohkWqGI7Wpz0Ez8FeY21drTRvBgUBUulRUR947",
     "3b90b5ec39d9031694d699fb6ec7120c": "AYCBlWa5ndxnd-fLLZ4ZY_eitBJM805hyoPtzmNoNM_9mhoh1VNq5scaK8NuIQVfqUQcW0rlTqhnHqxgnqi9QqMjs2TaFQ4cFvAjdTmSw9KZorCN4uRHeuBEl4Ht36qfR2DL6seFZG6tAzNryzUPRwhMNpQa15ePPbFigQgDsfwOkSk",
     "67556a8c51d366156f253bda89759540": "AYCElWa5ndxnd-fLLZ4ZMT2QowuFA07DbND7oi5flVNMYpX9zN95CqXMNHdZi-mU2iQyi8iHG6p6XNG5gPLVEZmVzSBXODjLyBtW3B3feFN2VlDM5IOUPInCRXA76CwsZe7z9I9Msz3JgS0CsZXfxNq3zE330MT9sNsnEITXBVX2d5JvOVU",
-    "bf8e178a35ade2f01da871f6f4bb43cf": "AX-VZrmd3Gd358stnhmuBPqT-AshSpy5NARNmrIJsE1JPmltOwtZXxVBH_P3l4wGGLaX5n5VYkGrqb1Ag7lFrWNxZl51QFwkhg_k73aLv60NluvDzGpVVRWw8t6bcpBhHgK3MfWhdQy0pqZWyg2EH0-z2f0WvlX0KcNwWYLR9xw"
+    "bf8e178a35ade2f01da871f6f4bb43cf": "AX-VZrmd3Gd358stnhmuBPqT-AshSpy5NARNmrIJsE1JPmltOwtZXxVBH_P3l4wGGLaX5n5VYkGrqb1Ag7lFrWNxZl51QFwkhg_k73aLv60NluvDzGpVVRWw8t6bcpBhHgK3MfWhdQy0pqZWyg2EH0-z2f0WvlX0KcNwWYLR9xw",
+    "47c126bf8a2ff43f270d893a44f25783": "AXSVZrmd3Gd358stnhmUjOu_xSiX-YWo_j5SeCK-wTjLxCW3fL0YCT5rND8yoegzC9Sa3Ue5FDYTLWS91gUD5C80VPbcmiR3XQk1hoPfLYj6cPr8sDwFuEtVyNeAwutIQY1V2vc2AM5IexE9GlnD_6gchxOj"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://cdn.radiosputnik.ru/images/07e9/04/16/1977640228_0:161:959:1120_1920x0_80_0_0_2d2dbdccdc9bc2388ea00d71397c0220.jpg",
       "https://aif-s3.aif.ru/images/031/214/4578d95f25eaf586219e3d259118abcb.jpg",
       "https://aif-s3.aif.ru/images/033/711/921eadcc117323080aa1b772e4c630d8.jpeg",
       "https://cdn-main.infourok.ru/is04/0b7c/0002ca9b-c87a23d0.jpg",
@@ -318,10 +318,10 @@
       "https://files.sudrf.ru/1159/user/prigovor.jpg",
       "https://static34.tgcnt.ru/posts/_0/2b/2b8203fc914438d6379dc6cd975fcd9e.jpg",
       "https://sun9-74.vkuserphoto.ru/s/v1/ig2/VUjwm1yAWN6l4ykgkpF446ixwkZpREM8JY22Rs5ivyFFjFdf3B8St_KgXzpTO3zVD0bIeymVQ2_cMc84WoUnO_4Q.jpg?quality=95&as=32x34,48x51,72x76,108x115,160x170,240x255,360x383,480x510,540x574,640x680,720x765,735x781&from=bu&cs=640x0",
-      "https://www.snta.ru/upload/iblock/56e/56e16757351d0ec38c394c78616727bf.jpg"
+      "https://www.snta.ru/upload/iblock/56e/56e16757351d0ec38c394c78616727bf.jpg",
+      "https://u-datha.ru/upload/iblock/338/338b1290b9a4d66b52e0eed9da39b71d.jpg"
     ],
     "hashes": [
-      "9a86c9744c77aec5faf44abc4b5304f5b8baa25e",
       "3f979b7f5445fe15309010267b6f254cafdbc595",
       "5c56343f0caee10965d768c571a30c0568f57470",
       "b368fcad9c4f93c05dea19ecbdbae8dd2862e70d",
@@ -620,7 +620,8 @@
       "53205139cd5eac54888351d2bbcde5643cec6a6c",
       "6aef35eb700a60b4134e0d8f85ad18c1f2d9138b",
       "9d0cabb7baf85ae45f0b5da9d0121c0b0ad2fa5e",
-      "055cf83379a470a44967e49070855cf74063df26"
+      "055cf83379a470a44967e49070855cf74063df26",
+      "44c4d373569acc3d2db95ac0d3e7e54e42e8ec45"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
