@@ -26,14 +26,14 @@
     "7a54e6b7fab5013e5ceed0d1566ece66": "AX-VZrmd3Gd358stnhkhD8met5BUYS45gLFp2yIjNcaLyW4iAfwbihvICOmudLhSI3xJq6Ktq6ACcxqcye0UfFnsQW284xpSv5oxIT73vAeXpOGrlu8elIx4qGHNvWsgHCbs7CIoeMUo2TuCIwpA704FP5DzQLptefUcC0gqVr8",
     "af12e15a4ca51d0c655584a6580e2f83": "AXSVZrmd3Gd358stnhmlqZCc-jFMiXGfmdyqqR7x2QWYMu2_LdgN6OOkv8usKfI0na2BZvnJjAfHkI0IoWodNXlYNrhZOx_D4w140od1VZizkmIxdX7NbPXmfkdK8N2Dh-hTxIi9joLJOQ3tzbB6Rf1Xab_5",
     "a91b0a3fd3979b05befedc937bb824a1": "AX2VZrmd3Gd358stnhlOuaqQzwrSSTQZBBe8T-VKtcFvS84akLKPxxF1By5K2_bnYzi9h6qJkE2qyqNAiK9stVWwTNVXtBPZb7dTSZsW8mbJZlIVJjD84vzMp3zylVXKKDE8hoQgq0L85ocAuJqLs_hcWx6bu-miUrCxoB0R",
-    "ee765241eeaea66d269abf0ca583c5d2": "AX-VZrmd3Gd358stnhnVNb9_R4qb1H-5_Jw-vbD6jK1APIZHlWmgu3U2zcFsIXBIr0Fn17iY00VUAyrwUXir6_5FPuzmpxfemufE2ek5hZ18gpW79ZDCpQEjBiQNOLpj8FSiR5wA-ayikPOz5WQmGIgkB3LSQOfj_62czy8GDpw"
+    "ee765241eeaea66d269abf0ca583c5d2": "AX-VZrmd3Gd358stnhnVNb9_R4qb1H-5_Jw-vbD6jK1APIZHlWmgu3U2zcFsIXBIr0Fn17iY00VUAyrwUXir6_5FPuzmpxfemufE2ek5hZ18gpW79ZDCpQEjBiQNOLpj8FSiR5wA-ayikPOz5WQmGIgkB3LSQOfj_62czy8GDpw",
+    "6ab2e8d74311069b64588ea1a68b0faf": "AYCBlWa5ndxnd-fLLZ4ZcV9I8Kpk8pDmhO4lteD1f7FzX1HQmv8z7YsVrmjnQNZBWHWMeoYscHmkRE0dftTBHDolyFGvs9Aa7zafmB_x_DipqCV5ubNXFazkJ0D25hjDN4t-4TByD5ZOuM6YTLgwTRTnEMnyBQzKCD0751GQJRnGlDc"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://63.ru/text/longread/2021/05/31/69943796/2021/images/tild6333-3531-4164-b536-666261663061__cctv-2846083_1920.jpg",
       "https://moika78.ru/wp-content/uploads/2022/02/LADA_Vesta_SW_Cross_2.jpg?x94938",
       "https://b5.3ddd.ru/media/gallery_images/66a9b2955a96c.jpeg",
       "https://moscowstateballet.ru/wp-content/uploads/2019/10/bodynews_DSC06853.jpg",
@@ -332,10 +332,10 @@
       "https://cdnn21.imgria.ru/images/07ea/0b/1b/2134312888_0:0:2490:1401_1920x1080_80_0_0_fc7186eb2e96ac0d912fc1d228cd9331.jpg",
       "https://sun9-38.vkuserphoto.ru/s/v1/ig2/3ly0Lib99-lOqxIb8Ko3-LKweZoxr030UJQ9_Tez-IsI2lTk8oUSEFhg_1-DGCt68_bxDK-oAo2WQZkeAq7KzULa.jpg?quality=96&crop=0,0,1130,800&as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x510,1080x765,1130x800&from=bu&u=QQUWi01SbLUubc4BTzp6HF17260uIqVJFdU6Sdz_XRc",
       "https://turclub-pik.ru/crop/1600/720/uploads/routes/covers/7be9efa2cc0e876a64f2fa2c5817d9b4.jpeg.webp",
-      "https://vedomostiural.ru/uploadedFiles/newsimages/big/photo_2023-03-09_20-31-17.jpg"
+      "https://vedomostiural.ru/uploadedFiles/newsimages/big/photo_2023-03-09_20-31-17.jpg",
+      "https://www.scat-tv.ru/wp-content/uploads/2024/12/Oktyabr-7_Samara-novokujbyshevsk-1.jpeg"
     ],
     "hashes": [
-      "e5edffca3eb6d41236de831af4668f2417070d3a",
       "f5091a769573309c98010af899d865fc97e2e489",
       "6d624a30b615ac492440ac3228e720f3bd15b5a0",
       "d8a227e9661d00ed866981efd5158d6fc17adc66",
@@ -634,7 +634,8 @@
       "87fb21a92128531ffbaf691db689877be0b7c351",
       "cd69288895c23da2f233787155e4c84070183487",
       "7b1271a8a151461909b7894d2e2bcc2da4146bae",
-      "9d9db7555d95b03d39faba4fe2074741969b97fd"
+      "9d9db7555d95b03d39faba4fe2074741969b97fd",
+      "1a37287628542ae73a830ff0678278070800030e"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
