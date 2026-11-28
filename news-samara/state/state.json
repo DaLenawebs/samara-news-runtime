@@ -15,14 +15,14 @@
     "bf8e178a35ade2f01da871f6f4bb43cf": "AX-VZrmd3Gd358stnhmuBPqT-AshSpy5NARNmrIJsE1JPmltOwtZXxVBH_P3l4wGGLaX5n5VYkGrqb1Ag7lFrWNxZl51QFwkhg_k73aLv60NluvDzGpVVRWw8t6bcpBhHgK3MfWhdQy0pqZWyg2EH0-z2f0WvlX0KcNwWYLR9xw",
     "47c126bf8a2ff43f270d893a44f25783": "AXSVZrmd3Gd358stnhmUjOu_xSiX-YWo_j5SeCK-wTjLxCW3fL0YCT5rND8yoegzC9Sa3Ue5FDYTLWS91gUD5C80VPbcmiR3XQk1hoPfLYj6cPr8sDwFuEtVyNeAwutIQY1V2vc2AM5IexE9GlnD_6gchxOj",
     "bad61c8133ade66822d25f392942a28a": "AYCBlWa5ndxnd-fLLZ4ZvORFiE77-OWkoG-ZtZBQ0HXToL51JUvxx1flX6dAjpYFnrMrCgLcpojNiUqrwXuGg0dnIFbkCsJXpoVkoO57yPPXE3CWcMFEkMrvgIyfWs2-6vGNh5s6IOlCFS8F8KiWN0PUETVPr_d9BXTA9_XhrDbgWRc",
-    "774ca88d727d7f74856c1e082d91c2db": "AYCBlWa5ndxnd-fLLZ4ZIrzJypPX_M7-4durYzcMawPCp9xAEicnfTNQJ7RJhc_35nvX660hPaLQHxG--Dzr5x2NEU8A6UxAmPyECj1R9J94qE57AkO_aTKvzJMZ--IN-KDkafoY9MVfsprkwYZReGEowcf4U-L5JeeO_WlgSLO8oWU"
+    "774ca88d727d7f74856c1e082d91c2db": "AYCBlWa5ndxnd-fLLZ4ZIrzJypPX_M7-4durYzcMawPCp9xAEicnfTNQJ7RJhc_35nvX660hPaLQHxG--Dzr5x2NEU8A6UxAmPyECj1R9J94qE57AkO_aTKvzJMZ--IN-KDkafoY9MVfsprkwYZReGEowcf4U-L5JeeO_WlgSLO8oWU",
+    "cbc44dcb2fb5d6ac9ff7f143eec9d9eb": "AYCBlWa5ndxnd-fLLZ4Za79MsCB46LR4YsqnfXnnq2nq7QM7qzxnGo90_qyL0VNTC0lIjKZtAxp_8N-pJNzyQO4aR2_7eVDA381yesZVNyOUWIb2lSDtGFsexF1QQR3FeipXo6aD7YZwLj4hHXd7z7VdW29-PCUVpg602hoc_L4yYlQ"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://cdn-main.infourok.ru/is04/0b7c/0002ca9b-c87a23d0.jpg",
       "https://www.osnmedia.ru/wp-content/uploads/2023/05/2019-07-18-phantoms1dji0008.jpg?x72618",
       "https://discoverrussia.interfax.ru/media/upload/images/20160710_Oil%26Gaz03_Texture.jpg",
       "https://img.razrisyika.ru/img_new/9c/18/9c181949964ffa1d3d1d59d609ed87b1.jpg",
@@ -321,10 +321,10 @@
       "https://www.snta.ru/upload/iblock/56e/56e16757351d0ec38c394c78616727bf.jpg",
       "https://u-datha.ru/upload/iblock/338/338b1290b9a4d66b52e0eed9da39b71d.jpg",
       "https://i.sunhome.ru/poetry/212/kto-bolshe.orig.jpg",
-      "https://centrfenix.ru/upload/iblock/a4d/pq6gggqm99wwl2heipwhi4grhtxbakbz.jpg"
+      "https://centrfenix.ru/upload/iblock/a4d/pq6gggqm99wwl2heipwhi4grhtxbakbz.jpg",
+      "https://aif-s3.aif.ru/images/026/869/6cf9ff00c089f85c815ce250426d506f.jpg"
     ],
     "hashes": [
-      "b368fcad9c4f93c05dea19ecbdbae8dd2862e70d",
       "028791bcce105f8a53766b1c1c4dc3459f184839",
       "def0e0c460b20c2b3dead0c88ac021f9b42c3057",
       "20a4827248839055400b1be2e6268a1e3e3d6bed",
@@ -623,7 +623,8 @@
       "055cf83379a470a44967e49070855cf74063df26",
       "44c4d373569acc3d2db95ac0d3e7e54e42e8ec45",
       "4025d7e39481562522f498db8e06179f6cc081b2",
-      "552409a6b188bc1ab80d47ea17ce75df07ecfc5d"
+      "552409a6b188bc1ab80d47ea17ce75df07ecfc5d",
+      "ce3373c3bd5944eb74e66e804c4c2ad74bbec61d"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
