@@ -28,14 +28,14 @@
     "a91b0a3fd3979b05befedc937bb824a1": "AX2VZrmd3Gd358stnhlOuaqQzwrSSTQZBBe8T-VKtcFvS84akLKPxxF1By5K2_bnYzi9h6qJkE2qyqNAiK9stVWwTNVXtBPZb7dTSZsW8mbJZlIVJjD84vzMp3zylVXKKDE8hoQgq0L85ocAuJqLs_hcWx6bu-miUrCxoB0R",
     "ee765241eeaea66d269abf0ca583c5d2": "AX-VZrmd3Gd358stnhnVNb9_R4qb1H-5_Jw-vbD6jK1APIZHlWmgu3U2zcFsIXBIr0Fn17iY00VUAyrwUXir6_5FPuzmpxfemufE2ek5hZ18gpW79ZDCpQEjBiQNOLpj8FSiR5wA-ayikPOz5WQmGIgkB3LSQOfj_62czy8GDpw",
     "6ab2e8d74311069b64588ea1a68b0faf": "AYCBlWa5ndxnd-fLLZ4ZcV9I8Kpk8pDmhO4lteD1f7FzX1HQmv8z7YsVrmjnQNZBWHWMeoYscHmkRE0dftTBHDolyFGvs9Aa7zafmB_x_DipqCV5ubNXFazkJ0D25hjDN4t-4TByD5ZOuM6YTLgwTRTnEMnyBQzKCD0751GQJRnGlDc",
-    "1e0aaa958170f36aaa7569d856addbb7": "AX-VZrmd3Gd358stnhmPbOlPKaR-vWwZFX0k7ZQJEdfhuOK3f86N0N7g5ErgR0sXzp6TpYP3yk-OD-ppbdLbAEx6zufS8f_jZdP5qUz_7F8gISzhb-IIW-A9ZUsmBSMal-UlJ6O0GQeG0tAb8rNKqPNbgA9S1uhTCWqxy4xZ9B8"
+    "1e0aaa958170f36aaa7569d856addbb7": "AX-VZrmd3Gd358stnhmPbOlPKaR-vWwZFX0k7ZQJEdfhuOK3f86N0N7g5ErgR0sXzp6TpYP3yk-OD-ppbdLbAEx6zufS8f_jZdP5qUz_7F8gISzhb-IIW-A9ZUsmBSMal-UlJ6O0GQeG0tAb8rNKqPNbgA9S1uhTCWqxy4xZ9B8",
+    "5fbc99554a698807e15068397f3b0f5e": "AXSVZrmd3Gd358stnhkDrAnB2CyGYsSaDtyaKFUHQHfp1gXgT5qAb2uSthU8qc77XGIPI73G3sXKFhLxnkNxEffQn58a0KKSpVxP8NL73y-iNoBRYS30he5Qmbki5BlSpkjAf_-dEbsm9QaujmnBhq-qhiu9"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://b5.3ddd.ru/media/gallery_images/66a9b2955a96c.jpeg",
       "https://moscowstateballet.ru/wp-content/uploads/2019/10/bodynews_DSC06853.jpg",
       "https://andcvet.narod.ru/Samara/max/30.jpg",
       "https://kolyshley.pnzreg.ru/authority/upravlenie-finansov/novyy-razdelob-ispolnenii-byudzheta-kolyshleyskogo-rayona-penzenskoy-oblasti-za-2017-god/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D1%85%20%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D1%85.jpg",
@@ -334,10 +334,10 @@
       "https://turclub-pik.ru/crop/1600/720/uploads/routes/covers/7be9efa2cc0e876a64f2fa2c5817d9b4.jpeg.webp",
       "https://vedomostiural.ru/uploadedFiles/newsimages/big/photo_2023-03-09_20-31-17.jpg",
       "https://www.scat-tv.ru/wp-content/uploads/2024/12/Oktyabr-7_Samara-novokujbyshevsk-1.jpeg",
-      "https://sun9-49.vkuserphoto.ru/WXA38jD8aRQaFnEPbY1NWAII9sQI3RaAKuyjNw/3wCuRSl5kw0.jpg"
+      "https://sun9-49.vkuserphoto.ru/WXA38jD8aRQaFnEPbY1NWAII9sQI3RaAKuyjNw/3wCuRSl5kw0.jpg",
+      "https://novvedomosti.ru/images/news/110874-news-image.jpg?1767976761"
     ],
     "hashes": [
-      "6d624a30b615ac492440ac3228e720f3bd15b5a0",
       "d8a227e9661d00ed866981efd5158d6fc17adc66",
       "fa53bca90584d7a42c858fb026cc973fc92b0e87",
       "69984d4e933b289b98a373e78fa1988e6ba7d84e",
@@ -636,7 +636,8 @@
       "7b1271a8a151461909b7894d2e2bcc2da4146bae",
       "9d9db7555d95b03d39faba4fe2074741969b97fd",
       "1a37287628542ae73a830ff0678278070800030e",
-      "6eed84a082c1c1229ec64b9e71ee1c4748bf6d8e"
+      "6eed84a082c1c1229ec64b9e71ee1c4748bf6d8e",
+      "9c82d8b8aaddaa60138513ef70e363bf9bca95ce"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
