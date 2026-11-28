@@ -5,14 +5,14 @@
     "614d4c02f59afc2a9e308d101eacf3e7": "AYCElWa5ndxnd-fLLZ4ZaQZ-ISf67I3uh-lr5UTs3hU60ftPjqy601LyZd_VeYDUJZTacyDkqZQfp3klQcrrM0JhivRjCzSGx35RgTcsKY0jC7-3svy4uk3vyh11Rfsq27IsVJCt52kBHb2ldFRd3-_s3ibaubjXSjEtQ1aZG4E7AYYVQus",
     "0c37809a75206c765dbb6076b4489002": "AYCDlWa5ndxnd-fLLZ4ZyNStJiYAx2BddMQvN_OkfHsVMCJ8kMcOUh6L6pokVGQJ2iHeeDFElN6F2aJvKRceRbIMFgcnS3YuVRw_f79v-0VgSny2eWsVlRFpXmlGxo2wd48fhHkHC27LAKrHpOl4E-mZgO_QoF1K70D7uQMb3l3HTn0ORg",
     "ecfd0d2c9976630a35965c190f97a101": "AYCDlWa5ndxnd-fLLZ4Z0QJSK7sUtaDazx6fhfx6VWstwTVgOiFNoonXiXLOTKDfZcWKxgQ_zUgti2dlWi-gVvp-iJWbth-RtKnCuKtu3ec7PMKE5MfGqB545ylUy8eVv3JEzrFrVEuHaUaJoSyrQwHrkrSkCA1we-iyYFSbnsrUsEEh-Q",
-    "44b5de5552783bdb7977d88ed4a66d93": "AYCBlWa5ndxnd-fLLZ4ZqmH8w6gaJ3Escb_XvCLMrLPxVjHe5qzUhKurT-nLazfUBval3utYlxwVji-_gGLGqpmXGbQ4B3ONxvKefS2vcMbHkeG-5Df8EbUSvdHtu47wPQH1iPCXk4QNaSOLFfue8oKdvOzmdpNsgcpN0lqSdqFrrqA"
+    "44b5de5552783bdb7977d88ed4a66d93": "AYCBlWa5ndxnd-fLLZ4ZqmH8w6gaJ3Escb_XvCLMrLPxVjHe5qzUhKurT-nLazfUBval3utYlxwVji-_gGLGqpmXGbQ4B3ONxvKefS2vcMbHkeG-5Df8EbUSvdHtu47wPQH1iPCXk4QNaSOLFfue8oKdvOzmdpNsgcpN0lqSdqFrrqA",
+    "ed107347791df2c8f97604f9fd8a06b8": "AX-VZrmd3Gd358stnhmmxbVASWT2HXX432ZGeAbHPsndOaWvJGjMAlbINT3JAHwlu5rOQEyW5MFK0sGKxZNJSNQdiAnu3L8GCWqsw_V9g3HmECD4A9f0922wWjb-U9opXUkigl1Z9RA76Ok7eWeaNHG2EVdl8QTHmcPtmlMxLFI"
   },
   "noImage": {},
   "attempts": {},
   "failed": {},
   "usedImages": {
     "urls": [
-      "https://st.volga.news/image/w1300/h900/max/2a61743e-c382-4276-9554-016efaa9f4b3.jpg",
       "https://content.img-gorod.ru/pim/products/images/b8/44/018ed3d4-28fa-7355-ae75-acafc7d1b844.jpg",
       "https://progorod33.ru/userfiles/picfullsize/img-46811-15487652604042.jpg",
       "https://siberia.russia.birding.day/photos/0716/002/07160061701.jpg",
@@ -311,10 +311,10 @@
       "https://cdn.iportal.ru/news/99/preview/d7ac5e8fa4b4956c391102edec357dd703bdb7f4_1000.jpg",
       "https://vestirama.ru/assets/templates/images/photo/d3604f6a4dbf04df8b4d722b43a469af.jpg",
       "https://sun9-79.vkuserphoto.ru/s/v1/ig2/UX67WB-c6cyu9MwVexAeVjD2aaDWIifAgCOfEWmRfnXEqxqkRFIF28OebjICfv6-Ji7ngqdLStcsjjAQH2y0iehL.jpg?quality=95&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,1080x1350,1280x1600,1440x1800,1536x1920&from=bu&cs=1280x0",
-      "https://s.poembook.ru/diary/4e/6a/9d/1b98e5117b98fa68b2e809d0d4b0d7e4a768f148.png"
+      "https://s.poembook.ru/diary/4e/6a/9d/1b98e5117b98fa68b2e809d0d4b0d7e4a768f148.png",
+      "https://haknem.ru/wp-content/uploads/2024/06/migranti-rabotayut-na-sklade.jpg"
     ],
     "hashes": [
-      "7d172b5f5fb16dbfadf86f9951717e5dd50be99b",
       "e4af641561740347245881e2ff700d3241601d72",
       "d9dbf4ab853c816a282aba13ec88fe4b2038ba6d",
       "18c243a0f4d40310fc1d863fee725f81e6afdafc",
@@ -613,7 +613,8 @@
       "63df31c06442f092d9457096110c9f8e4f641706",
       "26f56191d63a40977f3006aa8f05a2517fdc3b32",
       "b997fc171c8a7d188898366601115d452048b876",
-      "98a50e51d2a27298f8048fec17da76e19700dd5b"
+      "98a50e51d2a27298f8048fec17da76e19700dd5b",
+      "5db9e7864876556c25f76eaf46b15d8b11a91c39"
     ]
   },
   "loggedEmptyDate": "2026-11-22"
